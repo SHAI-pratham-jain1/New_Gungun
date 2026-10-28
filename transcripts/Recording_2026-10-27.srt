@@ -1,0 +1,1976 @@
+1
+00:00:00,000 --> 00:00:06,320
+a couple days ago. So please yesterday, so if you don't mind giving a little bit of context that.
+
+2
+00:00:07,360 --> 00:00:12,960
+Sure. So before we jump into the proper conversation, would it be already if we just
+
+3
+00:00:12,960 --> 00:00:18,320
+have a quick round of introductions so that it does not get awkward for you to stand at my face
+
+4
+00:00:18,320 --> 00:00:25,920
+for the upcoming 20-30 minutes? All right, great. So, Himantjit, this side, I look after the entire
+
+5
+00:00:25,920 --> 00:00:32,000
+partnership ecosystem over here at Shortills. Been with the firm for what more than one and a half
+
+6
+00:00:32,000 --> 00:00:38,560
+years at this point of time. Looking after primary and the healthcare and licenses segment for myself.
+
+7
+00:00:40,159 --> 00:00:47,200
+I'm an engineer by learning and so started out as a proper cybersecurity consultant with EY,
+
+8
+00:00:47,200 --> 00:00:52,479
+then transitioned into more of a business consulting role, did that for a couple of years
+
+9
+00:00:52,479 --> 00:00:58,799
+and then jumped into the data and EIS space. So that's where I am. That's here I am. And
+
+10
+00:00:58,799 --> 00:01:03,920
+that's just a very quick round up of myself. Pratham, you want to go next for a very quick intro?
+
+11
+00:01:22,799 --> 00:01:32,400
+Hi, I'm Rajahal, Director of AI Applications here at ICON. I've been at ICON for four years,
+
+12
+00:01:32,400 --> 00:01:38,319
+but most of that time was spent not working primarily in the AI space. That's kind of a
+
+13
+00:01:38,319 --> 00:01:42,719
+new function here. My background is technology and genomics mostly.
+
+14
+00:01:42,719 --> 00:01:53,359
+Hi, everybody. I'm Camille. I report to Richard and part of his AI applications team.
+
+15
+00:01:53,359 --> 00:01:59,920
+I've been a part of the company for about three years and my background is in broader computational
+
+16
+00:01:59,920 --> 00:02:08,080
+biology applications and pipeline. Got it. So Richard, I'll just give you a very quick round
+
+17
+00:02:08,080 --> 00:02:13,840
+up of or an introduction about Shortills as a whole. So we are primarily an agent-to-key services
+
+18
+00:02:13,840 --> 00:02:21,520
+firm, been around for about eight years at this point of time. Our experience in, so we have
+
+19
+00:02:21,520 --> 00:02:29,120
+experience with genomics. We primarily work with agents in the UK working on the pedigree chart,
+
+20
+00:02:29,120 --> 00:02:35,199
+creation, digitization for them. So that went about for a couple of years and this has obviously
+
+21
+00:02:35,360 --> 00:02:40,479
+been rolled out into production for NHS in the Northwest region. That is how we started out
+
+22
+00:02:40,479 --> 00:02:46,639
+with the entire genomics piece. Post-art, we transitioned more into the life sciences segment
+
+23
+00:02:46,639 --> 00:02:52,639
+of the entire stuff. So I believe Pratham reached out to Camille and they got into conversation.
+
+24
+00:02:52,639 --> 00:02:56,719
+I'll give you a brief discussion about what we have been working on behind the scenes.
+
+25
+00:02:57,360 --> 00:03:02,319
+So we asked the organization, we have been focused more on the lines of, hey, what can we really do
+
+26
+00:03:02,960 --> 00:03:07,759
+by leveraging the power of AI, leveraging whatever we have learned over the last couple of years
+
+27
+00:03:07,759 --> 00:03:13,039
+and how we can bring it forward to the life sciences teams. So we started out with one of
+
+28
+00:03:13,039 --> 00:03:18,800
+the core segments that we focused on was for the medical writers. We saw that, hey, it takes quite
+
+29
+00:03:18,800 --> 00:03:24,879
+a long time for a drug to go into production or into actual market and quite a lot of time goes
+
+30
+00:03:24,879 --> 00:03:30,159
+into the trials. And once a trial is completed, then also there is a lot of hurdles that a medical
+
+31
+00:03:30,159 --> 00:03:36,080
+writer has to jump through or the teams have to jump through to ensure that it is the final report,
+
+32
+00:03:36,080 --> 00:03:41,360
+the final ECTD dossier is created in a format that is acceptable for FDA or for EVA.
+
+33
+00:03:42,080 --> 00:03:47,599
+So that is how we started out our journey for life sciences. And what we started was, hey, can we
+
+34
+00:03:47,599 --> 00:03:53,120
+accelerate or create a showcase of what we can really do for the clinical study report writing.
+
+35
+00:03:53,120 --> 00:03:59,039
+The reason for focusing on this particular niche was when we did our own internal study and what
+
+36
+00:03:59,039 --> 00:04:04,960
+the medical writers are taking a lot of time on. We realized that a CSR creation can take anywhere
+
+37
+00:04:04,960 --> 00:04:10,159
+between three to two to three months. And it goes through multiple amendments as well. Each
+
+38
+00:04:10,159 --> 00:04:17,040
+amendment roughly costs up an organization between 100, 240K. So that's just in phase two. When we
+
+39
+00:04:17,040 --> 00:04:20,720
+go into phase three, we are looking at much more revisions, much more of an internal collaboration
+
+40
+00:04:20,720 --> 00:04:26,720
+that needs to happen within teams. So can we reduce that timeline? Can we bring down three months to
+
+41
+00:04:26,720 --> 00:04:33,600
+maybe say within a week with the first draft created within one and a half hour to two hours?
+
+42
+00:04:33,600 --> 00:04:40,000
+So that the remaining say week is spent on fine tuning what has been created,
+
+43
+00:04:40,000 --> 00:04:44,000
+refer the refining the draft and then sharing it within the internal stakeholders for their
+
+44
+00:04:44,000 --> 00:04:49,040
+approvals. So this is the core segment that we focused on. Of course, we have also started
+
+45
+00:04:49,040 --> 00:04:54,000
+developing a couple of other accelerates that can be helped out. For example, in the trial master
+
+46
+00:04:54,319 --> 00:04:59,680
+file that is conducted for when you're looking at pre medical writing, when you're looking at the
+
+47
+00:04:59,680 --> 00:05:06,000
+entire, how a trial is going out. So over there, when we can focus on the trial master files and
+
+48
+00:05:06,000 --> 00:05:11,920
+how it can be accelerated, how we can ensure that whenever an ICF is submitted, it can automatically
+
+49
+00:05:11,920 --> 00:05:19,199
+be interested in the complete DMF and then passed on the internal teams and set up an automatic
+
+50
+00:05:19,279 --> 00:05:24,480
+counter with it to flag anything that happens. Hey, this is probably not Congress with the
+
+51
+00:05:24,480 --> 00:05:29,759
+CTP that you have submitted to me. Just take another look at it. Does that sort of make sense?
+
+52
+00:05:29,759 --> 00:05:33,279
+And do you have any points that you want to understand a little bit more about?
+
+53
+00:05:34,720 --> 00:05:44,560
+Camille, Richard? My question is so in theory, that sounds cool, but what is it that you are
+
+54
+00:05:44,639 --> 00:05:51,600
+actually providing? Is it data connections? Is it agents that, MCP connections to agents that
+
+55
+00:05:51,600 --> 00:05:59,040
+have connections to other data? What is it exactly that you're providing? So I'm primarily a services
+
+56
+00:05:59,040 --> 00:06:05,120
+firm. I'm primarily an agent to case services firm. So what we create is a complete platform for the
+
+57
+00:06:05,120 --> 00:06:10,879
+end customer to bring into their environment. Does that make sense? For example, if you're looking
+
+58
+00:06:10,879 --> 00:06:16,000
+at medical writing in specific, so what will happen is we'll build out the entire platform for
+
+59
+00:06:16,000 --> 00:06:20,160
+you that would be able to ingest documents from your different data sources. So you might be having
+
+60
+00:06:20,160 --> 00:06:27,120
+data in SharePoint or you might be having data in VivaOlder. So bringing in all the data from
+
+61
+00:06:27,120 --> 00:06:32,079
+different locations, you might also be having connectors with SAS for TLS. So bringing in all
+
+62
+00:06:32,079 --> 00:06:37,279
+of the data into a single location, then we're creating agents, the system that we have created,
+
+63
+00:06:38,240 --> 00:06:43,199
+module that we have created to further fine tune that particular module so that it can
+
+64
+00:06:43,199 --> 00:06:49,199
+better serve your requirements. Does that sort of answer your query or did I just confuse you
+
+65
+00:06:49,199 --> 00:06:55,040
+a little bit more? No, that's helpful. So you already have pipelines that will
+
+66
+00:06:56,399 --> 00:07:02,800
+take data from VivaOlder and data from other sources and pipe it into a centralized location.
+
+67
+00:07:03,680 --> 00:07:09,040
+Yeah. And that centralized location is what? Our platform of our choice or
+
+68
+00:07:10,879 --> 00:07:16,399
+something that you can take? I'll take specific examples so that it's a bit more
+
+69
+00:07:16,399 --> 00:07:23,279
+current, relatable for you. So let's say we start working together for CSR agent. So I'll showcase
+
+70
+00:07:23,279 --> 00:07:27,360
+the agent to you. I'll showcase the entire platform to you in a couple of minutes. So what will
+
+71
+00:07:27,360 --> 00:07:31,759
+happen is since my service is from what I'll do is I'll deploy a couple of engineers who will be
+
+72
+00:07:31,759 --> 00:07:37,600
+working alongside you. So maybe Richard can take up the entire model of the project lead
+
+73
+00:07:37,600 --> 00:07:44,240
+and they can work alongside you or within as part of a supporting team for you. So they will set up
+
+74
+00:07:44,240 --> 00:07:49,759
+the entire accelerator that we have created. It will connect. It will be set up in your environment.
+
+75
+00:07:49,759 --> 00:07:54,480
+It would not be in my environment. It would be in your environment. So once that is set up,
+
+76
+00:07:54,480 --> 00:07:59,519
+then it will establish those connectors. So our team will establish those connectors with VivaOlder
+
+77
+00:07:59,600 --> 00:08:06,000
+or with SharePoint or with SAS, bring it onto your storage database. So for example, we are
+
+78
+00:08:06,000 --> 00:08:13,680
+currently using MongoDB for correlating all of the data and we will be using it for vector database.
+
+79
+00:08:13,680 --> 00:08:19,279
+So we'll set that up in your environment and then we'll build the agent or we'll input the
+
+80
+00:08:20,399 --> 00:08:26,399
+accelerator that we have created via GitHub and deploy it into your environment. And then we'll
+
+81
+00:08:26,480 --> 00:08:32,399
+work on fine tuning it so that it is more congruent with what you are expecting at the end of the day.
+
+82
+00:08:32,399 --> 00:08:38,320
+You're the final report that a medical writer working in your organization expects to create.
+
+83
+00:08:38,320 --> 00:08:43,919
+So we'll be working on ensuring that the formatting, the content is congruent with what you are
+
+84
+00:08:43,919 --> 00:08:52,559
+looking to submit. Does that make sense now? I think so. I think probably a demo would make
+
+85
+00:08:52,559 --> 00:08:59,759
+things a little bit more salient. Sure. I'll jump right into it. Richard, any questions from your side?
+
+86
+00:09:00,559 --> 00:09:07,919
+No. All right. Great. So I've created a small check. Let me know once it's visible to you.
+
+87
+00:09:11,759 --> 00:09:15,519
+So I'll just run by a couple of things that we were just discussing right now.
+
+88
+00:09:16,399 --> 00:09:21,120
+So this is just a very quick overview of the different partnerships that we have. So we are
+
+89
+00:09:22,080 --> 00:09:25,840
+partnered up with all of the major hyperskillers. So whether you're looking at data bricks for your
+
+90
+00:09:25,840 --> 00:09:29,840
+data lake house, we are silver tier partners with them, whether you're looking at Microsoft,
+
+91
+00:09:29,840 --> 00:09:36,720
+AWS, Google, we're partnered up with all of the major platforms. So this is the piece that I was
+
+92
+00:09:36,720 --> 00:09:41,519
+talking about. The issues that you are foreseeing or the medical writing teams might be foreseeing
+
+93
+00:09:41,519 --> 00:09:46,639
+or facing right now and how our accelerator can actually bring down the cost and bring down the
+
+94
+00:09:46,639 --> 00:09:55,600
+time to actually bring your drug to market. The first point that I mentioned about, hey,
+
+95
+00:09:55,600 --> 00:09:59,679
+it takes a lot of time to draft up a CSR. We can do it in less than two hours.
+
+96
+00:10:00,000 --> 00:10:03,080
+My actually can do it in less than two hours.
+
+97
+00:10:03,080 --> 00:10:04,919
+When you're looking at costs,
+
+98
+00:10:04,919 --> 00:10:07,440
+the time spent between coordinating for the teams.
+
+99
+00:10:07,440 --> 00:10:11,080
+So you might, your medical writer might create a mock share
+
+100
+00:10:11,080 --> 00:10:14,679
+within a week and then send it or once you,
+
+101
+00:10:14,679 --> 00:10:17,480
+they receive a TLF, then they'll start working on fine tuning
+
+102
+00:10:17,480 --> 00:10:21,399
+the created draft and working on sections 10 to section 16.
+
+103
+00:10:21,399 --> 00:10:23,480
+So what we can do is instead of them spending
+
+104
+00:10:23,480 --> 00:10:26,919
+the remaining time of say one month on just understanding
+
+105
+00:10:26,919 --> 00:10:28,720
+the TLF and then working through it,
+
+106
+00:10:28,720 --> 00:10:31,480
+I can do that within two hours and then the remaining week
+
+107
+00:10:31,480 --> 00:10:34,519
+is available to them to just fine tune
+
+108
+00:10:34,519 --> 00:10:38,159
+what has already been created to further refine the draft
+
+109
+00:10:38,159 --> 00:10:40,360
+and then send it forward to internal teams.
+
+110
+00:10:42,639 --> 00:10:46,360
+This is the couple of things that we have currently leveraged.
+
+111
+00:10:46,360 --> 00:10:48,519
+So you were talking about you were, I believe,
+
+112
+00:10:48,519 --> 00:10:50,240
+a little bit more interested on the platforms
+
+113
+00:10:50,240 --> 00:10:51,600
+that we are working with.
+
+114
+00:10:51,600 --> 00:10:55,559
+So MongoDB is used for the structured databases
+
+115
+00:10:55,559 --> 00:10:58,440
+for complete unstructured databases and vector,
+
+116
+00:10:58,440 --> 00:11:02,519
+the vector databases we are leveraging VVT as of right now.
+
+117
+00:11:02,519 --> 00:11:05,320
+The model, the accelerator that we have created
+
+118
+00:11:05,320 --> 00:11:06,480
+is model agnostic.
+
+119
+00:11:06,480 --> 00:11:10,000
+So you can throw Gemini added, you can throw Lama,
+
+120
+00:11:10,000 --> 00:11:13,519
+not Lama, but this one that you can throw Gemini,
+
+121
+00:11:13,519 --> 00:11:16,399
+you can throw GPT, you can throw Claude added
+
+122
+00:11:16,399 --> 00:11:19,000
+and he'll go as it should.
+
+123
+00:11:19,000 --> 00:11:22,519
+Lama, obviously, since it's being a very much more
+
+124
+00:11:22,519 --> 00:11:25,039
+smaller model as compared to the frontier models
+
+125
+00:11:25,039 --> 00:11:27,240
+would require a little bit more fine tuning.
+
+126
+00:11:27,240 --> 00:11:29,200
+So if you are looking for, hey, I want a non-prem
+
+127
+00:11:29,200 --> 00:11:32,200
+deployment, then we can start considering those models
+
+128
+00:11:32,200 --> 00:11:34,240
+like Lama and Mischief, otherwise,
+
+129
+00:11:34,240 --> 00:11:37,720
+we partner up with all of the major frontier models.
+
+130
+00:11:40,639 --> 00:11:42,039
+Any questions for me so far?
+
+131
+00:11:45,919 --> 00:11:46,759
+Hello?
+
+132
+00:11:48,879 --> 00:11:50,159
+No, I'm good.
+
+133
+00:11:51,519 --> 00:11:53,120
+All right, good.
+
+134
+00:11:53,120 --> 00:11:55,120
+So I won't jump into DMF for now.
+
+135
+00:11:55,200 --> 00:11:57,679
+DMF is just one, another of the platforms
+
+136
+00:11:57,679 --> 00:12:00,279
+that we have been working on behind the scenes.
+
+137
+00:12:01,480 --> 00:12:04,399
+I'll just showcase this video to you.
+
+138
+00:12:04,399 --> 00:12:06,240
+Let me know if it is, you know,
+
+139
+00:12:06,240 --> 00:12:07,480
+if the sound is coming through
+
+140
+00:12:07,480 --> 00:12:09,080
+and if it is properly visible.
+
+141
+00:12:11,159 --> 00:12:12,799
+Creating a clinical.
+
+142
+00:12:12,799 --> 00:12:14,399
+Is the sound coming through?
+
+143
+00:12:14,399 --> 00:12:15,960
+Yes, yes.
+
+144
+00:12:15,960 --> 00:12:17,960
+All right, lovely.
+
+145
+00:12:17,960 --> 00:12:20,960
+Study report manually is a time intensive process.
+
+146
+00:12:20,960 --> 00:12:21,799
+I'll just keep through.
+
+147
+00:12:21,799 --> 00:12:23,879
+Required structs, drafting each section
+
+148
+00:12:24,000 --> 00:12:25,679
+to 12 weeks.
+
+149
+00:12:25,679 --> 00:12:27,600
+That is where our salute CSR
+
+150
+00:12:27,600 --> 00:12:31,120
+by organizing burden on medical writing teams.
+
+151
+00:12:31,120 --> 00:12:33,600
+The user can seamlessly access the dashboard
+
+152
+00:12:33,600 --> 00:12:37,759
+and secure login info with single sign on integration.
+
+153
+00:12:37,759 --> 00:12:39,799
+Once logged in, the dashboard provides
+
+154
+00:12:39,799 --> 00:12:42,919
+a unified view of the ongoing projects.
+
+155
+00:12:42,919 --> 00:12:45,960
+The platform also supports a range of medical documents
+
+156
+00:12:45,960 --> 00:12:51,600
+like CTPs, INDs, NDAs and safety narratives, because.
+
+157
+00:12:51,679 --> 00:12:53,399
+So it just depends on which platform
+
+158
+00:12:53,399 --> 00:12:55,399
+your medical writing teams are more interested in.
+
+159
+00:12:55,399 --> 00:12:59,279
+Are they interested in getting the CSR kicked off right now?
+
+160
+00:12:59,279 --> 00:13:00,960
+For example, you have got a couple of drugs
+
+161
+00:13:00,960 --> 00:13:03,240
+which you have just pushed through into phase three.
+
+162
+00:13:03,240 --> 00:13:05,559
+So you might be looking at creating a CTP for them
+
+163
+00:13:05,559 --> 00:13:06,559
+for phase three.
+
+164
+00:13:06,559 --> 00:13:09,200
+So we might start off with CTP creation for them,
+
+165
+00:13:09,200 --> 00:13:10,200
+or if you're looking at,
+
+166
+00:13:10,200 --> 00:13:12,039
+hey, I want to prepare for the future
+
+167
+00:13:12,039 --> 00:13:13,840
+and I want to future proof myself.
+
+168
+00:13:13,840 --> 00:13:18,320
+So you can also look at CSRs or CTP creation or ICFs,
+
+169
+00:13:18,320 --> 00:13:20,600
+whichever one is much more relevant for you.
+
+170
+00:13:22,399 --> 00:13:24,000
+Documentation takes time
+
+171
+00:13:24,000 --> 00:13:26,639
+and often cannot be created in one go.
+
+172
+00:13:26,639 --> 00:13:28,200
+The system allows medical writers
+
+173
+00:13:28,200 --> 00:13:31,039
+to pause the creation process at any point,
+
+174
+00:13:31,039 --> 00:13:33,639
+save to drafts, and resumes seamlessly
+
+175
+00:13:33,639 --> 00:13:35,200
+as new documents arrive.
+
+176
+00:13:36,200 --> 00:13:38,039
+To effectively gather data,
+
+177
+00:13:38,039 --> 00:13:40,200
+our CSR solution features built in.
+
+178
+00:13:40,200 --> 00:13:42,000
+So this is just one of the snippets of,
+
+179
+00:13:42,000 --> 00:13:45,320
+hey, these are the connectors that I've already created
+
+180
+00:13:45,320 --> 00:13:47,000
+for my accelerator.
+
+181
+00:13:47,000 --> 00:13:49,559
+So OneDrive, SAS,
+
+182
+00:13:49,720 --> 00:13:52,000
+allowing the user to pull source documents
+
+183
+00:13:52,000 --> 00:13:55,600
+directly from their organization's OneDrive, SAS,
+
+184
+00:13:55,600 --> 00:13:58,320
+or FTP servers to query highly.
+
+185
+00:13:58,320 --> 00:13:59,960
+So the reason for this was,
+
+186
+00:13:59,960 --> 00:14:03,320
+SAS seems to be the premium platform,
+
+187
+00:14:03,320 --> 00:14:04,919
+which organizations seem to prefer
+
+188
+00:14:04,919 --> 00:14:07,519
+for getting their TLS out of the loop.
+
+189
+00:14:07,519 --> 00:14:09,240
+So that's why SAS was a focus.
+
+190
+00:14:09,240 --> 00:14:11,679
+And OneDrive being medical writers
+
+191
+00:14:11,679 --> 00:14:14,519
+generally tend to prefer just sharing it
+
+192
+00:14:14,519 --> 00:14:17,240
+within their internal organization via OneDrive.
+
+193
+00:14:17,240 --> 00:14:19,120
+We also heard about certain scenarios
+
+194
+00:14:19,159 --> 00:14:23,399
+where, hey, I have it on my secured file server.
+
+195
+00:14:23,399 --> 00:14:26,600
+So for that as well, we just created this connector.
+
+196
+00:14:26,600 --> 00:14:31,200
+Complex statistical data and TLFs in real time.
+
+197
+00:14:31,200 --> 00:14:33,759
+To start the CSR creation process,
+
+198
+00:14:33,759 --> 00:14:36,240
+the user enters the name of the CSR
+
+199
+00:14:36,240 --> 00:14:37,919
+and provides a brief description
+
+200
+00:14:37,919 --> 00:14:40,320
+to establish the context for generation.
+
+201
+00:14:41,960 --> 00:14:45,559
+Standard regulatory guidelines like ICHE-3
+
+202
+00:14:45,600 --> 00:14:50,360
+and FDA specifications are preloaded as reference anchors.
+
+203
+00:14:50,360 --> 00:14:52,639
+As the user uploads the source documents,
+
+204
+00:14:52,639 --> 00:14:56,200
+the platform's AI system validates them,
+
+205
+00:14:56,200 --> 00:14:59,000
+instantly flagging any incorrect files
+
+206
+00:14:59,000 --> 00:15:01,000
+that might have been uploaded erroneously
+
+207
+00:15:01,000 --> 00:15:04,159
+so that only the right contextual data goes into the report.
+
+208
+00:15:05,200 --> 00:15:07,919
+Next, the user selects the output format,
+
+209
+00:15:07,919 --> 00:15:12,440
+either ICHE-3 CSR or Transcelerate CPT.
+
+210
+00:15:12,440 --> 00:15:15,679
+By default, all 16 sections are selected in line
+
+211
+00:15:15,679 --> 00:15:18,080
+with ICHE-3 guidelines.
+
+212
+00:15:18,080 --> 00:15:19,919
+So some organizations prefer to have
+
+213
+00:15:19,919 --> 00:15:21,840
+a Transcelerate platform as well.
+
+214
+00:15:21,840 --> 00:15:25,720
+So we have built in, hey, we will provide the flexibility
+
+215
+00:15:25,720 --> 00:15:28,360
+for you as per the sections that you want to generate in,
+
+216
+00:15:28,360 --> 00:15:30,840
+but we focused on, hey, let me provide everything
+
+217
+00:15:30,840 --> 00:15:34,480
+in one place so that the pieces can be removed later on
+
+218
+00:15:34,480 --> 00:15:37,120
+as well, but they should be available.
+
+219
+00:15:37,120 --> 00:15:39,639
+The flexibility should be available to the medical writer.
+
+220
+00:15:40,639 --> 00:15:43,519
+While still giving the medical writer the flexibility
+
+221
+00:15:43,519 --> 00:15:47,039
+to remove any sections they do not want to generate.
+
+222
+00:15:47,039 --> 00:15:51,080
+Once configured, the platform uses a multi-agent model
+
+223
+00:15:51,080 --> 00:15:54,159
+to generate multiple sections in parallel,
+
+224
+00:15:54,159 --> 00:15:57,519
+helping accelerate the overall CSR creation process.
+
+225
+00:15:57,519 --> 00:16:00,519
+Some sections, such as the table of contents and references,
+
+226
+00:16:00,519 --> 00:16:02,879
+are generated only after the main content sections
+
+227
+00:16:02,879 --> 00:16:04,279
+are completed.
+
+228
+00:16:04,279 --> 00:16:06,879
+Medical writers can also view live logs
+
+229
+00:16:06,879 --> 00:16:09,600
+showing which sections are being generated.
+
+230
+00:16:09,639 --> 00:16:13,399
+Along with a progress bar that tracks overall completion,
+
+231
+00:16:13,399 --> 00:16:16,639
+as each section is completed, they can open it.
+
+232
+00:16:16,639 --> 00:16:18,879
+So there are two major pieces which we are particularly,
+
+233
+00:16:18,879 --> 00:16:21,679
+you know, really proud of, hey, this is something that is able
+
+234
+00:16:21,679 --> 00:16:23,799
+to provide something that other platforms are not
+
+235
+00:16:23,799 --> 00:16:25,039
+really able to deliver.
+
+236
+00:16:25,039 --> 00:16:29,240
+One was obviously providing a complete end-to-end,
+
+237
+00:16:29,240 --> 00:16:31,519
+a single-click platform for medical writers.
+
+238
+00:16:31,519 --> 00:16:35,240
+The reason being, medical writers are medical professionals.
+
+239
+00:16:35,240 --> 00:16:38,240
+They have been in this industry for the last eight
+
+240
+00:16:38,240 --> 00:16:39,200
+to 10-plus years.
+
+241
+00:16:39,200 --> 00:16:41,000
+They are not prompt engineers.
+
+242
+00:16:41,000 --> 00:16:43,559
+They should not be playing around with different prompts
+
+243
+00:16:43,559 --> 00:16:46,320
+or trying out, hey, maybe this prompt will generate me
+
+244
+00:16:46,320 --> 00:16:50,000
+the final CSR in the right format that I'm looking at.
+
+245
+00:16:50,000 --> 00:16:51,159
+So that was one goal.
+
+246
+00:16:51,159 --> 00:16:53,360
+The other goal was the traceability piece.
+
+247
+00:16:53,360 --> 00:16:55,559
+So while we're working with NHS as well,
+
+248
+00:16:55,559 --> 00:17:00,559
+we realized that healthcare professionals really need
+
+249
+00:17:00,600 --> 00:17:03,759
+to have complete visibility into where the data is really
+
+250
+00:17:03,759 --> 00:17:06,359
+being pulled in from, or how are you pulling in,
+
+251
+00:17:06,359 --> 00:17:10,680
+or which segment was used to create a particular line item
+
+252
+00:17:10,680 --> 00:17:13,279
+that I'm putting into my final report.
+
+253
+00:17:13,279 --> 00:17:14,279
+Use the Generated Content.
+
+254
+00:17:14,279 --> 00:17:15,400
+This is our audit section.
+
+255
+00:17:15,400 --> 00:17:18,079
+We have also added an audit capability
+
+256
+00:17:18,079 --> 00:17:20,799
+that gives medical writers complete visibility
+
+257
+00:17:20,799 --> 00:17:24,240
+into where the generated content has been sourced from,
+
+258
+00:17:24,240 --> 00:17:25,599
+along with pages.
+
+259
+00:17:25,599 --> 00:17:28,559
+So this was one of the earlier pieces that we focused on.
+
+260
+00:17:28,559 --> 00:17:31,359
+Let's just provide a page number visibility.
+
+261
+00:17:31,359 --> 00:17:34,400
+But when we started working together with medical writers
+
+262
+00:17:34,400 --> 00:17:38,319
+and firms, they said, hey, I want to view this
+
+263
+00:17:38,319 --> 00:17:39,160
+over here itself.
+
+264
+00:17:39,160 --> 00:17:43,079
+I want to view where exactly or which report are you referring
+
+265
+00:17:43,079 --> 00:17:45,319
+to, which snippet are you referring to
+
+266
+00:17:45,319 --> 00:17:47,799
+to generate this particular statement?
+
+267
+00:17:47,799 --> 00:17:50,039
+So that is what we did in the revised versions.
+
+268
+00:17:50,039 --> 00:17:51,119
+Number.
+
+269
+00:17:51,119 --> 00:17:54,200
+This makes it easier to review any section in detail
+
+270
+00:17:54,200 --> 00:17:57,480
+and ensures traceability throughout the process.
+
+271
+00:17:57,480 --> 00:17:59,640
+Once all sections are generated,
+
+272
+00:17:59,640 --> 00:18:03,000
+the system consolidates them into a complete clinical study
+
+273
+00:18:03,000 --> 00:18:05,799
+report draft for final review.
+
+274
+00:18:05,799 --> 00:18:08,440
+The review process begins with the medical writer
+
+275
+00:18:08,440 --> 00:18:12,200
+examining the generated CSR section by section.
+
+276
+00:18:12,200 --> 00:18:16,200
+If any updates are needed, they can highlight a specific section
+
+277
+00:18:16,200 --> 00:18:19,599
+and ask the system to regenerate it based on their comment
+
+278
+00:18:19,599 --> 00:18:21,799
+instead of revising it manually.
+
+279
+00:18:21,799 --> 00:18:26,119
+This helps make the review process faster and more efficient.
+
+280
+00:18:26,119 --> 00:18:29,359
+Once the review is complete, sections can then be assigned
+
+281
+00:18:29,359 --> 00:18:33,680
+to other teams, such as biostatisticians or QC,
+
+282
+00:18:33,680 --> 00:18:36,240
+for further review through the dashboard.
+
+283
+00:18:36,240 --> 00:18:38,480
+With our AI-powered CSR.
+
+284
+00:18:38,480 --> 00:18:42,839
+So this is just a very quick roundup of CSR.
+
+285
+00:18:42,839 --> 00:18:45,400
+I am primarily an agent decays services firm.
+
+286
+00:18:45,400 --> 00:18:48,200
+I understand about AI and deal with it.
+
+287
+00:18:48,200 --> 00:18:50,640
+This is just a showcase of the capabilities
+
+288
+00:18:50,640 --> 00:18:52,799
+that we have been working on behind the scenes
+
+289
+00:18:52,799 --> 00:18:54,799
+and what we can really do.
+
+290
+00:18:54,799 --> 00:18:56,799
+And this is what I wanted to showcase.
+
+291
+00:18:57,240 --> 00:19:00,319
+This is just one of the accelerators that we are working on.
+
+292
+00:19:00,319 --> 00:19:03,119
+And this is what we have created.
+
+293
+00:19:03,119 --> 00:19:04,240
+Let me know your thoughts.
+
+294
+00:19:04,240 --> 00:19:05,920
+I prefer honest feedback.
+
+295
+00:19:05,920 --> 00:19:07,359
+This sounds interesting.
+
+296
+00:19:07,359 --> 00:19:09,680
+We are already working on this behind the scenes,
+
+297
+00:19:09,680 --> 00:19:10,960
+something like that.
+
+298
+00:19:10,960 --> 00:19:11,960
+How does that sound?
+
+299
+00:19:14,799 --> 00:19:16,559
+Did I lose people?
+
+300
+00:19:16,559 --> 00:19:18,599
+No, not at all.
+
+301
+00:19:18,599 --> 00:19:21,799
+Rich, do you want to go for it?
+
+302
+00:19:21,799 --> 00:19:23,440
+I mean, it looks interesting.
+
+303
+00:19:23,440 --> 00:19:25,359
+I think I don't understand enough
+
+304
+00:19:25,359 --> 00:19:29,200
+about our clinical writing team's requirements
+
+305
+00:19:29,200 --> 00:19:31,680
+to know whether, like, how this fits
+
+306
+00:19:31,680 --> 00:19:34,079
+with what they're thinking about.
+
+307
+00:19:34,079 --> 00:19:37,200
+I know that I was involved with some evaluation
+
+308
+00:19:37,200 --> 00:19:43,759
+of some agentic solutions for the clinical writing team.
+
+309
+00:19:43,759 --> 00:19:46,720
+A while ago now, and none of them really
+
+310
+00:19:46,720 --> 00:19:49,160
+met requirements at that time.
+
+311
+00:19:49,160 --> 00:19:52,559
+I think it is probably something that we would be revisiting,
+
+312
+00:19:52,599 --> 00:19:55,599
+given the improvements in a lot of the models.
+
+313
+00:19:55,599 --> 00:19:59,519
+I think there's more confidence that it is going to add value.
+
+314
+00:20:00,000 --> 00:20:02,359
+and help with those workflows, but it's not something
+
+315
+00:20:02,359 --> 00:20:03,559
+that can really comment on at the moment
+
+316
+00:20:03,559 --> 00:20:04,640
+because I don't understand anything
+
+317
+00:20:04,640 --> 00:20:05,839
+about their requirements.
+
+318
+00:20:08,960 --> 00:20:11,960
+My, I have a little, I have a bit more touch points
+
+319
+00:20:11,960 --> 00:20:13,480
+with the clinical side of the company.
+
+320
+00:20:13,480 --> 00:20:18,480
+And I will say that this seems like a very well thought out
+
+321
+00:20:18,960 --> 00:20:23,240
+solution for an AI forward team.
+
+322
+00:20:23,240 --> 00:20:26,640
+However, I think what I did not see in that demo
+
+323
+00:20:26,640 --> 00:20:31,279
+that I think would be critical to the icon team trying it
+
+324
+00:20:31,279 --> 00:20:35,079
+is the ability for manual work to be integrated.
+
+325
+00:20:38,160 --> 00:20:43,160
+So yeah, if I'd have missed it, but the,
+
+326
+00:20:48,720 --> 00:20:52,759
+this might be something that we could work towards.
+
+327
+00:20:52,759 --> 00:20:55,519
+I mean, I see the value, I see how helpful it would be.
+
+328
+00:20:55,519 --> 00:20:58,319
+And especially with the amount of like jogging between,
+
+329
+00:20:58,319 --> 00:21:02,079
+or juggling between work, hot potato of the document
+
+330
+00:21:02,079 --> 00:21:06,240
+and the filing from one team to another.
+
+331
+00:21:06,240 --> 00:21:07,720
+I could see this being very helpful,
+
+332
+00:21:07,720 --> 00:21:11,920
+but it would require the entire clinical team to adopt
+
+333
+00:21:11,920 --> 00:21:14,039
+in order for it to be used effectively.
+
+334
+00:21:15,880 --> 00:21:17,799
+And it's not, I don't think that this is something
+
+335
+00:21:17,799 --> 00:21:20,960
+that is like a short-term goal at the moment.
+
+336
+00:21:21,000 --> 00:21:26,000
+It's not something that I could see possible.
+
+337
+00:21:26,440 --> 00:21:29,960
+However, if you don't mind sharing your deck
+
+338
+00:21:29,960 --> 00:21:33,039
+or at least that video, I think it would be really nice
+
+339
+00:21:33,039 --> 00:21:37,079
+to popularize this idea and show the potential
+
+340
+00:21:39,119 --> 00:21:42,279
+of some kind of a centralized system.
+
+341
+00:21:44,880 --> 00:21:47,299
+Yeah, that is, those are my two cents.
+
+342
+00:21:48,299 --> 00:21:49,140
+Got it.
+
+343
+00:21:49,980 --> 00:21:52,539
+So Kamil, if you don't mind me asking,
+
+344
+00:21:52,539 --> 00:21:55,220
+see this is just one of the accelerators
+
+345
+00:21:55,220 --> 00:21:56,579
+that we have been working on behind the scenes.
+
+346
+00:21:56,579 --> 00:22:01,579
+I'm not, you know, product from that just works
+
+347
+00:22:01,940 --> 00:22:03,940
+on just one platform and just takes it forward.
+
+348
+00:22:03,940 --> 00:22:05,180
+I'm much more of a services firm
+
+349
+00:22:05,180 --> 00:22:08,019
+that creates custom solutions for the customers.
+
+350
+00:22:08,019 --> 00:22:10,579
+So if you're comfortable with sharing it,
+
+351
+00:22:10,579 --> 00:22:12,579
+are you also developing, you know,
+
+352
+00:22:12,579 --> 00:22:14,980
+certain accelerators within your organization
+
+353
+00:22:14,980 --> 00:22:16,579
+which you are undertaking?
+
+354
+00:22:16,579 --> 00:22:18,140
+For example, I'll tell you,
+
+355
+00:22:18,140 --> 00:22:20,500
+when we were creating this platform,
+
+356
+00:22:20,500 --> 00:22:22,660
+we faced a lot of issues.
+
+357
+00:22:22,660 --> 00:22:25,460
+One of them being, hey, it's difficult to connect
+
+358
+00:22:25,460 --> 00:22:26,779
+with different data sources pulling
+
+359
+00:22:26,779 --> 00:22:28,059
+into relevant information.
+
+360
+00:22:28,059 --> 00:22:29,619
+Obviously with improvements in AI,
+
+361
+00:22:29,619 --> 00:22:31,900
+it became a little bit more easier.
+
+362
+00:22:31,900 --> 00:22:33,259
+Then the next problem came in,
+
+363
+00:22:33,259 --> 00:22:35,059
+and AI tends to hallucinate a lot.
+
+364
+00:22:36,859 --> 00:22:39,660
+When you're throwing large volume of data at it,
+
+365
+00:22:39,660 --> 00:22:40,940
+for example, when you're looking at TNS,
+
+366
+00:22:40,940 --> 00:22:44,940
+they can be anywhere from 5,000 to 10,000 to 25,000 pages.
+
+367
+00:22:45,059 --> 00:22:46,980
+When you throw such a massive data at it,
+
+368
+00:22:46,980 --> 00:22:50,099
+it just destroys the context window.
+
+369
+00:22:50,099 --> 00:22:52,339
+And you know, you have to start working on it again.
+
+370
+00:22:52,339 --> 00:22:54,299
+That's how you went forward with vector database
+
+371
+00:22:54,299 --> 00:22:57,299
+is just to ensure that everything actually can trace back
+
+372
+00:22:57,299 --> 00:23:01,019
+and the disabilities and other problems that comes in.
+
+373
+00:23:01,019 --> 00:23:02,220
+So have you been also, you know,
+
+374
+00:23:02,220 --> 00:23:03,779
+experimenting with certain things
+
+375
+00:23:03,779 --> 00:23:06,299
+and, you know, developing certain things?
+
+376
+00:23:06,299 --> 00:23:07,500
+Or if you're, obviously,
+
+377
+00:23:07,500 --> 00:23:09,299
+if you're comfortable with sharing that.
+
+378
+00:23:10,579 --> 00:23:12,900
+I can share that there is a lot of interest
+
+379
+00:23:12,900 --> 00:23:16,140
+in AI development and ways to accelerate
+
+380
+00:23:16,140 --> 00:23:18,180
+all parts of the company with AI.
+
+381
+00:23:18,180 --> 00:23:22,180
+Absolutely, using various methods and techniques
+
+382
+00:23:22,180 --> 00:23:27,180
+and things that are a mishmash of ways to do things.
+
+383
+00:23:27,420 --> 00:23:30,539
+There is no one way to do anything at the moment, right?
+
+384
+00:23:30,539 --> 00:23:33,380
+So I'm willing to share, yes,
+
+385
+00:23:33,380 --> 00:23:37,019
+there's lots of development in all parts of the company
+
+386
+00:23:37,019 --> 00:23:40,339
+on ways to streamline work, consolidate work,
+
+387
+00:23:41,339 --> 00:23:42,859
+accelerate work.
+
+388
+00:23:42,859 --> 00:23:46,140
+So I mean, I think that's about as much as I can say
+
+389
+00:23:46,140 --> 00:23:46,980
+at the moment.
+
+390
+00:23:47,740 --> 00:23:50,259
+How did you get around the entire issue of,
+
+391
+00:23:50,259 --> 00:23:52,859
+see, we had started working together
+
+392
+00:23:52,859 --> 00:23:55,900
+with a couple of other life sciences organizations.
+
+393
+00:23:55,900 --> 00:23:57,700
+And when we were starting out,
+
+394
+00:23:57,700 --> 00:23:59,259
+the first challenge that we faced was,
+
+395
+00:23:59,259 --> 00:24:03,019
+hey, I don't want to let any of my data go out
+
+396
+00:24:03,019 --> 00:24:04,700
+to any AI model.
+
+397
+00:24:04,700 --> 00:24:07,180
+That was one of the fundamental challenges that we faced.
+
+398
+00:24:07,180 --> 00:24:09,779
+And that was very complicated to,
+
+399
+00:24:10,779 --> 00:24:13,140
+hey, we have agreements with Claude in place.
+
+400
+00:24:13,140 --> 00:24:15,099
+We have agreements with GPT in place.
+
+401
+00:24:15,099 --> 00:24:19,299
+They offered this specific module that you can go through.
+
+402
+00:24:19,299 --> 00:24:20,579
+Just in jumping through,
+
+403
+00:24:20,579 --> 00:24:22,980
+hey, that was one of the biggest troops
+
+404
+00:24:22,980 --> 00:24:24,940
+that we had to cross through.
+
+405
+00:24:24,940 --> 00:24:26,619
+Was that a similar journey for you guys
+
+406
+00:24:26,619 --> 00:24:28,700
+or a little bit more smoother sailing?
+
+407
+00:24:28,700 --> 00:24:31,220
+You were able to convince the internal teams.
+
+408
+00:24:31,220 --> 00:24:35,140
+110% and it's still a struggle.
+
+409
+00:24:36,140 --> 00:24:40,539
+But, trust in these companies is very low.
+
+410
+00:24:41,539 --> 00:24:42,579
+That is true.
+
+411
+00:24:43,180 --> 00:24:44,019
+Especially.
+
+412
+00:24:45,019 --> 00:24:50,019
+But also peer pressure and seeing the capabilities
+
+413
+00:24:52,859 --> 00:24:57,579
+that are being done and accomplished,
+
+414
+00:24:57,579 --> 00:24:59,779
+not just externally, but internally,
+
+415
+00:24:59,779 --> 00:25:03,779
+is also a nice pressure to let people
+
+416
+00:25:04,700 --> 00:25:05,940
+have some faith.
+
+417
+00:25:06,940 --> 00:25:11,380
+Ultimately, it's faith that people need to build and trust
+
+418
+00:25:11,380 --> 00:25:13,299
+and also risk.
+
+419
+00:25:13,299 --> 00:25:18,299
+So, yeah, it's very much a psychological game,
+
+420
+00:25:19,140 --> 00:25:22,619
+as much as it is a technical advance.
+
+421
+00:25:22,619 --> 00:25:25,779
+It also takes some empathy
+
+422
+00:25:25,779 --> 00:25:29,779
+to kind of get these systems under control or enacted.
+
+423
+00:25:30,779 --> 00:25:33,779
+Yeah, I think we have a good legal team
+
+424
+00:25:33,779 --> 00:25:35,500
+that is always open to discussion
+
+425
+00:25:35,500 --> 00:25:38,299
+and we kind of treat it on a case-by-case basis.
+
+426
+00:25:39,660 --> 00:25:40,500
+Yeah.
+
+427
+00:25:40,500 --> 00:25:42,259
+So, you have got a good legal team then.
+
+428
+00:25:42,259 --> 00:25:43,900
+I mean, if they're so proactive.
+
+429
+00:25:44,900 --> 00:25:47,099
+The legal team has been awesome.
+
+430
+00:25:47,099 --> 00:25:47,940
+Yeah.
+
+431
+00:25:50,500 --> 00:25:52,299
+You are the first team that I've met
+
+432
+00:25:52,299 --> 00:25:54,099
+that says, hey, I have a good legal team.
+
+433
+00:25:54,099 --> 00:25:55,900
+Otherwise, I'll be right.
+
+434
+00:25:56,900 --> 00:25:59,220
+I don't buy legal team takes a lot of time
+
+435
+00:25:59,220 --> 00:26:00,900
+for me to get my agreements through.
+
+436
+00:26:02,660 --> 00:26:03,500
+Well, yeah.
+
+437
+00:26:03,500 --> 00:26:06,059
+The first one is at least that I have a good legal team.
+
+438
+00:26:06,059 --> 00:26:06,900
+Good.
+
+439
+00:26:06,900 --> 00:26:10,500
+I mean, congratulations, it is all I can say.
+
+440
+00:26:11,500 --> 00:26:12,859
+Thank you.
+
+441
+00:26:12,859 --> 00:26:14,539
+But if you don't mind sharing the deck,
+
+442
+00:26:14,539 --> 00:26:16,779
+that would be very helpful.
+
+443
+00:26:16,779 --> 00:26:20,619
+And especially as we're thinking forward
+
+444
+00:26:20,619 --> 00:26:23,099
+to AI solutions, especially in the clinical space,
+
+445
+00:26:23,099 --> 00:26:25,099
+I'd like to keep you in mind.
+
+446
+00:26:25,619 --> 00:26:28,539
+Especially now that I'd like to,
+
+447
+00:26:28,539 --> 00:26:30,099
+if you could send anything over as well,
+
+448
+00:26:30,099 --> 00:26:32,460
+it gives me a little bit more of a broader menu
+
+449
+00:26:32,460 --> 00:26:35,940
+from like fully deployed platform, deployed platform
+
+450
+00:26:35,940 --> 00:26:39,059
+to individual solutions.
+
+451
+00:26:39,059 --> 00:26:41,859
+I think it'd be nice to see that spectrum
+
+452
+00:26:41,859 --> 00:26:43,819
+because there is a lot of development happening
+
+453
+00:26:43,819 --> 00:26:46,299
+and things are happening quickly.
+
+454
+00:26:46,299 --> 00:26:49,539
+So, whenever you get a chance, send that over.
+
+455
+00:26:51,779 --> 00:26:54,740
+I'm sorry, I'm facing a little bit of a network issue
+
+456
+00:26:54,940 --> 00:26:57,019
+where could you just repeat that for me?
+
+457
+00:26:57,019 --> 00:26:57,859
+I'm sorry.
+
+458
+00:26:57,859 --> 00:27:01,940
+I asked if you could send some of the,
+
+459
+00:27:01,940 --> 00:27:06,619
+send basically a menu of the services that you could be,
+
+460
+00:27:08,099 --> 00:27:09,900
+that you have available,
+
+461
+00:27:09,900 --> 00:27:12,299
+all the way from individual solutions
+
+462
+00:27:12,299 --> 00:27:14,980
+to the fully deployed platform.
+
+463
+00:27:14,980 --> 00:27:19,259
+And that for us would be helpful in thinking about
+
+464
+00:27:19,259 --> 00:27:22,740
+how AI is being developed in the clinical space.
+
+465
+00:27:23,740 --> 00:27:25,660
+God, sure, we'll do that.
+
+466
+00:27:25,660 --> 00:27:28,180
+At the end of the day, I just want you to remember
+
+467
+00:27:28,180 --> 00:27:31,220
+that I have not a product from some of the facilities
+
+468
+00:27:31,220 --> 00:27:33,059
+that I have created to showcase,
+
+469
+00:27:33,059 --> 00:27:34,660
+say, this is what we can do.
+
+470
+00:27:34,660 --> 00:27:36,660
+Obviously, it depends on your requirement as well.
+
+471
+00:27:36,660 --> 00:27:38,059
+If you're thinking of, hey,
+
+472
+00:27:38,059 --> 00:27:39,660
+can you build out a different platform
+
+473
+00:27:39,660 --> 00:27:42,740
+that is able to address that particular need?
+
+474
+00:27:42,740 --> 00:27:46,299
+Then we can obviously have a conversation about that as well.
+
+475
+00:27:46,299 --> 00:27:47,579
+Hope that makes sense.
+
+476
+00:27:47,579 --> 00:27:48,819
+Yeah, absolutely.
+
+477
+00:27:50,180 --> 00:27:51,019
+All right, cool.
+
+478
+00:27:51,019 --> 00:27:51,859
+That came across.
+
+479
+00:27:52,220 --> 00:27:53,059
+Let me just,
+
+480
+00:27:55,059 --> 00:27:58,900
+no, I'll just leave it at that.
+
+481
+00:27:58,900 --> 00:28:00,900
+I'm a little bit bad at that,
+
+482
+00:28:00,900 --> 00:28:02,859
+not putting out at the complete point
+
+483
+00:28:02,859 --> 00:28:03,700
+so that in the,
+
+484
+00:28:08,059 --> 00:28:10,180
+and I do tend to ramble on as well.
+
+485
+00:28:10,180 --> 00:28:13,059
+So you can just say, hey, stop him
+
+486
+00:28:13,059 --> 00:28:14,700
+or you're just going too far.
+
+487
+00:28:15,980 --> 00:28:17,220
+No worries, I think we're good though.
+
+488
+00:28:17,220 --> 00:28:18,660
+I have to jump to another meeting.
+
+489
+00:28:18,660 --> 00:28:21,740
+So please email whenever you get a chance
+
+490
+00:28:21,740 --> 00:28:23,019
+and we will be in touch.
+
+491
+00:28:24,700 --> 00:28:25,660
+Sure, sounds good.
+
+492
+00:28:25,660 --> 00:28:26,500
+Thank you so much.
+
+493
+00:28:26,500 --> 00:28:27,579
+All right, thanks a lot.
+
+494
+00:28:27,579 --> 00:28:28,420
+Okay, bye.
+
