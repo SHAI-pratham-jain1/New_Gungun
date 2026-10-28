@@ -1,0 +1,728 @@
+1
+00:00:00,000 --> 00:00:02,000
+Luckily it worked.
+
+2
+00:00:04,000 --> 00:00:06,000
+Glad you could join us and I hear this.
+
+3
+00:00:10,720 --> 00:00:12,720
+Your voice is breaking though.
+
+4
+00:00:15,759 --> 00:00:19,600
+Okay, let's... I was thinking it's me again.
+
+5
+00:00:30,000 --> 00:00:32,000
+I'm sorry.
+
+6
+00:00:40,000 --> 00:00:42,000
+He's frozen.
+
+7
+00:00:44,000 --> 00:00:46,000
+I can hear you now.
+
+8
+00:00:48,000 --> 00:00:52,000
+I was just saying it's gotten a little bit chilly over there.
+
+9
+00:00:52,000 --> 00:00:54,000
+In the States?
+
+10
+00:00:54,000 --> 00:00:56,000
+In the States a little bit.
+
+11
+00:00:56,000 --> 00:00:58,000
+I'm enjoying it here.
+
+12
+00:00:58,000 --> 00:01:02,000
+I'm simply moved from Canada so I am loving the weather.
+
+13
+00:01:02,000 --> 00:01:06,000
+It's hot here as compared to Canada I would say.
+
+14
+00:01:06,000 --> 00:01:08,000
+Yeah.
+
+15
+00:01:08,000 --> 00:01:14,000
+I would not say 10 or 12 degrees is hot but well...
+
+16
+00:01:14,000 --> 00:01:18,000
+You compared it to Canada so you feel it hot.
+
+17
+00:01:18,000 --> 00:01:20,000
+Yeah.
+
+18
+00:01:20,000 --> 00:01:22,000
+So what happens is it's the wind that makes the difference.
+
+19
+00:01:22,000 --> 00:01:26,000
+So if you see the temperature might be 15 but in Canada it will be feels like minus 9.
+
+20
+00:01:26,000 --> 00:01:30,000
+Not 15 but not when it's 15 but it will be feels like 9.
+
+21
+00:01:30,000 --> 00:01:32,000
+The wind makes it cooler.
+
+22
+00:01:32,000 --> 00:01:34,000
+And when it's here it's 15.
+
+23
+00:01:34,000 --> 00:01:36,000
+It feels like 18.
+
+24
+00:01:36,000 --> 00:01:38,000
+So that's what is the killer.
+
+25
+00:01:38,000 --> 00:01:40,000
+Yeah.
+
+26
+00:01:40,000 --> 00:01:42,000
+Okay.
+
+27
+00:01:42,000 --> 00:01:44,000
+Yeah.
+
+28
+00:01:44,000 --> 00:01:46,000
+All right. Well then you're enjoying the lovely weather right now.
+
+29
+00:01:46,000 --> 00:01:50,000
+Generally I consider this time of the period of the year to be comfortable.
+
+30
+00:01:50,000 --> 00:01:52,000
+Not too cold. Not too hot.
+
+31
+00:01:52,000 --> 00:01:54,000
+Kind of like a good place to be.
+
+32
+00:01:54,000 --> 00:01:56,000
+True. Yeah.
+
+33
+00:01:56,000 --> 00:01:58,000
+Yeah.
+
+34
+00:01:58,000 --> 00:02:00,000
+All right.
+
+35
+00:02:00,000 --> 00:02:02,000
+Well let's hope you continue to enjoy the weather
+
+36
+00:02:02,000 --> 00:02:06,000
+on coming week and let's get down to discuss.
+
+37
+00:02:06,000 --> 00:02:08,000
+Yeah.
+
+38
+00:02:08,000 --> 00:02:22,000
+So previously we had discussed what we had showcased the platform to you and just wanted to understand how we can work together and what is the way forward that you are visualizing and how we can take this discussion.
+
+39
+00:02:22,000 --> 00:02:24,000
+Yeah.
+
+40
+00:02:24,000 --> 00:02:32,000
+So my question to you guys was are you guys expanding and I am seeing that you guys are mostly into it and making these tools.
+
+41
+00:02:32,000 --> 00:02:34,000
+Right.
+
+42
+00:02:34,000 --> 00:02:40,000
+But I did see the name of the person who joined in the last call.
+
+43
+00:02:40,000 --> 00:02:42,000
+She belongs to life sciences background.
+
+44
+00:02:42,000 --> 00:02:44,000
+Right.
+
+45
+00:02:44,000 --> 00:02:50,000
+So what was coming to my mind is I am planning to make a video about the future of the world.
+
+46
+00:02:50,000 --> 00:02:54,000
+And what I'm trying to find is I am planning to make a move.
+
+47
+00:02:54,000 --> 00:03:04,000
+So how about you know thinking along those lines and since I am unable to share you know most of the things right now and AI is the future.
+
+48
+00:03:04,000 --> 00:03:06,000
+Right.
+
+49
+00:03:06,000 --> 00:03:16,000
+So and you guys are doing an amazing job and since I am thinking along those lines I wanted to talk you know what's the future like and how does that work for you guys are.
+
+50
+00:03:16,000 --> 00:03:24,000
+So I am mostly my pharma background and I am mostly coming from you know writing background and I am leading studies here.
+
+51
+00:03:24,000 --> 00:03:30,000
+So how does that work for you guys is that even an option or just wanted to talk along those lines.
+
+52
+00:03:30,000 --> 00:03:32,000
+Yeah.
+
+53
+00:03:32,000 --> 00:03:44,000
+So for me I'll tell you so we all really have life sciences individuals in the firm we have also brought in a couple of consultants who are working together with us for the solution development and taking it to the market.
+
+54
+00:03:44,000 --> 00:03:50,000
+So we have a joint go to market strategy that we are pushing it forward to them.
+
+55
+00:03:50,000 --> 00:04:04,000
+So we are working together with them to iterate on the accelerated that we have created further refinement you know pump it full of data that we can find out and try and see how it reacts.
+
+56
+00:04:04,000 --> 00:04:13,000
+For example, we started out with why do you know in the development phase we were putting in roughly about 1000 pages of TLFs and it was running perfectly.
+
+57
+00:04:13,000 --> 00:04:17,000
+So we had about 5000 pages TLF just to test out the stress testing.
+
+58
+00:04:17,000 --> 00:04:28,000
+Then obviously there were some issues which we had to resolve identify those issues and how it can overcome and a little bit of revision at the back end.
+
+59
+00:04:28,000 --> 00:04:32,000
+Now it is able to support whatever sites of documents that you throw at it.
+
+60
+00:04:32,000 --> 00:04:40,000
+And we are primarily looking at you know medical writing and how it can how we can help those medical writers.
+
+61
+00:04:40,000 --> 00:04:50,000
+So it is not necessarily in the field of you know just CSR creation but in general for example when you are thinking of creating a CTP or INDs or what not.
+
+62
+00:04:50,000 --> 00:04:59,000
+The thing that we are seeing right now is you can do or help out in a lot of those tasks.
+
+63
+00:04:59,000 --> 00:05:01,000
+Right.
+
+64
+00:05:01,000 --> 00:05:05,000
+And you would have been exploring yourself as well.
+
+65
+00:05:05,000 --> 00:05:11,000
+So FIBGSK is already using or they have brought in their own platform but there are some issues over there.
+
+66
+00:05:11,000 --> 00:05:13,000
+So that's what we want to do.
+
+67
+00:05:13,000 --> 00:05:20,000
+Yeah we have multiple platforms here that we are working on so what works what doesn't work we are working on those things.
+
+68
+00:05:20,000 --> 00:05:22,000
+Got it.
+
+69
+00:05:22,000 --> 00:05:35,000
+So as of right now I am not looking for a consultant on boarding per se but if there is an opportunity where we you know I am primarily a services business.
+
+70
+00:05:35,000 --> 00:05:37,000
+I am involved.
+
+71
+00:05:37,000 --> 00:05:40,000
+I do know about medical writing much more better than I do.
+
+72
+00:05:40,000 --> 00:05:42,000
+But I know about AI.
+
+73
+00:05:42,000 --> 00:05:47,000
+Of course I don't want to say a lot better than you but I know a fair bit about AI.
+
+74
+00:05:47,000 --> 00:05:56,000
+So we have been in this business for the last eight years and we know about how to handle AI how to ensure that there is proper governance and traceability over there and auditability.
+
+75
+00:05:56,000 --> 00:06:04,000
+So if there is an option so since you are looking to switch up your careers and you are looking to transition to a different route.
+
+76
+00:06:04,000 --> 00:06:07,000
+I visualise it in three ways.
+
+77
+00:06:07,000 --> 00:06:11,000
+Let me know what you know how you are thinking about it.
+
+78
+00:06:11,000 --> 00:06:20,000
+First one is if you could introduce me into GSQF we take some conversation forward in that route that is route number one.
+
+79
+00:06:20,000 --> 00:06:28,000
+Route number two is whenever you decide to go into or whenever you decide to join a new organisation or if you decide to go out on your own.
+
+80
+00:06:28,000 --> 00:06:33,000
+That is the point we can be brought in as the services implementation partners.
+
+81
+00:06:33,000 --> 00:06:43,000
+And the third route is you identify or you are having conversations within yourselves and having conversations with a couple of other firms.
+
+82
+00:06:43,000 --> 00:06:52,000
+In that scenario you identify that we might be able to have a joint sale over there or a joint deployment activity over there.
+
+83
+00:06:52,000 --> 00:07:02,000
+So in that scenario what will happen is I will build them for the implementation piece and from within that piece I will pay you as a referral bonus.
+
+84
+00:07:02,000 --> 00:07:07,000
+Since you took me forward to that customer you were instrumental in closing that deal.
+
+85
+00:07:07,000 --> 00:07:17,000
+In that scenario we will be willing to fork over a referral bonus or depending on the total contract value to individuals such as yourself.
+
+86
+00:07:17,000 --> 00:07:19,000
+Does that make sense?
+
+87
+00:07:19,000 --> 00:07:20,000
+It does.
+
+88
+00:07:20,000 --> 00:07:31,000
+Yeah right now what was on my mind is switching roles and looking out more so along AI and these things because I am working on these things in GSK as well.
+
+89
+00:07:31,000 --> 00:07:36,000
+And I was talking to you guys so I just felt that why not talk along those lines.
+
+90
+00:07:36,000 --> 00:07:44,000
+But I completely understand and I will think in more detail about the three options that you just presented.
+
+91
+00:07:44,000 --> 00:07:48,000
+Yeah I will have to think.
+
+92
+00:07:49,000 --> 00:07:56,000
+I hope I was able to shed some light and I don't give you a floor on it but I just prefer to have a frank conversation.
+
+93
+00:07:56,000 --> 00:08:02,000
+This is how I am describing these aspects rather than stringing you along or telling you about the principle.
+
+94
+00:08:02,000 --> 00:08:05,000
+I just prefer to have a very straightforward conversation.
+
+95
+00:08:05,000 --> 00:08:06,000
+Definitely.
+
+96
+00:08:06,000 --> 00:08:16,000
+So are you guys planning to expand on various documents or is it right now for the coming few months maybe or for you want to pilot with the CSR first
+
+97
+00:08:16,000 --> 00:08:22,000
+and then go expand on documents like what's the approach what's the path you're seeing.
+
+98
+00:08:22,000 --> 00:08:28,000
+So the path forward is showcase the capability.
+
+99
+00:08:28,000 --> 00:08:33,000
+Since CSR is just one of the platforms that I have created to showcase this is what I can do.
+
+100
+00:08:33,000 --> 00:08:38,000
+I have also created CTPs, I have created INDs, ICFs and all.
+
+101
+00:08:38,000 --> 00:08:40,000
+So I have created them as part of a showcase.
+
+102
+00:08:40,000 --> 00:08:44,000
+This is what I can do and this is what I can bring forward to you as an organization.
+
+103
+00:08:44,000 --> 00:08:54,000
+The end goal obviously is to have the entire platform, the entire module one to module five, the entire ECTD dossier built out within the platform itself, within the accelerator.
+
+104
+00:08:54,000 --> 00:09:07,000
+And if a company is more interested in say I'm not looking at ECTD dossier acceleration, I'm looking at more of say pharmacovigilance documentation, PSUS, DSUS.
+
+105
+00:09:07,000 --> 00:09:14,000
+If you're looking along those lines, hey, we can start working on those particular pieces and then try and see how we can expand out.
+
+106
+00:09:14,000 --> 00:09:24,000
+Okay, so you want to firstly start off with something that you have in your hand and see how the results are then eventually expand based on the need, right?
+
+107
+00:09:24,000 --> 00:09:25,000
+That makes sense.
+
+108
+00:09:25,000 --> 00:09:32,000
+Yeah, so see the end of the day, the other customer also needs to have a requirement in that.
+
+109
+00:09:32,000 --> 00:09:33,000
+Value.
+
+110
+00:09:33,000 --> 00:09:39,000
+It should not, yeah, he needs to see the end goal, the end value in what we are providing.
+
+111
+00:09:39,000 --> 00:09:42,000
+If it is not provided, then it would not make sense for them.
+
+112
+00:09:42,000 --> 00:09:45,000
+Definitely, no, that sounds like a plan.
+
+113
+00:09:45,000 --> 00:09:52,000
+Yeah, so that's why we were thinking of starting off with CSRs, showcasing, hey, this is what we can do and what we bring to the table.
+
+114
+00:09:52,000 --> 00:09:55,000
+This is the actual benefit that we are able to bring forward.
+
+115
+00:09:55,000 --> 00:10:00,000
+Then of course, once you see the value in what we are delivering, then you would have an inclination to move.
+
+116
+00:10:00,000 --> 00:10:04,220
+forward with other platforms. Otherwise, you would not give me the entire ECG dossier
+
+117
+00:10:04,220 --> 00:10:06,860
+acceleration. If you would, I'd be happy to take that up.
+
+118
+00:10:07,820 --> 00:10:13,340
+Now, the reason I'm asking is the CSR, these result-based documents or the modules that
+
+119
+00:10:13,340 --> 00:10:18,460
+you're talking about are completely different as compared to ICFs or protocols because for
+
+120
+00:10:18,500 --> 00:10:25,940
+these reports, you will have sources in terms of the list or the protocol itself that you
+
+121
+00:10:25,940 --> 00:10:30,460
+can pull info from. But when you talk about these documents like protocols, as I said,
+
+122
+00:10:30,779 --> 00:10:35,019
+you have to dig into literature. What's already available in the market? How do you think the
+
+123
+00:10:35,019 --> 00:10:42,580
+study design can be? So I don't know how you're going to make maybe a pool of resources that
+
+124
+00:10:42,580 --> 00:10:47,259
+the AI is going to pull info from, how you're going to guide, how the prompts are going to be
+
+125
+00:10:47,259 --> 00:10:53,059
+because you know what I'm saying, right? For CSR, you can provide it, okay, pull info from
+
+126
+00:10:53,059 --> 00:10:57,940
+these documents. But for protocol, you don't have a particular source, right? There's going
+
+127
+00:10:57,940 --> 00:11:05,139
+to be a big pool. And how is it that AI is knowing that, okay, this is where I need to pick
+
+128
+00:11:05,259 --> 00:11:09,100
+info from. So that's what I'm wanting to understand.
+
+129
+00:11:09,379 --> 00:11:09,899
+Yeah.
+
+130
+00:11:10,100 --> 00:11:16,220
+See, there are fundamental differences between how a CSR is created and how a CTP is created. And
+
+131
+00:11:16,220 --> 00:11:22,419
+for that matter, ICF as well. ICF would be created more along the lines of what you have
+
+132
+00:11:22,460 --> 00:11:27,220
+already been creating the, you know, the case forms, what has been your previous submission
+
+133
+00:11:27,220 --> 00:11:31,820
+being. So on the basis of that, we can have the ICF created so that, you know, there is no
+
+134
+00:11:31,820 --> 00:11:36,940
+difference between previous submission and a new submission. That is one point. Now coming on
+
+135
+00:11:36,940 --> 00:11:44,059
+to CTPs itself, with CSRs, you can leverage your therapeutic library. With CTPs, you need to
+
+136
+00:11:44,059 --> 00:11:50,700
+leverage your therapeutic library, as well as go online and pull out necessary information from
+
+137
+00:11:50,740 --> 00:11:59,139
+FTAclinicaltrial.gov and a couple of other places. Then on the basis of, you know, hey, the
+
+138
+00:11:59,139 --> 00:12:03,940
+synopsis that is provided when you're creating a CTP, then you need to identify, hey, these are the
+
+139
+00:12:03,980 --> 00:12:08,940
+existing reports that I have found out. So the AI, what it does is the agents that we have
+
+140
+00:12:08,940 --> 00:12:15,100
+created, it is able to scrape all of the literature that is available on the internet, find out,
+
+141
+00:12:15,100 --> 00:12:22,700
+hey, this is a similar CTP. This is how a similar CTP was created for this particular trial that
+
+142
+00:12:22,700 --> 00:12:28,460
+was conducted. And within that trial, they were looking at these conditions, exclusion criteria,
+
+143
+00:12:28,460 --> 00:12:32,460
+inclusion criteria, what was the population size, what was the sample size. So all of this
+
+144
+00:12:32,460 --> 00:12:38,379
+information is identified and we present that to the medical writer to make a judgment call,
+
+145
+00:12:38,419 --> 00:12:42,019
+because we can provide assistance, but we cannot make that judgment call.
+
+146
+00:12:42,500 --> 00:12:49,620
+Yeah, I was wanting to understand the pool from where you're pulling, yeah, because it's going to be huge.
+
+147
+00:12:50,779 --> 00:12:57,980
+So we're able to pull in information from clinicaltrial.gov, CTRI and there is an EMA site as
+
+148
+00:12:57,980 --> 00:13:01,100
+well. I don't recall the exact name. I'll have to look it up.
+
+149
+00:13:02,379 --> 00:13:07,379
+Now, that's a good idea, what the previous studies have done and what we can incorporate as a new
+
+150
+00:13:07,379 --> 00:13:12,299
+study design or a plan and what changes can be made. That can be a starting point for sure.
+
+151
+00:13:15,059 --> 00:13:16,779
+That is how we are visualizing it.
+
+152
+00:13:19,820 --> 00:13:25,740
+Good to know. Yeah, for this particular call, I was mostly wanting to know to work together, but I
+
+153
+00:13:25,740 --> 00:13:33,299
+completely understand that right now you guys are developing things and how you want to see if
+
+154
+00:13:33,340 --> 00:13:40,379
+it's making sense for different organizations and I'll revisit the pointers that you just threw and
+
+155
+00:13:40,700 --> 00:13:41,139
+you'll see.
+
+156
+00:13:42,220 --> 00:13:42,700
+Sounds good.
+
+157
+00:13:43,179 --> 00:13:43,580
+Yeah.
+
+158
+00:13:44,220 --> 00:13:50,659
+So you can let me know what you decide to work on, you know, collaborate with us on maybe if you're
+
+159
+00:13:50,740 --> 00:13:55,220
+in the you have already decided to move out of GSK or you're still at GSK?
+
+160
+00:13:56,019 --> 00:14:00,539
+I am at GSK right now, but most likely in the new year, I would say.
+
+161
+00:14:01,340 --> 00:14:04,139
+That's yeah, that's what I'm planning to move out. Yeah.
+
+162
+00:14:05,659 --> 00:14:12,740
+Because I am right now, you know, having projects that need to be handed over. So if I even if I start
+
+163
+00:14:12,740 --> 00:14:15,899
+doing right now, it's going to take a while. So yeah,
+
+164
+00:14:15,899 --> 00:14:21,620
+Yeah, I have heard that good medical writers generally are not let go so easily and you would be
+
+165
+00:14:21,620 --> 00:14:26,220
+required to work forward three or four months so that you can complete your entire back log and then
+
+166
+00:14:26,220 --> 00:14:27,500
+you're allowed to go out.
+
+167
+00:14:27,940 --> 00:14:32,940
+Plus I'm not a medical writer. It's like I am medical writer asset lead. So I'm looking after
+
+168
+00:14:32,940 --> 00:14:38,899
+multiple studies here from start to finish and I'm as I mentioned, also looking after AI projects
+
+169
+00:14:38,899 --> 00:14:42,100
+here. So the transition will take some time. So yeah,
+
+170
+00:14:42,259 --> 00:14:49,340
+That is true. So wishing you all the best, whichever endeavor you decide to move forward with and
+
+171
+00:14:49,860 --> 00:14:52,580
+hope see I'm coming more from a
+
+172
+00:14:54,259 --> 00:14:55,340
+I'm coming from
+
+173
+00:14:56,299 --> 00:15:03,340
+No, I'll tell you from personal standpoint, I come from more of a business family or you know, people
+
+174
+00:15:03,340 --> 00:15:10,460
+hey, let's go out and start some venture out of our own. So I won't advise you or I won't give you
+
+175
+00:15:10,460 --> 00:15:15,899
+congratulations on joining a new firm. If you start out a new if you yourself start out a new firm,
+
+176
+00:15:15,899 --> 00:15:18,980
+that would be the one thing that I would congratulate you on.
+
+177
+00:15:19,620 --> 00:15:25,139
+Okay, okay. Yeah, that's a nice vision. Thank you.
+
+178
+00:15:27,460 --> 00:15:30,019
+All right, so wishing you all the best.
+
+179
+00:15:30,460 --> 00:15:30,899
+Thank you.
+
+180
+00:15:31,779 --> 00:15:37,500
+Do take care and do let us know if something pops up on your radar, which we can join to work together
+
+181
+00:15:37,500 --> 00:15:42,019
+on. Definitely, I'll keep you posted. Thanks for hopping on to this call guys.
+
+182
+00:15:43,419 --> 00:15:46,659
+So if you are just comfortable with one small question,
+
