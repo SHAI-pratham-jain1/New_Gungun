@@ -1,0 +1,1472 @@
+1
+00:00:00,000 --> 00:00:04,080
+And it took me less than 15 minutes to vote and be out of there.
+
+2
+00:00:04,500 --> 00:00:08,919
+So I'm hoping we might have won that a little bit early.
+
+3
+00:00:10,560 --> 00:00:12,640
+Or people did early voting.
+
+4
+00:00:13,199 --> 00:00:17,839
+I'm hoping that's what happened, that they did early voting and they didn't have to come in today.
+
+5
+00:00:18,559 --> 00:00:23,800
+It was my daughter's first in-person voting, so she wanted to do it on the day off.
+
+6
+00:00:24,199 --> 00:00:24,879
+Oh, nice.
+
+7
+00:00:25,160 --> 00:00:25,600
+Nice.
+
+8
+00:00:25,600 --> 00:00:26,280
+That's my way.
+
+9
+00:00:27,280 --> 00:00:27,760
+Nice.
+
+10
+00:00:29,199 --> 00:00:32,479
+Jennifer, again, thank you so much for taking time.
+
+11
+00:00:33,320 --> 00:00:35,880
+We will keep it crisp and short.
+
+12
+00:00:35,880 --> 00:00:38,920
+We have 30 minutes allotted for this meeting.
+
+13
+00:00:39,359 --> 00:00:41,560
+And I believe there is some history.
+
+14
+00:00:41,560 --> 00:00:44,439
+I will let Aryan and Jayanthita in this call.
+
+15
+00:00:44,920 --> 00:00:47,679
+Just by way of introduction, my name is Rohit Rohit Jayaswala.
+
+16
+00:00:47,679 --> 00:00:50,600
+I'm based out of the Bay Area in San Francisco.
+
+17
+00:00:51,039 --> 00:00:53,320
+And I drive revenue for Short Hills.
+
+18
+00:00:53,840 --> 00:01:01,079
+I'm actually in the process of pretty much the newest member within the Short Hills team.
+
+19
+00:01:02,079 --> 00:01:08,079
+So I will let my more accomplished colleagues and team members run this call.
+
+20
+00:01:09,200 --> 00:01:15,480
+The whole intent is to give you a taste of exactly what we do, how we do, and how we
+
+21
+00:01:15,480 --> 00:01:22,480
+are distinctly, how we differentiate ourselves amongst a very competitive and crowded space.
+
+22
+00:01:23,079 --> 00:01:31,079
+And then get your guidance in terms of where you see us being relevant within the
+
+23
+00:01:31,079 --> 00:01:32,560
+Eleventh Health landscape.
+
+24
+00:01:33,480 --> 00:01:33,760
+Okay.
+
+25
+00:01:34,359 --> 00:01:34,840
+Sounds good.
+
+26
+00:01:34,840 --> 00:01:35,200
+Perfect.
+
+27
+00:01:35,959 --> 00:01:36,519
+Perfect.
+
+28
+00:01:38,799 --> 00:01:44,319
+Aryanthita, I think that the interest of time that gets started, I'm Satyajit, the CEO of
+
+29
+00:01:44,319 --> 00:01:46,719
+Short Hills based out of Orlando, Florida.
+
+30
+00:01:48,079 --> 00:01:49,640
+You're just my neighbor right here.
+
+31
+00:01:50,239 --> 00:01:50,719
+Is it?
+
+32
+00:01:50,719 --> 00:01:51,200
+Where are you?
+
+33
+00:01:51,920 --> 00:01:52,840
+I'm in Georgia.
+
+34
+00:01:53,239 --> 00:01:54,120
+Yeah, I can see that.
+
+35
+00:01:56,200 --> 00:01:56,599
+Perfect.
+
+36
+00:01:58,079 --> 00:01:58,599
+Thank you.
+
+37
+00:01:58,760 --> 00:02:05,480
+So myself, Aryan, and here with the Short Hills, I'm heading like, say this, I'm the
+
+38
+00:02:05,480 --> 00:02:06,920
+solution from the India team.
+
+39
+00:02:07,159 --> 00:02:09,199
+So I'm based out of Kodakam in India.
+
+40
+00:02:10,080 --> 00:02:14,599
+And maybe like Jayanti, you can give a quick intro then we can start.
+
+41
+00:02:16,360 --> 00:02:16,879
+Sure.
+
+42
+00:02:17,360 --> 00:02:18,039
+Hi, Jennifer.
+
+43
+00:02:18,520 --> 00:02:19,719
+I'm Jayanti or Jay.
+
+44
+00:02:19,759 --> 00:02:24,159
+I am the business development manager and client partner for healthcare and life sciences
+
+45
+00:02:24,159 --> 00:02:24,719
+at Short Hills.
+
+46
+00:02:24,840 --> 00:02:27,759
+Been here a little over a year and a half now.
+
+47
+00:02:28,840 --> 00:02:32,560
+And my background's in health policy, research and management.
+
+48
+00:02:32,599 --> 00:02:38,759
+And I currently apply that to solution specialists here at Short Hills, looking at
+
+49
+00:02:38,759 --> 00:02:40,719
+specifically the life sciences and healthcare domains.
+
+50
+00:02:42,000 --> 00:02:42,919
+Nice to meet you, Jay.
+
+51
+00:02:43,919 --> 00:02:44,479
+Thank you.
+
+52
+00:02:44,639 --> 00:02:54,439
+So, we started our journey back in 2018 as a data engineering and Janiyia Pirm.
+
+53
+00:02:54,879 --> 00:03:01,599
+So I guess through has connected regarding the same because our CTO, he attended this,
+
+54
+00:03:01,599 --> 00:03:02,919
+the IBM Tech Exchange.
+
+55
+00:03:02,960 --> 00:03:04,719
+I guess you have also attended that event.
+
+56
+00:03:05,719 --> 00:03:06,120
+Super.
+
+57
+00:03:06,120 --> 00:03:08,840
+Aryan, can I just talk to you just one briefly?
+
+58
+00:03:08,919 --> 00:03:13,560
+Drew, you didn't introduce yourself and we just met through LinkedIn.
+
+59
+00:03:13,560 --> 00:03:16,719
+So I want to give you that opportunity also.
+
+60
+00:03:43,560 --> 00:03:45,560
+Thank you, Drew.
+
+61
+00:03:45,560 --> 00:03:48,479
+I mean, it's all because of Drew reaching out to me.
+
+62
+00:03:48,479 --> 00:03:52,439
+So I did not want to just assume that we've connected.
+
+63
+00:03:52,479 --> 00:03:54,159
+We just connected on LinkedIn.
+
+64
+00:03:54,159 --> 00:03:55,479
+So nice to meet you, Drew.
+
+65
+00:03:55,919 --> 00:03:56,639
+Go ahead, Aryan.
+
+66
+00:03:57,280 --> 00:03:58,759
+That was my point.
+
+67
+00:03:58,759 --> 00:03:59,280
+Sorry.
+
+68
+00:03:59,280 --> 00:04:00,120
+No, no worries.
+
+69
+00:04:00,120 --> 00:04:00,759
+No worries.
+
+70
+00:04:01,280 --> 00:04:01,919
+It's all good.
+
+71
+00:04:02,800 --> 00:04:07,919
+So let me share my screen so I can quickly show you a couple of the slides.
+
+72
+00:04:07,960 --> 00:04:10,080
+Then maybe we can talk about this.
+
+73
+00:04:10,199 --> 00:04:12,280
+So let me know if my screen is visible.
+
+74
+00:04:14,840 --> 00:04:15,639
+I can set.
+
+75
+00:04:15,639 --> 00:04:16,399
+Yes, it is.
+
+76
+00:04:16,399 --> 00:04:17,399
+Thank you.
+
+77
+00:04:19,399 --> 00:04:20,800
+Put on the presentation mode.
+
+78
+00:04:20,800 --> 00:04:21,399
+Yeah.
+
+79
+00:04:21,399 --> 00:04:27,279
+So as I was mentioning about the shorter, like we started our journey back in 2018 as
+
+80
+00:04:27,279 --> 00:04:29,240
+a data engineering and Janiyia Pirm.
+
+81
+00:04:29,240 --> 00:04:35,439
+And with us starting like we engage with the, the, the, the, the, the, the, the, the, the
+
+82
+00:04:36,000 --> 00:04:42,680
+and with us starting like we engage with the healthcare and real estate.
+
+83
+00:04:42,680 --> 00:04:46,519
+And I can say like with the automotive that was in the beginning.
+
+84
+00:04:47,000 --> 00:04:51,680
+And from there to tell now, like we have a story in terms of the healthcare.
+
+85
+00:04:52,120 --> 00:04:55,560
+So we are working in all the three verticals in the healthcare.
+
+86
+00:04:56,000 --> 00:04:58,240
+One you can talk about like the provider side.
+
+87
+00:04:58,319 --> 00:05:02,639
+Another you can talk about the Parma site and third one is basically in terms of the licenses.
+
+88
+00:05:03,279 --> 00:05:09,240
+And we do have a couple of like the patents in terms of the agent to get that in the
+
+89
+00:05:09,240 --> 00:05:15,759
+process side and basically in the provider that for the pedigree, basically in the genetics.
+
+90
+00:05:16,160 --> 00:05:22,319
+Apart from that, we do work with the automotive as well as like a couple of like the
+
+91
+00:05:22,319 --> 00:05:24,399
+print tag as well as the insurance forms too.
+
+92
+00:05:25,240 --> 00:05:28,680
+So this is the story in terms of the client phase.
+
+93
+00:05:28,680 --> 00:05:32,560
+Apart from that, we do have a good amount of the partnership with the
+
+94
+00:05:32,560 --> 00:05:34,199
+Databricks and click.
+
+95
+00:05:34,720 --> 00:05:38,199
+So there we are kind of like, they're the niche partners and for the
+
+96
+00:05:38,199 --> 00:05:43,000
+Databricks, we are there 80 out of like the global partners.
+
+97
+00:05:43,439 --> 00:05:48,920
+And with the Databricks, we are to keep on doing like, kind of like the sales bit type
+
+98
+00:05:48,920 --> 00:05:49,480
+of the stuff.
+
+99
+00:05:49,920 --> 00:05:53,800
+And apart from that, we do develop a couple of like the exlators for the Databricks.
+
+100
+00:05:54,319 --> 00:05:57,240
+And they are, they are keep on the printing from the other market places.
+
+101
+00:05:57,680 --> 00:06:02,000
+And for the click, that is another engaging story where we are working.
+
+102
+00:06:02,000 --> 00:06:06,079
+It's kind of like the sales to end the sales with where we are keep on developing
+
+103
+00:06:06,079 --> 00:06:10,680
+like a couple of the solution that is in terms of the government side and
+
+104
+00:06:10,680 --> 00:06:16,240
+primarily in the impact region, basically in the Asia Pacific and more towards
+
+105
+00:06:16,240 --> 00:06:21,439
+like either in the healthcare or you can talk about the infrastructure in the
+
+106
+00:06:21,439 --> 00:06:25,920
+railways and here, like it's all about the statistical thing, what we are doing it.
+
+107
+00:06:25,920 --> 00:06:31,839
+So it just like we are a service based company and we have the capability either
+
+108
+00:06:31,839 --> 00:06:36,079
+you can talk about the data engineering or the data science or the agent API.
+
+109
+00:06:36,439 --> 00:06:40,279
+We usually provide the resources and they have the domain as well as the tech
+
+110
+00:06:40,279 --> 00:06:45,519
+experience, they work on you the use cases and like the solve the problem for you.
+
+111
+00:06:46,959 --> 00:06:52,480
+And here are the couple of the exlators I can talk, which we have developed for
+
+112
+00:06:52,519 --> 00:06:53,639
+a couple of the clients.
+
+113
+00:06:54,199 --> 00:06:59,439
+So first one is the base here that is deployed with an adjustment chester that
+
+114
+00:06:59,439 --> 00:07:01,959
+is basically in terms of the pedigree intelligence tool.
+
+115
+00:07:02,319 --> 00:07:05,480
+So they're the two aspect of this.
+
+116
+00:07:06,720 --> 00:07:12,040
+Basically one is basically when you talk about the story, the data, the story
+
+117
+00:07:12,040 --> 00:07:17,160
+grade, what I mean is basically the pedigree charts, like anyone go in the
+
+118
+00:07:17,160 --> 00:07:23,319
+hospitals and ask for the pedigree charts in the past like back in 1980, 1990.
+
+119
+00:07:23,519 --> 00:07:26,879
+So these are the pedigree charts are the hand written hand designs and
+
+120
+00:07:26,879 --> 00:07:28,639
+they're the symbols of the thing is crucial.
+
+121
+00:07:28,959 --> 00:07:34,199
+Another part is like in the modern era, like these, all the things can be made
+
+122
+00:07:34,240 --> 00:07:35,639
+using AI.
+
+123
+00:07:36,199 --> 00:07:39,720
+So there will be an agent who will interact with you, who will ask you or the
+
+124
+00:07:39,720 --> 00:07:42,879
+basic information and design the pedigree chart for you.
+
+125
+00:07:43,199 --> 00:07:48,199
+Now there are the third picture comes when you want to analyze these two
+
+126
+00:07:48,199 --> 00:07:54,160
+boards, like your parents pedigree, then only then like the doctors can
+
+127
+00:07:54,160 --> 00:07:56,759
+recommend this is the potential chance of this disease.
+
+128
+00:07:57,079 --> 00:07:58,360
+This will genetically appear.
+
+129
+00:07:58,759 --> 00:08:02,800
+So we have done the digitization of those old pedigree charts, including the
+
+130
+00:08:02,800 --> 00:08:04,800
+creation of these new pedigree charts.
+
+131
+00:08:04,839 --> 00:08:07,439
+And on top of it, there's the intelligence layer is there.
+
+132
+00:08:07,839 --> 00:08:10,480
+Who is keep on doing this is basically the decision model.
+
+133
+00:08:11,040 --> 00:08:14,480
+Who is keep on the predicting like in terms of the new potential diseases.
+
+134
+00:08:14,879 --> 00:08:16,480
+And that's basically the RS origin.
+
+135
+00:08:16,480 --> 00:08:18,920
+That is for the partner manufacturing.
+
+136
+00:08:19,240 --> 00:08:22,759
+So maybe you heard about like the APQ reports.
+
+137
+00:08:22,879 --> 00:08:30,079
+So we have done like a couple of, not a couple of like one to POCs in terms
+
+138
+00:08:30,079 --> 00:08:34,360
+of automating these, all the APQ reports, those are for the FDA submission.
+
+139
+00:08:34,360 --> 00:08:37,279
+These are then will put it quality reports in terms of any type that
+
+140
+00:08:37,279 --> 00:08:41,360
+that manufacturing, they must need to submit these, all the reports.
+
+141
+00:08:41,360 --> 00:08:44,039
+And this, the whole report creation is a manual.
+
+142
+00:08:44,480 --> 00:08:48,399
+What we have done it, we created the agent system that is connected with the
+
+143
+00:08:48,399 --> 00:08:50,799
+lab system as well as the ERPs.
+
+144
+00:08:51,559 --> 00:08:54,879
+Also the CRM and the other data warehouses.
+
+145
+00:08:55,440 --> 00:08:59,120
+And on top of it, like there is an orchestrator.
+
+146
+00:08:59,639 --> 00:09:03,840
+When you are giving the command in terms of like creating or use the selected
+
+147
+00:09:03,840 --> 00:09:08,639
+the component and like you selected Parasitamol and the composition is 650
+
+148
+00:09:08,639 --> 00:09:13,879
+mg and does give the command like generate the report on the back end agent
+
+149
+00:09:13,879 --> 00:09:16,320
+will pull the data from these, all the different sources.
+
+150
+00:09:16,679 --> 00:09:18,159
+They will compile those.
+
+151
+00:09:18,879 --> 00:09:23,080
+All I guess there are the 23 to 24 sections are there and they'll generate
+
+152
+00:09:23,080 --> 00:09:26,080
+the final report and it will go for the human in the loop approval.
+
+153
+00:09:26,480 --> 00:09:29,000
+And after that it will go for the submission.
+
+154
+00:09:29,399 --> 00:09:31,879
+Similarly, knowledge IQ is another part of the APQ.
+
+155
+00:09:31,879 --> 00:09:35,679
+I can say this is again for the professional services.
+
+156
+00:09:36,039 --> 00:09:40,759
+When you talk about the legal cases or maybe you can talk about even in the
+
+157
+00:09:40,759 --> 00:09:41,759
+insurance also.
+
+158
+00:09:42,320 --> 00:09:48,840
+So when you have tons of them database and basically you are sitting on the
+
+159
+00:09:48,840 --> 00:09:51,799
+millions of documents and they are structured or unstructured type of the
+
+160
+00:09:51,799 --> 00:09:56,879
+documents on top of it, like you want to do a search like this information
+
+161
+00:09:56,879 --> 00:09:58,360
+resides in this document.
+
+162
+00:09:58,360 --> 00:09:59,200
+You need to find it.
+
+163
+00:09:59,639 --> 00:09:59,919
+So.
+
+164
+00:10:00,000 --> 00:10:06,159
+And what we have done it, we designed a solution that is for a client, not for a single client,
+
+165
+00:10:06,159 --> 00:10:08,000
+for the multiple clients we have done it.
+
+166
+00:10:08,000 --> 00:10:13,399
+So it's just like we created a unified database, it's basically a vector database.
+
+167
+00:10:13,399 --> 00:10:18,559
+And on the backend, it is connected with these, the structured and structured documents.
+
+168
+00:10:18,559 --> 00:10:23,240
+And you just have a platform just like the chart, GPTO or Gemini.
+
+169
+00:10:23,240 --> 00:10:27,159
+And it is doing all type of AI research on pure documents only.
+
+170
+00:10:27,159 --> 00:10:31,360
+So in hallucination, chances are almost negligible there.
+
+171
+00:10:31,360 --> 00:10:37,159
+And on top of it, you can do multiple operations just like you can create the report, you can
+
+172
+00:10:37,159 --> 00:10:42,240
+create any type of the PPT, you can automate another workflow there, any type of the thing
+
+173
+00:10:42,240 --> 00:10:44,799
+you can do on top of it.
+
+174
+00:10:44,799 --> 00:10:48,320
+And Auto-Region is for the automotive marketplace.
+
+175
+00:10:48,320 --> 00:10:55,320
+So this is basically we have done for a client who is providing intelligence to the dealers,
+
+176
+00:10:55,320 --> 00:10:59,600
+basically to the private equity firms who are keep on acquiring the dealerships in the
+
+177
+00:10:59,600 --> 00:11:00,600
+US.
+
+178
+00:11:00,600 --> 00:11:05,639
+They want to have a map of 18,000 plus dealerships in the US.
+
+179
+00:11:05,639 --> 00:11:11,840
+And the problem statement was that like they need a map type of the view, basically the
+
+180
+00:11:11,840 --> 00:11:15,039
+whole US map, just like the Google Maps.
+
+181
+00:11:15,039 --> 00:11:19,639
+And you can zoom in, zoom in, you can find the city or the county.
+
+182
+00:11:19,639 --> 00:11:23,639
+Similarly, at this similar type of the map, you can have the dealership level, you can
+
+183
+00:11:23,639 --> 00:11:28,480
+zoom in, zoom in, and you can find that the particular dealership when you click on it,
+
+184
+00:11:28,480 --> 00:11:32,840
+all the dealership data will be visible like it's a financial database, it's all type of
+
+185
+00:11:32,840 --> 00:11:38,320
+the modeling, how the profit goes, whether how much is the growth will be in the next
+
+186
+00:11:38,320 --> 00:11:42,200
+five years, all type of like that is linked with the model.
+
+187
+00:11:42,200 --> 00:11:47,840
+So the model is same for all the dealerships and the numbers, it will just like a PE firm
+
+188
+00:11:47,840 --> 00:11:51,679
+can see the report and based on that, they can take the decision.
+
+189
+00:11:51,720 --> 00:11:54,960
+Next we have done with the Databricks.
+
+190
+00:11:54,960 --> 00:12:00,080
+So it just like whatever we are getting from the community, our job is to give it back
+
+191
+00:12:00,080 --> 00:12:01,600
+something to the community.
+
+192
+00:12:01,600 --> 00:12:06,720
+So in terms, if you talk about the development there, the cover of the process, if you talk
+
+193
+00:12:06,720 --> 00:12:12,960
+about like writing the ETL pipelines, basically the data connecting pipelines, or you can
+
+194
+00:12:12,960 --> 00:12:17,600
+talk about like the workflows, these are the manual and repeat tasks.
+
+195
+00:12:17,600 --> 00:12:24,279
+So code fix for it is a facility like it is just like a GP type of the platform, where
+
+196
+00:12:24,279 --> 00:12:28,919
+you can write your query in the plain English language and it will connect like suppose
+
+197
+00:12:28,919 --> 00:12:32,960
+you want to connect with the branch here to the silver layer.
+
+198
+00:12:32,960 --> 00:12:36,960
+So you can simply give your command on in the plain English language on the backend
+
+199
+00:12:36,960 --> 00:12:42,519
+like agent will design these all the biplanes and do this operation for you.
+
+200
+00:12:42,519 --> 00:12:49,759
+So the quick advantage here is basically one thing is the time and the thing is basically
+
+201
+00:12:49,759 --> 00:12:50,759
+the cost of conversion.
+
+202
+00:12:50,759 --> 00:12:55,440
+Somebody is promising to do like the create the solution for you in the three months.
+
+203
+00:12:55,440 --> 00:12:56,440
+We can do that.
+
+204
+00:12:56,440 --> 00:13:00,039
+We can use the code fix and we can deploy the solution in two months.
+
+205
+00:13:00,039 --> 00:13:03,919
+And this is promoted by the data that can lead to the last event.
+
+206
+00:13:03,919 --> 00:13:10,039
+And the query craft is another like whatever the commands, it just like whatever the things
+
+207
+00:13:10,039 --> 00:13:13,320
+you are given the system, it needs to be converted into the binding.
+
+208
+00:13:13,320 --> 00:13:17,639
+And similarly, like you need to give your command in the natural language, it is converting
+
+209
+00:13:17,639 --> 00:13:20,879
+those into the structured query.
+
+210
+00:13:20,879 --> 00:13:26,759
+And based on those the SQL queries like agents will do like another type of the research,
+
+211
+00:13:26,759 --> 00:13:32,080
+whatever they want to put any questions or anything to know.
+
+212
+00:13:32,080 --> 00:13:33,080
+No questions.
+
+213
+00:13:33,080 --> 00:13:38,480
+I mean, I really value accelerators because as a one of my roles is a program delivery
+
+214
+00:13:38,919 --> 00:13:47,120
+and whenever I have an accelerator, it means most times my work is half in terms of delivery
+
+215
+00:13:47,120 --> 00:13:48,120
+time.
+
+216
+00:13:48,120 --> 00:13:50,759
+So very familiar.
+
+217
+00:13:50,759 --> 00:13:58,440
+So the other thing I'm trying to wrap around my head on the value proposition.
+
+218
+00:13:58,440 --> 00:14:08,320
+So what I'm hearing is if the client has an unique use case that they want to address
+
+219
+00:14:09,159 --> 00:14:15,720
+then your team comes in and provides the resource to address that you have some accelerators
+
+220
+00:14:15,720 --> 00:14:20,159
+that you may leverage in solutioning for the client.
+
+221
+00:14:20,159 --> 00:14:23,200
+Is that a summary of what?
+
+222
+00:14:23,200 --> 00:14:24,200
+Okay.
+
+223
+00:14:24,200 --> 00:14:25,200
+Okay.
+
+224
+00:14:25,200 --> 00:14:32,679
+So here, so let me introduce myself and what I do at Elevants Health.
+
+225
+00:14:32,679 --> 00:14:35,440
+Maybe Dhruv may have mentioned that.
+
+226
+00:14:35,559 --> 00:14:40,480
+So I am part of the digital portfolio and AI ops team.
+
+227
+00:14:40,480 --> 00:14:46,600
+I'm a program director as well as chief of staff for our leader for service management
+
+228
+00:14:46,600 --> 00:14:47,600
+and operations.
+
+229
+00:14:47,600 --> 00:14:57,240
+So within our team, we have service management processes like change, incident, observability,
+
+230
+00:14:57,240 --> 00:14:58,480
+event management.
+
+231
+00:14:58,480 --> 00:15:02,240
+And so we are more operations.
+
+232
+00:15:02,240 --> 00:15:07,519
+We are more of keeping the lights on, but we do have strategic initiatives that we run
+
+233
+00:15:07,519 --> 00:15:16,960
+here in, you know, and we have different partners that we bring on board to run those projects.
+
+234
+00:15:16,960 --> 00:15:26,240
+Most of our initiatives are related to like logging with Splunk and Craball.
+
+235
+00:15:26,240 --> 00:15:33,679
+And then the other for this year, a big focus has been on observability using Datadog and
+
+236
+00:15:33,679 --> 00:15:36,399
+IBM in Stana.
+
+237
+00:15:36,399 --> 00:15:41,799
+So those and that's one of the reasons why I was actually at the IBM Tech conference
+
+238
+00:15:41,799 --> 00:15:50,159
+to get more understanding of it Stana because we are rolling it out within our environment.
+
+239
+00:15:50,159 --> 00:15:58,120
+Unfortunately, I mean, what you've gone through, I see the value would, you know, I can definitely
+
+240
+00:15:58,120 --> 00:16:00,919
+see opportunities for us to leverage.
+
+241
+00:16:00,919 --> 00:16:08,120
+Unfortunately, and this is where I will say, unfortunately, we are at a position within
+
+242
+00:16:08,120 --> 00:16:14,440
+the DPIO organization where we have been told we cannot bring any new vendors.
+
+243
+00:16:15,440 --> 00:16:23,360
+Just we have to leverage the typical vendor, the existing vendors that we have to do any
+
+244
+00:16:23,360 --> 00:16:24,840
+new business.
+
+245
+00:16:24,840 --> 00:16:28,720
+But that doesn't mean, and this is why I always say it is good to have these conversations
+
+246
+00:16:28,720 --> 00:16:31,200
+because that's relationship building.
+
+247
+00:16:31,200 --> 00:16:40,679
+That doesn't mean that in six months, three months, that restriction will not be lifted.
+
+248
+00:16:40,679 --> 00:16:46,440
+And we may have the opportunity to say, hey, we have this situation short hails.
+
+249
+00:16:46,440 --> 00:16:53,440
+Please give your proposal on how you can fix this and we can work together at that point.
+
+250
+00:16:53,440 --> 00:16:55,360
+And so that's where we are.
+
+251
+00:16:55,360 --> 00:16:59,080
+I'm going to be very transparent.
+
+252
+00:16:59,080 --> 00:17:06,759
+And but that doesn't mean that this couldn't change in another few months and we can be
+
+253
+00:17:06,759 --> 00:17:10,359
+engaged and have that conversation at that time.
+
+254
+00:17:11,039 --> 00:17:11,839
+Sure.
+
+255
+00:17:11,839 --> 00:17:15,039
+And Jennifer, just thank you so much for that background.
+
+256
+00:17:15,039 --> 00:17:17,480
+That's really helpful for us.
+
+257
+00:17:17,480 --> 00:17:22,680
+I just want to add a few more things to what our value proposition is and how we differentiate
+
+258
+00:17:22,680 --> 00:17:25,759
+ourselves.
+
+259
+00:17:25,759 --> 00:17:36,920
+I think we come in as a new organization which is completely seeped in driving outcomes because
+
+260
+00:17:37,359 --> 00:17:39,720
+we are not talking about headcount in general.
+
+261
+00:17:39,720 --> 00:17:41,359
+We are talking about driving outcomes.
+
+262
+00:17:41,359 --> 00:17:46,480
+And that is why you'll see a lot of our effort is around driving things in the newest and
+
+263
+00:17:46,480 --> 00:17:50,599
+the most modern way and we claim expertise in agent K.I.
+
+264
+00:17:50,599 --> 00:17:55,359
+And getting things done with that as a background.
+
+265
+00:17:55,359 --> 00:17:59,839
+So we're coming in with a challenge of mindset.
+
+266
+00:17:59,880 --> 00:18:07,480
+So absolutely thankful that you lead it out very transparently.
+
+267
+00:18:07,480 --> 00:18:12,960
+And again, this call was primarily to introduce ourselves, tell you a little bit more about
+
+268
+00:18:12,960 --> 00:18:17,559
+our life sciences and health care practices such.
+
+269
+00:18:17,559 --> 00:18:23,519
+And I'll probably gently, if you can give a 10 minute quick overview or five minute
+
+270
+00:18:23,519 --> 00:18:28,480
+overview to Jennifer that'll be helpful for us to understand exactly how we play in this
+
+271
+00:18:28,559 --> 00:18:29,480
+health care space.
+
+272
+00:18:30,920 --> 00:18:31,920
+Thank you.
+
+273
+00:18:31,920 --> 00:18:37,200
+Yeah, because I was just saying that Rohit, I just thought because he did mention a little
+
+274
+00:18:37,200 --> 00:18:42,839
+bit about claims and was like, maybe I have someone in claims that can reach out to because
+
+275
+00:18:42,839 --> 00:18:49,519
+it's only DPI or my team that we have that mandate that we cannot get new vendors to
+
+276
+00:18:49,519 --> 00:18:50,519
+do any work.
+
+277
+00:18:50,519 --> 00:18:55,480
+But that doesn't mean our government division, our claims people.
+
+278
+00:18:55,480 --> 00:19:00,359
+You may, I mean, I can do some introductions then you see how that goes.
+
+279
+00:19:00,359 --> 00:19:02,599
+That'll be very kind of you.
+
+280
+00:19:02,599 --> 00:19:06,920
+And Rohit, are you on something?
+
+281
+00:19:06,920 --> 00:19:10,759
+So I just missed one point like you mentioned about the claims thing.
+
+282
+00:19:10,759 --> 00:19:13,920
+So we are working on the R-SIM solution also.
+
+283
+00:19:13,920 --> 00:19:18,920
+So if you talk about the R-SIM like and to end like the automation in the R-SIM solution
+
+284
+00:19:18,920 --> 00:19:20,559
+that we have done it.
+
+285
+00:19:20,559 --> 00:19:25,920
+So to talk about like when a patient entered in the hospital and basically first is basically
+
+286
+00:19:25,920 --> 00:19:31,799
+the insurance check, once the insurance thing is done then after the surgery like these
+
+287
+00:19:31,799 --> 00:19:41,319
+all the documentation needs to be done like your CMS and one of the form is also there.
+
+288
+00:19:41,319 --> 00:19:45,599
+So I'm just talking like this is the whole process we have done the agent in terms of
+
+289
+00:19:45,599 --> 00:19:46,599
+the claim.
+
+290
+00:19:46,599 --> 00:19:48,359
+So which person will get the claim?
+
+291
+00:19:48,359 --> 00:19:49,759
+How much claim will be approved?
+
+292
+00:19:49,759 --> 00:19:55,279
+What the claim is like the kind of eligible for the DRG approval like the DRG type the
+
+293
+00:19:55,279 --> 00:19:56,279
+claim is there.
+
+294
+00:19:56,279 --> 00:19:59,720
+So those types of things we have done for a client.
+
+295
+00:20:00,000 --> 00:20:06,559
+Good. And Jennifer from our, you know, the background that we have is primarily around
+
+296
+00:20:06,559 --> 00:20:12,799
+products and platforms. And that is why you're seeing some of that manifest itself in our
+
+297
+00:20:12,799 --> 00:20:17,440
+storyline. But, you know, even from a KTLO perspective, you know, keeping the lights on
+
+298
+00:20:17,440 --> 00:20:23,440
+for applications, you know, driving hooks into Datadog and getting that observability metrics
+
+299
+00:20:23,440 --> 00:20:31,920
+and really working through with L3 support, which is probably the tougher problem to solve.
+
+300
+00:20:31,920 --> 00:20:36,000
+You know, we pride ourselves in solving really hard problems, and that is where we can differentiate
+
+301
+00:20:36,000 --> 00:20:42,400
+ourselves because you have a lot of commodity services providers which are, you know, can do a
+
+302
+00:20:42,400 --> 00:20:48,079
+lot of other things. So I'll let Jayanti take, you know, take five minutes and take you through
+
+303
+00:20:48,079 --> 00:20:53,839
+this so that we are on time. Because I do have another meeting. Completely understand.
+
+304
+00:20:54,960 --> 00:21:00,000
+I'm so thankful. I'm so thankful for your time. Yeah, I just wanted to make sure I'm focusing on
+
+305
+00:21:00,000 --> 00:21:04,960
+the right areas. Rohit, is there, I know we talked about a couple of the solutions,
+
+306
+00:21:05,519 --> 00:21:10,559
+and I'm happy to walk us through sort of the others in our portfolio. Would that be helpful?
+
+307
+00:21:11,359 --> 00:21:15,359
+Yes. Jayanti, if you could just give our healthcare and, you know, life sciences,
+
+308
+00:21:16,079 --> 00:21:24,160
+you know, background, that would be very helpful. Sure. So, Arjen touched on some of these, Jennifer,
+
+309
+00:21:24,880 --> 00:21:29,920
+I'm on our website right now, and if you go into our accelerators, you can drill down into
+
+310
+00:21:30,880 --> 00:21:35,359
+the solutions that I'm walking through, where you can just go into the healthcare industry's page here.
+
+311
+00:21:36,400 --> 00:21:44,160
+So, you know, of course, our work, as Arjen mentioned, when we were talking about the electronic
+
+312
+00:21:44,160 --> 00:21:51,039
+health record and the different aspects and workflows that we can help automate and digitize,
+
+313
+00:21:51,039 --> 00:21:59,680
+it's not just with claims and stuff. Of course, that's a very high workload manual area. And then,
+
+314
+00:22:00,400 --> 00:22:04,319
+you know, it's the different departments and administration works together to pull and submit
+
+315
+00:22:04,319 --> 00:22:13,519
+everything, whether it's for CMS reporting, CMS claims, or, you know, getting the financial
+
+316
+00:22:13,519 --> 00:22:19,279
+aspects and accounts closed, of course. So, that's where we have a solution to help with
+
+317
+00:22:19,279 --> 00:22:27,759
+claims processing, and not just at the logistics or, you know, pulling it together and parsing it
+
+318
+00:22:27,759 --> 00:22:35,200
+in submission level, but also using that to then create reports and a dashboard or other information
+
+319
+00:22:35,200 --> 00:22:40,240
+that we can customize that you'd like to see in order to be able to understand, you know, quality
+
+320
+00:22:40,240 --> 00:22:48,160
+across the board, where or how things are going, you know, in specific areas, any new or upcoming
+
+321
+00:22:48,160 --> 00:22:53,519
+reports from the federal level that might be required of you. So, there's a lot that we can do,
+
+322
+00:22:54,400 --> 00:22:59,519
+you know, just beyond just the claims submissions and really going into understanding operationally
+
+323
+00:22:59,519 --> 00:23:04,880
+how things can be improved and be made more efficient. So, we, and we also talked about a
+
+324
+00:23:04,880 --> 00:23:09,839
+little bit of, about clinical documentation and clinical study reports. I know clinical study
+
+325
+00:23:09,839 --> 00:23:15,039
+reports is more on the live sign side, but of course, there are residents and fellows that,
+
+326
+00:23:15,039 --> 00:23:20,319
+you know, need to be able to draft out their notes and cases and staying on top of that and
+
+327
+00:23:20,319 --> 00:23:26,400
+submitting those. So, that's another application for clinical documentation beyond just, you know,
+
+328
+00:23:26,480 --> 00:23:36,400
+transcribing and sort of doing the entire report for a single visit. So, it's not just speeding up
+
+329
+00:23:36,400 --> 00:23:44,079
+the documentation, but ensuring, you know, consistency and helping users be able to meet,
+
+330
+00:23:44,079 --> 00:23:48,720
+like, the specific kind of reporting criteria that they need within the clinical workflows.
+
+331
+00:23:50,559 --> 00:23:55,519
+We talked a little bit about the Genetic Pedigree Digitization and Rare Disease Workflows. I'm
+
+332
+00:23:55,519 --> 00:24:01,680
+not going to go too much into this, but really, you know, I've seen life, healthcare transform from,
+
+333
+00:24:02,640 --> 00:24:07,279
+you know, back in 2008 when the ACA was passed and everybody had to get on
+
+334
+00:24:07,279 --> 00:24:11,839
+IT integration and the different waves and phases and of course, the pain points that come with,
+
+335
+00:24:12,880 --> 00:24:18,240
+you know, moving from papers and charts to, you know, digitizing and phase one, two and three.
+
+336
+00:24:18,240 --> 00:24:24,880
+I've been there, worked in doctor's offices, helping pull those and manually convert all of those
+
+337
+00:24:24,880 --> 00:24:31,839
+into acceptable formats. But, you know, there's still archival records or there's other areas
+
+338
+00:24:31,839 --> 00:24:37,920
+where clinicians still work, you know, by hand with certain tools and that's where digitization can
+
+339
+00:24:37,920 --> 00:24:44,160
+really help. And then going beyond that to sort of take it to the next level, as we're looking at
+
+340
+00:24:44,160 --> 00:24:49,599
+the application of this, you know, it's not just in the rare disease area, but it also comes into
+
+341
+00:24:49,599 --> 00:24:57,039
+play with oncology and, you know, health information exchange between primary care and then looking at
+
+342
+00:24:57,039 --> 00:25:04,000
+integration across the other sites or specialists that you have. And then, of course, patient comes
+
+343
+00:25:04,000 --> 00:25:10,720
+first, you know, we really look at solutions that are guided by their journey and how they're
+
+344
+00:25:10,720 --> 00:25:17,039
+interacting with the clinician. So there's, we have several other solutions in use cases where
+
+345
+00:25:18,000 --> 00:25:25,200
+it's helped improve patient intake and not just at the level of where they're using prompts to just,
+
+346
+00:25:25,200 --> 00:25:29,519
+you know, answer questions on a chart or, you know, picking up the phone and, you know,
+
+347
+00:25:30,400 --> 00:25:36,799
+being answered or answering the call with a chat bot. But this is much more customized and tailored.
+
+348
+00:25:36,799 --> 00:25:45,119
+So it is able to do the patient intake and history in a reliable and clinically validated
+
+349
+00:25:45,119 --> 00:25:52,240
+way ahead of the appointments. And then the clinicians themselves can build upon the data
+
+350
+00:25:52,240 --> 00:25:58,240
+that's already been done and provide more information. And because you're using a unified
+
+351
+00:25:58,240 --> 00:26:02,799
+portal between the two, you know, both sides are looking at the same data of reducing error
+
+352
+00:26:03,839 --> 00:26:08,319
+of that data capture, which can then flow through the entire visit through to, you know, the report
+
+353
+00:26:08,319 --> 00:26:11,519
+and the other aspects that we talked about. Ruth, it looks like you have a question.
+
+354
+00:26:12,160 --> 00:26:16,880
+Yes, I have a question. You know, I'm just looking at the time and, you know, we are,
+
+355
+00:26:17,839 --> 00:26:21,119
+you know, it's eight o'clock and I want to be respectful of Jennifer's time.
+
+356
+00:26:21,119 --> 00:26:26,000
+So Jennifer, again, I'll just conclude this, you know, we understand we just wanted to give
+
+357
+00:26:26,000 --> 00:26:32,240
+you a glimpse and overview of Short Hills. And we would love to stay in touch to see as to how
+
+358
+00:26:32,240 --> 00:26:39,359
+things move within Eleventh Health and see the right time and the opportunity to partner together.
+
+359
+00:26:40,000 --> 00:26:44,319
+Yeah, and I do need to jump on my other call. The one thing I did want to mention,
+
+360
+00:26:44,319 --> 00:26:48,960
+something that the business we are struggling with and an area that I would say your team,
+
+361
+00:26:48,960 --> 00:26:54,559
+I don't know whether you've had experience in this is solutions within FedRAMP, GOVRAMP
+
+362
+00:26:55,599 --> 00:27:03,359
+applications. So that is an area that we are seeing a lot of growth because of all the policies
+
+363
+00:27:04,079 --> 00:27:10,079
+and legislation that has been enacted. So next year, we literally are starting
+
+364
+00:27:11,680 --> 00:27:19,039
+to drive a lot, you know, a lot of our applications to be fed GOVRAMP certifying.
+
+365
+00:27:19,039 --> 00:27:25,200
+So it will be figuring out how to work within that environment. And I do need to jump because
+
+366
+00:27:25,200 --> 00:27:33,359
+it's my team meeting and I'm leading. Thank you so much. Pleasure meeting you. Thank you.
+
+367
+00:27:33,359 --> 00:27:41,839
+You too. You too. Let's connect. I'll reach out on LinkedIn and we can continue the conversations.
+
+368
+00:27:41,839 --> 00:27:45,039
+Take care, everyone. Okay. Bye. Thank you. Bye.
+
