@@ -1,0 +1,1292 @@
+1
+00:00:00,000 --> 00:00:05,000
+So, how are you doing?
+
+2
+00:00:05,000 --> 00:00:12,000
+I'm good. I'm all right. It's, it's, what is it, 5.30 in London.
+
+3
+00:00:12,000 --> 00:00:16,000
+But I don't know about where you guys are based.
+
+4
+00:00:16,000 --> 00:00:19,000
+But yeah.
+
+5
+00:00:19,000 --> 00:00:21,000
+So I'm based out of Delhi.
+
+6
+00:00:21,000 --> 00:00:35,000
+I was in London last year around September and at that time it was pretty windy and I thought, hey, it's too cold.
+
+7
+00:00:35,000 --> 00:00:38,000
+Yeah, it's too cold. It's too cold.
+
+8
+00:00:38,000 --> 00:00:47,000
+But I'm sure you, you got some sympathy from me that I find my day doesn't really start until the Americans wake up and then once the Americans wake up, then everything just goes wrong.
+
+9
+00:00:47,000 --> 00:00:53,000
+And then I won't cause until nine o'clock at night. So, you know, you know how it works.
+
+10
+00:00:53,000 --> 00:00:59,000
+Yep. That is true. The only respite is the weekend that is coming up.
+
+11
+00:00:59,000 --> 00:01:04,000
+So I just intend to relax and chill for the entire weekend.
+
+12
+00:01:04,000 --> 00:01:09,000
+So that's going to be my plan. I don't know what you're going to do if you plan to go hiking or what.
+
+13
+00:01:09,000 --> 00:01:12,000
+Oh, I don't know. I'm not doing this weekend.
+
+14
+00:01:12,000 --> 00:01:14,000
+I think relax as well.
+
+15
+00:01:14,000 --> 00:01:18,000
+Relax. That's a good thing.
+
+16
+00:01:18,000 --> 00:01:22,000
+You can also check out my farmers market on Sunday that happens.
+
+17
+00:01:22,000 --> 00:01:28,000
+So I had a friend and she recommended that they have a whole roast pig over there. I always wanted to try that out.
+
+18
+00:01:28,000 --> 00:01:34,000
+But I went over there. I just ended up trying out a couple of other things apart from the roasted pig.
+
+19
+00:01:34,000 --> 00:01:36,000
+Yeah.
+
+20
+00:01:36,000 --> 00:01:42,000
+So the pig is a delicacy.
+
+21
+00:01:42,000 --> 00:01:48,000
+But yeah, I do a farmers market for some food.
+
+22
+00:01:48,000 --> 00:01:52,000
+But it was really thanks for reaching out.
+
+23
+00:01:52,000 --> 00:01:59,000
+I'd like to hear about what you guys have been doing specifically with regard to Merck.
+
+24
+00:01:59,000 --> 00:02:01,000
+I'll probably introduce myself and my role.
+
+25
+00:02:01,000 --> 00:02:07,000
+So I'm the partner leader of the ProServe AWS professional services for healthcare life sciences.
+
+26
+00:02:07,000 --> 00:02:16,000
+So I managed a partner relationships across 32 of our most strategic accounts, one of which is obviously Merck.
+
+27
+00:02:16,000 --> 00:02:24,000
+But all of the large predominantly biotech biopharma are covered in my territory.
+
+28
+00:02:24,000 --> 00:02:38,000
+And yes, my job is basically to work with partners to identify opportunities where we can co-sell and deliver value for our customers together.
+
+29
+00:02:38,000 --> 00:02:42,000
+And I've been with AWS for four years.
+
+30
+00:02:42,000 --> 00:02:46,000
+I was a business developer for three of those years in the US.
+
+31
+00:02:46,000 --> 00:02:50,000
+And then I moved back to London in October 24.
+
+32
+00:02:51,000 --> 00:02:58,000
+And yeah, it's good to me.
+
+33
+00:02:58,000 --> 00:03:02,000
+Well, lovely to connect with you as well. I'll go next.
+
+34
+00:03:02,000 --> 00:03:09,000
+So you mentioned this site. I look after the entire partnership ecosystem over here at Shortills.
+
+35
+00:03:09,000 --> 00:03:17,000
+I started out more as a technical guy. I was in December security with EY.
+
+36
+00:03:17,000 --> 00:03:27,000
+Did a couple of years with them primarily around pharmaceuticals, you know, cyber security deployment, IAM deployments for, I was working at Roche.
+
+37
+00:03:27,000 --> 00:03:30,000
+And then I started into business consulting.
+
+38
+00:03:30,000 --> 00:03:36,000
+I was with looking primarily at the education segment.
+
+39
+00:03:36,000 --> 00:03:43,000
+And then saw an opportunity in the XNAI and had been in effect ever since.
+
+40
+00:03:43,000 --> 00:03:51,000
+So being with Shortills for what, at this point if I'm reaching about one and a half year at this point, there are actually AWS's advanced share partners.
+
+41
+00:03:51,000 --> 00:03:56,000
+And so I'll just keep going on and on.
+
+42
+00:03:56,000 --> 00:04:04,000
+But I'll let you start some quick introduction about himself for high-jagged conversations.
+
+43
+00:04:04,000 --> 00:04:06,000
+Pratap, why don't you go next.
+
+44
+00:04:13,000 --> 00:04:24,000
+Thank you.
+
+45
+00:04:24,000 --> 00:04:29,000
+Oh, very good. Very good.
+
+46
+00:04:29,000 --> 00:04:40,000
+And so what's the, yeah, what's the plan, Merck, or what's the conversations you've had so far with Merck and how can I help and how can we partner?
+
+47
+00:04:40,000 --> 00:04:43,000
+Sure. So I'll go into the details.
+
+48
+00:04:43,000 --> 00:04:46,000
+So see, we are primarily a services organization.
+
+49
+00:04:46,000 --> 00:04:50,000
+We deal with all the, we have two primary pillars.
+
+50
+00:04:50,000 --> 00:04:53,000
+One is data engineering and the other one is if it's a DKI.
+
+51
+00:04:53,000 --> 00:05:04,000
+We created a couple of our own internal accelerators that we have deployed at NHS with a couple of their primarily with NHS West, so North-West IPV.
+
+52
+00:05:04,000 --> 00:05:06,000
+Yeah, with NHS North-West IPV.
+
+53
+00:05:06,000 --> 00:05:08,000
+Yeah.
+
+54
+00:05:08,000 --> 00:05:11,000
+I guess.
+
+55
+00:05:11,000 --> 00:05:13,000
+We're sorry.
+
+56
+00:05:13,000 --> 00:05:21,000
+So we have, yeah, and it is, you know, kind of is with the breakthrough on for us within the UK.
+
+57
+00:05:21,000 --> 00:05:26,000
+So we started out with a small piece primarily around the pedigree charts.
+
+58
+00:05:26,000 --> 00:05:29,000
+I believe you're much more comfortable with pedigree charts in there understanding.
+
+59
+00:05:29,000 --> 00:05:36,000
+So we were involved in the entire digitization process for the pedigree charts and a couple further work that we did.
+
+60
+00:05:36,000 --> 00:05:51,000
+Over the last couple of months, for the last year or so, we started out with creating a couple of our own last leaders, primarily catered towards the life sciences part of the business.
+
+61
+00:05:51,000 --> 00:05:56,000
+So we were looking at, hey, how can we accelerate the entire medical writing teams?
+
+62
+00:05:56,000 --> 00:06:02,000
+So you started having conversations in multiple different organizations, primarily with the US organizations.
+
+63
+00:06:02,000 --> 00:06:09,000
+We started reaching out more recently with the couple of other UK based organizations.
+
+64
+00:06:09,000 --> 00:06:14,000
+So we reached out to Merck and, you know, had this conversation.
+
+65
+00:06:14,000 --> 00:06:18,000
+We showcased it to their internal team, the internal medical writing team.
+
+66
+00:06:18,000 --> 00:06:22,000
+So this is, are you familiar with clinical study reports?
+
+67
+00:06:22,000 --> 00:06:23,000
+Yeah.
+
+68
+00:06:23,000 --> 00:06:24,000
+All right, great.
+
+69
+00:06:24,000 --> 00:06:31,000
+So the solution that we have created is primarily centered towards accelerating the entire ECGD dossier.
+
+70
+00:06:31,000 --> 00:06:35,000
+We started out with a very small focus on CSR, clinical study reports.
+
+71
+00:06:35,000 --> 00:06:42,000
+How can we make them or allow the organizations to shorten the entire frame for this CSR writing?
+
+72
+00:06:42,000 --> 00:06:47,000
+Clinical trial protocols, the ICF, and a couple of other modules as well.
+
+73
+00:06:47,000 --> 00:06:50,000
+You know, clinical trial summaries and all.
+
+74
+00:06:50,000 --> 00:06:53,000
+So this is how we started out with branching out.
+
+75
+00:06:53,000 --> 00:06:56,000
+And we started this conversation with the Merck group team.
+
+76
+00:06:56,000 --> 00:07:00,000
+We showcase the accelerator to the team over there.
+
+77
+00:07:00,000 --> 00:07:12,000
+And then she advises to connect to the individual who sits out of Germany and who looks after the entire, the clinical reports submission, the entire medical writing teams.
+
+78
+00:07:12,000 --> 00:07:17,000
+So Sabino is the person that we are going to meet there.
+
+79
+00:07:18,000 --> 00:07:20,000
+This is going to be the organizer.
+
+80
+00:07:20,000 --> 00:07:29,000
+And I just sort of reached out to the internal partners that we are affiliated, for example, AWS, Databricks, hey, Snowflake, we are going to be meeting Merck.
+
+81
+00:07:29,000 --> 00:07:40,000
+And I wanted to have my conversation centered around helping her out as much as possible so that she does not have to juggle through the hoops.
+
+82
+00:07:40,000 --> 00:07:46,000
+So that she does not have to face any difficulties with any sort of, you know, hey, this is not the platform that we are.
+
+83
+00:07:46,000 --> 00:07:55,000
+Or this is not a technology that we are already leveraging or this is the technology that we are leveraging and we would rather like to incorporate this into our submission.
+
+84
+00:07:55,000 --> 00:07:58,000
+I wanted to have this conversation so that it is more productive for her as well.
+
+85
+00:07:58,000 --> 00:08:02,000
+And that is why I just said this as one of the opportunities where we are going forward.
+
+86
+00:08:02,000 --> 00:08:10,000
+And I wanted to understand if any of my partners actually working in this account and if they have any advice for us going forward in these conversations.
+
+87
+00:08:11,000 --> 00:08:21,000
+And, you know, if they would be open to trying us for these, you know, the next level of conversation that we take forward to showcase it to them to create a PUC and then further build out the entire process.
+
+88
+00:08:21,000 --> 00:08:25,000
+Does that sound interesting to you or hey, we're all.
+
+89
+00:08:25,000 --> 00:08:28,000
+Yeah, I think, I think it's, you know, I think it's super interesting.
+
+90
+00:08:28,000 --> 00:08:29,000
+I think it's super interesting.
+
+91
+00:08:29,000 --> 00:08:39,000
+And I think that actually, I need to pull in the merge.
+
+92
+00:08:39,000 --> 00:08:41,000
+Because it is really interesting.
+
+93
+00:08:41,000 --> 00:08:43,000
+So I want to put in the account manager.
+
+94
+00:08:43,000 --> 00:08:52,000
+And so I'm going to see if I can find time with them.
+
+95
+00:08:52,000 --> 00:08:56,000
+Let me see is a guy called Deepak Sahi.
+
+96
+00:08:56,000 --> 00:09:04,000
+Let me see when he's available and we can sort out calendars now.
+
+97
+00:09:04,000 --> 00:09:18,000
+Um, um, um, um,
+
+98
+00:09:18,000 --> 00:09:19,000
+and my calendars.
+
+99
+00:09:19,000 --> 00:09:29,000
+Um, so next Wednesday at 2 30 London time.
+
+100
+00:09:30,000 --> 00:09:35,000
+Our industry would be late for us because we're meeting.
+
+101
+00:09:35,000 --> 00:09:38,000
+Uh, somebody on Monday.
+
+102
+00:09:38,000 --> 00:09:39,000
+Oh, you're meeting on Monday.
+
+103
+00:09:39,000 --> 00:09:40,000
+Okay.
+
+104
+00:09:40,000 --> 00:09:41,000
+Yeah.
+
+105
+00:09:41,000 --> 00:09:46,000
+Um, let me see if he's around tomorrow.
+
+106
+00:09:46,000 --> 00:09:58,000
+Um, and we, it was the conversation that you're wanting to have here around partnering with AWS professional services to deliver this or simply partnering with the AWS.
+
+107
+00:09:59,000 --> 00:10:00,000
+Account.
+
+108
+00:10:00,000 --> 00:10:08,279
+See, there are two conversations that I'm looking at. I'm primarily a services partner.
+
+109
+00:10:08,279 --> 00:10:13,759
+So if I'm able to bring forward or if you're already having conversations over there, it
+
+110
+00:10:13,759 --> 00:10:16,759
+would be helpful. It gives a little bit of a conference booster to the other party as
+
+111
+00:10:16,759 --> 00:10:21,360
+well that, hey, this is a partner that I'm already working together with. And if I can
+
+112
+00:10:21,360 --> 00:10:26,120
+or if they can watch for me, hey, shorter, this is a reputed partner, I am advanced to
+
+113
+00:10:26,120 --> 00:10:30,600
+be a partner with AWS. So it gives a board of confidence to the other party. It gives
+
+114
+00:10:30,600 --> 00:10:35,840
+a board of confidence to Sabrina as well that this is an established player or this is a
+
+115
+00:10:35,840 --> 00:10:39,279
+reputed player and they can work together with me. That's one arm that I was trying to
+
+116
+00:10:39,279 --> 00:10:44,320
+navigate it through. The other one was if you are working over there as a pro-serve team
+
+117
+00:10:44,320 --> 00:10:48,600
+and if you're already building out certain solutions over there that are centered around
+
+118
+00:10:48,600 --> 00:10:53,480
+this, I would be happy to collaborate with you to build out the or integrate my accelerator
+
+119
+00:10:53,480 --> 00:10:59,159
+into the platform that you went to take forward. So I'm already with both of the conversations.
+
+120
+00:10:59,159 --> 00:11:06,120
+Yeah, let me just, my laptop is being really slow for some reason. I don't know why.
+
+121
+00:11:06,120 --> 00:11:12,120
+So this looks after the pro-serve place or he looks after it as an account executive?
+
+122
+00:11:12,120 --> 00:11:18,399
+The pro-serve. So I'm pro-serve. So I'm from the professional services. So my primary goal
+
+123
+00:11:18,399 --> 00:11:26,879
+is partnering with you guys from a professional services perspective. But as you're talking,
+
+124
+00:11:26,879 --> 00:11:34,279
+I think maybe join up some dots. I think there is a conversation that should be had from
+
+125
+00:11:34,279 --> 00:11:44,399
+that then. But my computer is being rubbish and slow. So let me just try something else.
+
+126
+00:11:48,399 --> 00:12:05,399
+I'm going to choose. I tried to say Monday. Okay. So let's say Monday.
+
+127
+00:12:05,399 --> 00:12:28,519
+I don't know. I don't know. There's something wrong with my laptop. That's why I'm quiet.
+
+128
+00:12:28,519 --> 00:12:30,559
+I'm trying to figure out what's going on with my calendar.
+
+129
+00:12:31,559 --> 00:12:39,360
+No, it's taking a time. So Ryan, just for my info, you are also working at NHS as pro-serve
+
+130
+00:12:39,360 --> 00:12:41,159
+or you're working with partners?
+
+131
+00:12:41,159 --> 00:12:48,240
+Oh, no. I'm just interested because I live in the UK. And so I've worked with the NHS
+
+132
+00:12:48,240 --> 00:12:50,680
+for a long time. I've got family.
+
+133
+00:12:50,680 --> 00:12:51,680
+Which one?
+
+134
+00:12:51,799 --> 00:13:00,799
+No, so we're working with NHS North or Northwest, I believe North. Yeah.
+
+135
+00:13:00,799 --> 00:13:03,319
+We're working with NHS North.
+
+136
+00:13:03,319 --> 00:13:04,319
+I guess.
+
+137
+00:13:04,319 --> 00:13:13,360
+We're trying to roll out our entire solution to the entire NHS. So instead of you going
+
+138
+00:13:13,360 --> 00:13:21,559
+forward and providing all of the entire medical history background, hey, this is my father's
+
+139
+00:13:21,639 --> 00:13:28,120
+details and so on and so forth, so forth. If this can be automated and if all of this
+
+140
+00:13:28,120 --> 00:13:31,600
+can be linked up with pedigree charge for existing patients. So this is the work that
+
+141
+00:13:31,600 --> 00:13:38,680
+you are doing primarily with what a neuro and a couple of other little bit more on the complicated
+
+142
+00:13:38,680 --> 00:13:39,680
+side.
+
+143
+00:13:39,680 --> 00:13:46,680
+Honestly, though, congratulations guys because as soon as you're in with the NHS, it's a lot
+
+144
+00:13:46,680 --> 00:13:55,720
+easier to grow. It's like that initial foothold, which is sometimes toughest. Okay, one more
+
+145
+00:13:55,720 --> 00:13:57,960
+time. I just restarted Outlook.
+
+146
+00:14:01,960 --> 00:14:09,639
+That's still not working. Would you be able to, if I send you guys a call for tomorrow
+
+147
+00:14:09,720 --> 00:14:19,559
+at 3pm London time, which I think is 8.30 your time. Is that right?
+
+148
+00:14:21,240 --> 00:14:23,159
+Could you just confirm the time once more?
+
+149
+00:14:24,200 --> 00:14:26,919
+3pm London GMT.
+
+150
+00:14:28,440 --> 00:14:30,279
+Just give me a minute. I'll look at her.
+
+151
+00:14:33,480 --> 00:14:34,279
+Yeah, that works.
+
+152
+00:14:35,480 --> 00:14:37,799
+I think we are available at that time, hopefully.
+
+153
+00:14:39,639 --> 00:14:48,599
+We cool for tomorrow?
+
+154
+00:14:51,879 --> 00:14:52,120
+Yeah.
+
+155
+00:14:53,240 --> 00:14:56,680
+That means send that across the now and then we'll bring you Deepak along.
+
+156
+00:14:58,120 --> 00:15:06,839
+Because I think there is an opportunity in documentation space to be discussed.
+
+157
+00:15:06,919 --> 00:15:11,079
+And I think as well, he can have some information to share with you about that,
+
+158
+00:15:11,079 --> 00:15:14,119
+more generally in Sabrina and that would be a better use of your time.
+
+159
+00:15:14,119 --> 00:15:18,599
+So what I'll do is I'll send this across now. I'll let you guys go and we'll chat tomorrow
+
+160
+00:15:18,599 --> 00:15:19,720
+with Deepak if that's all right.
+
+161
+00:15:20,599 --> 00:15:21,799
+Sure. That works for me.
+
+162
+00:15:22,759 --> 00:15:23,480
+All right then.
+
+163
+00:15:23,480 --> 00:15:26,839
+Ryan, if you're comfortable with spending a couple of more minutes with me.
+
+164
+00:15:28,679 --> 00:15:34,919
+Yeah. See, I am looking to understand, I'm looking to work together with the AWS ProServe
+
+165
+00:15:34,920 --> 00:15:39,480
+team and I just wanted to understand a little bit more about how I can go about doing that.
+
+166
+00:15:39,480 --> 00:15:39,960
+Sure, sure.
+
+167
+00:15:42,200 --> 00:15:45,720
+So how do you understand the structure?
+
+168
+00:15:48,680 --> 00:15:54,920
+So how much do you know about the utility side of the business? So consumption,
+
+169
+00:15:55,480 --> 00:16:00,680
+do you know much about that side? So Dance Cheerings organization, Deepak there?
+
+170
+00:16:02,279 --> 00:16:04,120
+Sorry, I'm afraid I'm not really familiar with it.
+
+171
+00:16:04,120 --> 00:16:10,279
+No, that's fine. I just know where to begin. So the HTLS business is
+
+172
+00:16:12,360 --> 00:16:19,639
+for the utility and for consumption, how consumption is run by Dan Sheeran,
+
+173
+00:16:19,639 --> 00:16:27,639
+who's the VP for Healthcare Life Sciences. He is responsible for the industry strategy
+
+174
+00:16:27,639 --> 00:16:36,839
+and also manages the AWS account managers for those 32 top strategic accounts.
+
+175
+00:16:39,480 --> 00:16:44,839
+The remainder of the Life Sciences accounts are managed in a separate organization called
+
+176
+00:16:44,839 --> 00:16:53,000
+Amazon Global Sales. So those are the burying at Engelheims of the world, Takeda, Regeneron,
+
+177
+00:16:53,960 --> 00:16:58,920
+like still large Life Sciences, but not the biggest. And so when I say the biggest,
+
+178
+00:16:58,920 --> 00:17:07,960
+nine of the top 10, A.W. pharma companies work with AWS for their AI solutions. So Merck, Pfizer,
+
+179
+00:17:08,839 --> 00:17:17,960
+J&J, Roche, Sunofi Novartis, the biggest sit within the organization AWSI.
+
+180
+00:17:18,359 --> 00:17:24,200
+And then there is a sister organization within the professional services organization,
+
+181
+00:17:24,200 --> 00:17:30,279
+which we call ProServe, which is led by Tara Azimi. So she leads the Healthcare Life Sciences
+
+182
+00:17:30,279 --> 00:17:37,079
+Sales Leaders account managers. And then I sit in a different, I sit in the partner
+
+183
+00:17:37,079 --> 00:17:43,319
+organization. So just to make it a bit more complicated. But the ProServe account executives
+
+184
+00:17:44,119 --> 00:17:50,039
+are responsible for any professional services deal. So anything which is involved with
+
+185
+00:17:50,039 --> 00:17:58,039
+consulting hours, either AWS, Blue Badge staff or partners, the ProServe account executive will
+
+186
+00:17:58,039 --> 00:18:06,360
+run that deal. If there's any deal for increasing cloud spend, increasing consumption, that runs
+
+187
+00:18:06,360 --> 00:18:12,039
+through the global account manager in Dan Shearum's org, if that makes sense.
+
+188
+00:18:16,920 --> 00:18:22,759
+It's a bit complicated. If you just think there's basically, there's a consumption
+
+189
+00:18:22,759 --> 00:18:27,799
+organization, there's a professional services organization, and it worked together, but they're
+
+190
+00:18:28,759 --> 00:18:35,400
+separate. Got it. So I'll tell you the reason that I put forward this, you know,
+
+191
+00:18:35,400 --> 00:18:40,599
+discussion of mine. I have been having, I have had multiple conversations with a couple of
+
+192
+00:18:40,599 --> 00:18:46,840
+other organizations as well. I'm having conversations with Novartis, I'm having conversations with
+
+193
+00:18:46,840 --> 00:18:54,119
+Pfizer. And one of the things that has come up repeatedly has been hate. It is difficult for
+
+194
+00:18:54,200 --> 00:19:00,440
+me to onboard a new partner. Even though I'm bringing in something that is very niche and
+
+195
+00:19:00,440 --> 00:19:05,000
+something that I have built out, and I know for a fact that others are not able to bring to the
+
+196
+00:19:05,000 --> 00:19:10,759
+market as of right now, I know for a fact that they are already or they have burned their fingers or
+
+197
+00:19:10,759 --> 00:19:15,159
+the, you know, the devices of the world, the Novartis is the world, they have already burned
+
+198
+00:19:15,159 --> 00:19:21,559
+their fingers in this particular segment. And I can bring that solution to them. I have built
+
+199
+00:19:21,639 --> 00:19:28,039
+that capability out, but it's still a little bit difficult to become a new vendor or a new
+
+200
+00:19:28,039 --> 00:19:33,159
+onboarded partner. So I just wanted to understand, is there a possibility that I can work together
+
+201
+00:19:33,159 --> 00:19:38,279
+with the partnership team or to maybe go forward as, hey, if you're already working with ProServe
+
+202
+00:19:38,279 --> 00:19:43,400
+team, I would be happy to start working with us so that we can get the ball rolling instead of
+
+203
+00:19:43,400 --> 00:19:48,359
+just, you know, getting stuck on the course. So that would be, that is our model is working with
+
+204
+00:19:48,360 --> 00:19:59,720
+partners who have either very specific professional service or any specific skills.
+
+205
+00:20:00,000 --> 00:20:04,960
+more specific IP and then basically working on
+
+206
+00:20:04,960 --> 00:20:09,319
+ProServe paper as a subcontractor to deliver that to the customers.
+
+207
+00:20:09,319 --> 00:20:11,160
+That is an option as well.
+
+208
+00:20:11,160 --> 00:20:14,720
+I wanted to understand how I can go about doing that.
+
+209
+00:20:14,720 --> 00:20:19,839
+I'd be happy to share a couple of artifacts about the work that we are doing.
+
+210
+00:20:19,839 --> 00:20:21,039
+I'll share the link,
+
+211
+00:20:21,039 --> 00:20:24,079
+a couple of artifacts that we have created.
+
+212
+00:20:24,079 --> 00:20:26,079
+You can take them out and can identify,
+
+213
+00:20:26,079 --> 00:20:29,960
+hey, this makes an actual sense for you as an organization.
+
+214
+00:20:29,960 --> 00:20:35,319
+If you've got an advice, what would be the next best step that I can take forward?
+
+215
+00:20:35,319 --> 00:20:42,359
+The ideal is if there are customers where you know there's an opportunity that you can,
+
+216
+00:20:42,359 --> 00:20:47,119
+that you know exists and you can bring forward,
+
+217
+00:20:47,119 --> 00:20:50,079
+be that Merc, Pfizer, Novartis,
+
+218
+00:20:50,079 --> 00:20:52,440
+the account executives are going to be open as right.
+
+219
+00:20:52,440 --> 00:20:55,079
+If you've got the opportunity already and you're talented,
+
+220
+00:20:55,079 --> 00:20:58,079
+like they're going to be receptive.
+
+221
+00:20:58,079 --> 00:21:02,400
+Then we can find ways of basically,
+
+222
+00:21:02,400 --> 00:21:04,079
+we don't need a full MSA,
+
+223
+00:21:04,079 --> 00:21:12,240
+we can find a way to contract basically on one-time basis to deliver that,
+
+224
+00:21:12,240 --> 00:21:14,680
+like I say on ProServe paper.
+
+225
+00:21:14,680 --> 00:21:17,920
+We take most of the risk,
+
+226
+00:21:17,920 --> 00:21:27,200
+we put markup on your rates and then deliver that work together.
+
+227
+00:21:27,759 --> 00:21:34,960
+That's very much our business model at ProServe is working with partners.
+
+228
+00:21:34,960 --> 00:21:40,519
+It's more about which partners have got the,
+
+229
+00:21:40,519 --> 00:21:44,079
+where do we have a relationship that can help a partner or
+
+230
+00:21:44,079 --> 00:21:49,039
+where does the partner have a relationship that can help us symbiotic.
+
+231
+00:21:49,039 --> 00:21:51,559
+I'll tell you, at this point of time,
+
+232
+00:21:51,559 --> 00:21:55,400
+I'm a person, I'm an organization who has created a niche software.
+
+233
+00:21:55,440 --> 00:21:57,119
+If you have the link to the handiw,
+
+234
+00:21:57,119 --> 00:21:58,759
+if you can share it with Ryan,
+
+235
+00:21:58,759 --> 00:22:00,160
+and if you can check that out.
+
+236
+00:22:00,160 --> 00:22:05,200
+This particular accelerator is primarily catered towards helping the ECTD module.
+
+237
+00:22:05,200 --> 00:22:07,799
+This is just one of the things that we have built out.
+
+238
+00:22:07,799 --> 00:22:10,920
+Since I'm going forward and having conversation about this,
+
+239
+00:22:10,920 --> 00:22:15,640
+I wanted to have a much more of a partnership agreement or a long time,
+
+240
+00:22:15,640 --> 00:22:19,920
+I'm looking more of a long-term agreement where I can work together with the AWS ProServe team,
+
+241
+00:22:19,920 --> 00:22:25,079
+rather than more of a transactional based opportunity-wise engagement.
+
+242
+00:22:25,839 --> 00:22:28,640
+Yeah, that makes sense.
+
+243
+00:22:28,640 --> 00:22:34,319
+The approach that we take is basically that in the first instance,
+
+244
+00:22:34,319 --> 00:22:39,360
+we use these one-time MSAs.
+
+245
+00:22:39,360 --> 00:22:43,960
+Then once we've done three projects together,
+
+246
+00:22:43,960 --> 00:22:46,400
+we can then look to establish a full MSA.
+
+247
+00:22:46,400 --> 00:22:52,400
+We try to show some velocity and momentum with a partner and with a motion.
+
+248
+00:22:52,599 --> 00:22:57,400
+Then once we've got that, then we go forward with a full MSA.
+
+249
+00:22:57,400 --> 00:22:58,880
+If that makes sense.
+
+250
+00:22:58,880 --> 00:23:01,519
+Got it. It does not need to be in different organizations.
+
+251
+00:23:01,519 --> 00:23:03,360
+It can be in one organization itself.
+
+252
+00:23:03,360 --> 00:23:06,079
+For example, I'll give you an example.
+
+253
+00:23:06,079 --> 00:23:09,599
+If we start out at Merck with one small component,
+
+254
+00:23:09,599 --> 00:23:14,640
+we start out as CSR acceleration or CTP acceleration,
+
+255
+00:23:14,640 --> 00:23:19,160
+or any of the one aspects of CTP, or the ADE CTD.
+
+256
+00:23:19,400 --> 00:23:22,960
+Then if we sign multiple contracts, obviously by a ProServe,
+
+257
+00:23:22,960 --> 00:23:26,000
+then we can become official ProServe partners.
+
+258
+00:23:26,000 --> 00:23:30,000
+Would that be right understanding or am I off the mark?
+
+259
+00:23:30,000 --> 00:23:31,680
+That's correct.
+
+260
+00:23:31,680 --> 00:23:32,559
+Got it.
+
+261
+00:23:32,559 --> 00:23:34,000
+Sorry, I was just looking at this,
+
+262
+00:23:34,000 --> 00:23:36,519
+but I'll go ahead and show you the case studies.
+
+263
+00:23:36,519 --> 00:23:38,279
+Yeah.
+
+264
+00:23:41,799 --> 00:23:44,960
+Who is using this right now?
+
+265
+00:23:45,360 --> 00:23:50,400
+This is something that I have taken forward to one of the pharma firms.
+
+266
+00:23:50,400 --> 00:23:54,440
+It is a much more smaller firm than Merck.
+
+267
+00:23:54,440 --> 00:23:57,640
+It's not multi-billion dollar.
+
+268
+00:23:57,640 --> 00:24:01,440
+It's more than the millions range, tens of millions,
+
+269
+00:24:01,440 --> 00:24:08,119
+roughly about 50 million or 100 million dollars range.
+
+270
+00:24:08,119 --> 00:24:09,279
+Yes.
+
+271
+00:24:10,079 --> 00:24:13,960
+I'm looking to expand from just a couple of accounts
+
+272
+00:24:13,960 --> 00:24:16,000
+into a little bit more of a wider ecosystem.
+
+273
+00:24:16,000 --> 00:24:19,240
+If I'm working together with AWS and you see an opportunity,
+
+274
+00:24:19,240 --> 00:24:22,279
+hey, this is one of the accelerators that I've created.
+
+275
+00:24:22,279 --> 00:24:24,680
+And I have seen this issue.
+
+276
+00:24:24,680 --> 00:24:29,360
+If I have to put down the numbers on it,
+
+277
+00:24:29,360 --> 00:24:35,639
+CTP creation or the drug delays to the revenue earning
+
+278
+00:24:35,639 --> 00:24:38,759
+because of all of this entire CTP submission
+
+279
+00:24:38,839 --> 00:24:42,000
+ends up costing for what?
+
+280
+00:24:42,000 --> 00:24:44,079
+Seven to eight weeks for an organization.
+
+281
+00:24:44,079 --> 00:24:46,839
+Sometimes roughly about six months as well
+
+282
+00:24:46,839 --> 00:24:52,880
+because of coming back from EMA or FDA or whatnot.
+
+283
+00:24:52,880 --> 00:24:55,200
+And this ends up costing the organization.
+
+284
+00:24:55,200 --> 00:24:58,680
+So this is just one of the aspects that we started to focus on.
+
+285
+00:24:58,680 --> 00:25:00,279
+If you have something else that you believe,
+
+286
+00:25:00,279 --> 00:25:02,000
+hey, this is a little bit more relevant,
+
+287
+00:25:02,000 --> 00:25:05,279
+I'd be happy to at least understand if this makes sense
+
+288
+00:25:05,279 --> 00:25:07,519
+for us to also jump in or not.
+
+289
+00:25:07,519 --> 00:25:10,279
+Because this was one of the conversations
+
+290
+00:25:10,279 --> 00:25:14,119
+which started off because of working together
+
+291
+00:25:14,119 --> 00:25:15,680
+with one of the customers.
+
+292
+00:25:15,680 --> 00:25:19,960
+And they mentioned, hey, I have this problem and maybe solved it.
+
+293
+00:25:22,400 --> 00:25:28,200
+No, I think let's talk to you back about Mark.
+
+294
+00:25:28,200 --> 00:25:31,000
+Let's start there rather than trying to pour the ocean.
+
+295
+00:25:31,000 --> 00:25:32,279
+I think it's super interesting.
+
+296
+00:25:32,279 --> 00:25:33,599
+I'd love to hear from you.
+
+297
+00:25:33,599 --> 00:25:37,480
+And I'm just looking at the other stuff.
+
+298
+00:25:41,640 --> 00:25:44,640
+So yeah, I think there's lots of conversations that we can have.
+
+299
+00:25:44,640 --> 00:25:48,480
+I think let's start with Mark and then take it from there.
+
+300
+00:25:49,079 --> 00:25:51,039
+I'm going to send this invite here.
+
+301
+00:25:54,320 --> 00:25:55,799
+All right.
+
+302
+00:25:55,799 --> 00:25:56,240
+Thank you.
+
+303
+00:25:56,240 --> 00:25:58,720
+Thankful for you providing me with or at least
+
+304
+00:25:58,720 --> 00:26:02,039
+shedding some light for me on the organizational structure
+
+305
+00:26:02,160 --> 00:26:03,559
+for AWS in the UK.
+
+306
+00:26:04,559 --> 00:26:07,079
+It is a little bit complicated,
+
+307
+00:26:07,079 --> 00:26:09,160
+but I'll try to wrap my head around it.
+
+308
+00:26:10,160 --> 00:26:14,200
+It's, yeah, sorry, it's just one of the problems
+
+309
+00:26:14,200 --> 00:26:18,119
+with having an organization that's having hundreds
+
+310
+00:26:18,119 --> 00:26:19,799
+of thousands of people, but...
+
+311
+00:26:22,200 --> 00:26:24,519
+But you do end up having good resources.
+
+312
+00:26:26,039 --> 00:26:28,400
+So we had trouble pulling this guy in
+
+313
+00:26:28,400 --> 00:26:31,960
+and fortunately we were able to bring him on board.
+
+314
+00:26:31,960 --> 00:26:34,759
+And he has been a valuable support.
+
+315
+00:26:34,759 --> 00:26:36,159
+So that's all I can say.
+
+316
+00:26:37,960 --> 00:26:38,960
+That's good.
+
+317
+00:26:39,759 --> 00:26:40,359
+All right then.
+
+318
+00:26:40,359 --> 00:26:42,440
+Well, chat to you guys tomorrow.
+
+319
+00:26:42,440 --> 00:26:44,039
+And lovely to meet you both.
+
+320
+00:26:44,039 --> 00:26:44,720
+All right.
+
+321
+00:26:44,720 --> 00:26:45,039
+Same here.
+
+322
+00:26:45,039 --> 00:26:45,880
+Cheers.
+
+323
+00:26:45,880 --> 00:26:46,880
+Bye.
+
