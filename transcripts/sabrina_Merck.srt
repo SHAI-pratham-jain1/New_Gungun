@@ -1,0 +1,2480 @@
+1
+00:00:00,000 --> 00:00:05,500
+Yeah. So having winter period now.
+
+2
+00:00:05,500 --> 00:00:13,140
+I've heard that there is a tradition of opening up the windows to allow, you know, the air
+
+3
+00:00:13,140 --> 00:00:16,500
+to circulate that is prevalent in Germany. Absolutely.
+
+4
+00:00:16,500 --> 00:00:25,780
+That is true. That's true. Relitiously in the morning, 15 minutes and 15 minutes in
+
+5
+00:00:25,780 --> 00:00:31,780
+the evening. Don't you guys get cold? I mean, with the chilly weather over there.
+
+6
+00:00:31,780 --> 00:00:34,780
+That doesn't matter. We need fresh air.
+
+7
+00:00:34,780 --> 00:00:37,780
+That's called it.
+
+8
+00:00:37,780 --> 00:00:42,780
+For me, I go into kind of winter hibernation mode like a beer.
+
+9
+00:00:42,780 --> 00:00:47,780
+If just the winter kicks off and I'm into hibernation mode generally.
+
+10
+00:00:47,780 --> 00:00:51,780
+Because I just can't bear the cold weather so much.
+
+11
+00:00:51,780 --> 00:00:55,780
+In fact, I was a little bit under the weather yesterday.
+
+12
+00:00:55,780 --> 00:01:00,780
+Today I'm feeling a little better. So I joined up.
+
+13
+00:01:00,780 --> 00:01:07,780
+Hi, I was just telling that we're just starting and we have a minus four degree Celsius now.
+
+14
+00:01:07,780 --> 00:01:13,780
+And still we're opening the windows religiously.
+
+15
+00:01:13,780 --> 00:01:17,780
+That's cool. That's something that he's been doing that every year.
+
+16
+00:01:17,780 --> 00:01:20,780
+Yeah, that's a good one.
+
+17
+00:01:20,780 --> 00:01:23,780
+Hi, Himanshu. Hi, Pratam.
+
+18
+00:01:23,780 --> 00:01:28,780
+Yeah, Akshita. All right. Let's get this show on the road.
+
+19
+00:01:28,780 --> 00:01:32,780
+Sabina Akshita, thank you so much for joining us today.
+
+20
+00:01:32,780 --> 00:01:39,780
+It's lovely to connect with you and hope you get to see some sunshine throughout the week.
+
+21
+00:01:39,780 --> 00:01:44,780
+So that you don't have to stay bald inside your homes.
+
+22
+00:01:44,780 --> 00:01:54,780
+I'll just go forward. Let's just start off with a little bit of introduction so that you don't get bored of looking at my ugly face for the ugly next 30 minutes or so.
+
+23
+00:01:54,780 --> 00:01:56,780
+All right.
+
+24
+00:01:56,780 --> 00:02:02,780
+So he managed to decide I look after the entire partnership ecosystem over here at Short Hills.
+
+25
+00:02:02,780 --> 00:02:07,780
+Been with the firm for say what one and a half year at this point of time now.
+
+26
+00:02:07,780 --> 00:02:14,780
+I started out as a core technical consultant. I worked with EY for some time and then I migrated more into business consulting.
+
+27
+00:02:14,780 --> 00:02:23,780
+So I was looking after healthcare and education customers and that this sort of has stuck around with me even after my migration to data analytics and AI space.
+
+28
+00:02:23,780 --> 00:02:27,780
+So, well, that is just a very quick round up.
+
+29
+00:02:27,780 --> 00:02:36,780
+Most of the experience that I carry has been with the data analytics, but some has been added into the consulting piece that I had to do as well as the tech work that I did.
+
+30
+00:02:36,780 --> 00:02:39,780
+So that's about myself.
+
+31
+00:02:39,780 --> 00:02:44,780
+I'm joined by my colleague Pratham. Pratham, you want to take a quick minute?
+
+32
+00:02:44,780 --> 00:03:05,780
+Thank you.
+
+33
+00:03:05,780 --> 00:03:09,780
+Congratulations already.
+
+34
+00:03:09,780 --> 00:03:12,780
+Well, handing over the baton to you.
+
+35
+00:03:12,780 --> 00:03:18,780
+Next, I am leading and supreme. I'm leading medical writing operations.
+
+36
+00:03:18,780 --> 00:03:25,780
+And my team is taking care of clinical study protocols, amendments and clinical study reports.
+
+37
+00:03:25,780 --> 00:03:29,780
+On top of that, we have two other medical writing groups.
+
+38
+00:03:29,780 --> 00:03:38,780
+One is taking care of the project level medical writing, like the CTD modules, IB, briefing documents.
+
+39
+00:03:38,780 --> 00:03:45,780
+And the other one is led by a shutter.
+
+40
+00:03:45,780 --> 00:03:48,780
+Did you take over?
+
+41
+00:03:48,780 --> 00:03:53,780
+I think I'm fine. Himanshu and Pratham already know me.
+
+42
+00:03:53,780 --> 00:03:55,780
+So that's okay.
+
+43
+00:03:56,780 --> 00:04:04,780
+So Sabrina, I'll jump right into the meat of the discussion. The reason why you joined us today. So I won't fall back with other things.
+
+44
+00:04:04,780 --> 00:04:09,780
+So we are a little bit of an interaction with the organization as well.
+
+45
+00:04:09,780 --> 00:04:18,779
+So we are an at this point of time, eight and a half year old organization primarily centered around two major aspects of so we work only in two major areas.
+
+46
+00:04:18,779 --> 00:04:23,779
+One is gendered AI along with agent aki and the other one is data engineering.
+
+47
+00:04:23,779 --> 00:04:34,779
+So data engineering is primarily to support the gendered AI work because you need to have a data as the foundation layer created so that you can have a proper agent model run on top of it.
+
+48
+00:04:34,779 --> 00:04:43,779
+So that is the core reason why we have the data engineering practice and of course these supporting practices that are required to ensure that all of the customer systems are up and running.
+
+49
+00:04:43,779 --> 00:04:46,779
+So we are primarily an agent AI services firm.
+
+50
+00:04:46,779 --> 00:04:53,779
+We have been working together, most specifically in the UK, we have been working together with NHS in the UK.
+
+51
+00:04:53,779 --> 00:04:59,779
+And we are now starting off another work with a healthcare payer organization.
+
+52
+00:04:59,779 --> 00:05:04,779
+So that's all I'm allowed to say right now because of the recent signing that's going on.
+
+53
+00:05:04,779 --> 00:05:09,779
+So what we did was we were starting out our observations for life sciences.
+
+54
+00:05:09,779 --> 00:05:30,779
+So we were thinking about what can we really do to help them out and we saw an opportunity or we saw that it takes a lot of time for a medical or a C and easy to do to be created a lot of effort, a lot of input is required from medical writing teams from various different teams to get this show on the road and to ensure that your submission goes out to the FDA as quickly as possible.
+
+55
+00:05:30,779 --> 00:05:39,779
+So we started to focus our efforts on this particular area and we created an accelerator CSR accelerator that is how we started out with for clinical study reports.
+
+56
+00:05:39,779 --> 00:05:47,779
+How can we accelerate it from say the two to three months that are required for you at this point of time to maybe doing it within one and a half hour or so.
+
+57
+00:05:47,779 --> 00:05:51,779
+So that was the core premise behind what we started out with.
+
+58
+00:05:51,779 --> 00:06:00,779
+And of course we have continued to build on top of it, you know, adding on CTD module, sorry, CTP modules, ICF module and a couple of other modules.
+
+59
+00:06:00,779 --> 00:06:08,779
+I'll just like to give you a quick walkthrough of what we have created so that you have a good understanding of what we're doing. Any questions for me so far.
+
+60
+00:06:08,779 --> 00:06:10,779
+Sounds good.
+
+61
+00:06:10,779 --> 00:06:11,779
+All right.
+
+62
+00:06:11,779 --> 00:06:13,779
+Questions.
+
+63
+00:06:13,779 --> 00:06:21,779
+So at any point of the presentation or showcase, if you have any queries, just let me know and we can address those then and then.
+
+64
+00:06:21,779 --> 00:06:23,779
+Okay.
+
+65
+00:06:23,779 --> 00:06:27,779
+All right. Let me know once my screen is visible to you.
+
+66
+00:06:27,779 --> 00:06:29,779
+Yes, it is visible.
+
+67
+00:06:29,779 --> 00:06:40,779
+All right. So this is just a small website that you can check out regarding the CSR that we have already created has a video that you can also check out.
+
+68
+00:06:40,779 --> 00:06:50,779
+Today I would rather just focus on giving a quick walkthrough of what we have done, how it looks like, what is it actually addressing, because a lot of aspects we do not cover up in the video.
+
+69
+00:06:50,779 --> 00:06:53,779
+We also want to ensure some sort of stuff stays with us.
+
+70
+00:06:53,779 --> 00:06:56,779
+So that is the primary concern.
+
+71
+00:06:56,779 --> 00:07:04,779
+So what happens is once you log in, go from the very beginning itself.
+
+72
+00:07:04,779 --> 00:07:11,779
+So you can log in and it can be integrated into your existing environments. You don't even have to enter your details. It can pick up from SSO.
+
+73
+00:07:11,779 --> 00:07:13,779
+Single sign on. Yeah.
+
+74
+00:07:13,779 --> 00:07:15,779
+Exactly right. So that can be enabled.
+
+75
+00:07:15,779 --> 00:07:22,779
+As of right now we are looking at a couple of modules that we have already built out, safety and items, CTPs, ICF evaluation.
+
+76
+00:07:22,779 --> 00:07:28,779
+We are also working together with one of the organization for clinical summaries and non-clinical summaries.
+
+77
+00:07:28,779 --> 00:07:30,779
+Let's see how that pans out.
+
+78
+00:07:30,779 --> 00:07:34,779
+For now I will be giving a quick walkthrough of the CSR module.
+
+79
+00:07:34,779 --> 00:07:36,779
+So this is what it looks like.
+
+80
+00:07:36,779 --> 00:07:46,779
+It is a dashboard that would give you complete visibility into the total CSR that this particular medical writer or this particular user is working on, or have been assigned to this particular user.
+
+81
+00:07:46,779 --> 00:07:51,779
+For example, some CSR might be assigned to me for review purpose.
+
+82
+00:07:51,779 --> 00:08:02,779
+Then anything that is being generated, something that the module is working on behind the scenes, anything that has been completed, and if I have any drafts in place.
+
+83
+00:08:02,779 --> 00:08:16,779
+So how do I go about generating a CSR? Pretty simple. I should provide a better name, but in the interest of time I will just give it a quick description.
+
+84
+00:08:16,779 --> 00:08:21,779
+So better description would allow for a little bit more clarity into what is being built out.
+
+85
+00:08:21,779 --> 00:08:35,779
+It can connect with your OneDrive, your SharePoint. It can be that you are using SharePoint or it might be that you are using a separate file server itself, which you might be using to communicate with your other medical writers or you might be working with a CRO.
+
+86
+00:08:35,779 --> 00:08:42,779
+So if you are using a separate file server to get any sort of information from them, that integration can be done over here itself.
+
+87
+00:08:42,779 --> 00:08:50,779
+Or if you are using SAS, statistical analysis system, that can be done. Or if you are using global. So all those integrations can be done.
+
+88
+00:08:50,779 --> 00:08:56,779
+As of right now, I am looking at a couple of documents that we have provided as reference anchors.
+
+89
+00:08:56,779 --> 00:09:03,779
+Because we need to ensure that there is some amount of, we need to ensure that it adheres to specific categories.
+
+90
+00:09:03,779 --> 00:09:13,779
+So we are looking at ISH E3 guidelines, FDA for AI specifications and E6 guidelines. So you can view those details over here.
+
+91
+00:09:13,779 --> 00:09:15,779
+I know them very well.
+
+92
+00:09:15,779 --> 00:09:21,779
+Yeah, I am talking to the choir. Wrong statement for that.
+
+93
+00:09:22,779 --> 00:09:31,779
+So I will just put forward, say, I will upload this. This is the adverse events data. So it is validating as of right now.
+
+94
+00:09:31,779 --> 00:09:44,779
+The reason for this validation is a medical writer might make a mistake. They might erroneously upload, say, CTP is just below A or approval letter is just below A data.
+
+95
+00:09:44,779 --> 00:09:50,779
+So they might upload approval letter instead of adverse events. And we want to ensure that the system flags it up.
+
+96
+00:09:50,779 --> 00:09:55,779
+So just a flagging would be there. It would not stop you per se, but it would allow you to do so.
+
+97
+00:09:55,779 --> 00:09:59,779
+You can view the PDF and you can make a call. Hey.
+
+98
+00:10:00,000 --> 00:10:03,440
+this is the exact document that I have uploaded.
+
+99
+00:10:03,440 --> 00:10:06,759
+Once you've uploaded the required documents,
+
+100
+00:10:06,759 --> 00:10:09,340
+this can be customized as per your requirements.
+
+101
+00:10:09,340 --> 00:10:11,899
+So as I mentioned earlier, we have a services form.
+
+102
+00:10:11,899 --> 00:10:13,580
+This entire solution would be,
+
+103
+00:10:13,580 --> 00:10:15,379
+so what will happen is this entire solution will
+
+104
+00:10:15,379 --> 00:10:17,659
+be deployed in more groups environment.
+
+105
+00:10:17,659 --> 00:10:21,820
+It would be in a separate server that you already own,
+
+106
+00:10:21,820 --> 00:10:24,419
+and you would provide access to my developers.
+
+107
+00:10:24,419 --> 00:10:25,440
+They will go over there,
+
+108
+00:10:25,440 --> 00:10:27,379
+they will deploy the solution.
+
+109
+00:10:27,379 --> 00:10:29,220
+We will test it out,
+
+110
+00:10:29,220 --> 00:10:31,840
+and then we will give you access for testing.
+
+111
+00:10:31,840 --> 00:10:36,179
+You take out, you try out however many CSRs you want to try out,
+
+112
+00:10:36,179 --> 00:10:37,580
+and once you are happy with it,
+
+113
+00:10:37,580 --> 00:10:39,000
+then we go forward with CoLife,
+
+114
+00:10:39,000 --> 00:10:41,139
+and it will be officially handed over to your team
+
+115
+00:10:41,139 --> 00:10:43,740
+for creating CSRs as much as you want.
+
+116
+00:10:43,740 --> 00:10:44,899
+Okay.
+
+117
+00:10:44,899 --> 00:10:47,860
+So we work more on a services module,
+
+118
+00:10:47,860 --> 00:10:51,179
+which basically involves us taking forward the,
+
+119
+00:10:51,179 --> 00:10:54,580
+or customizing this entire platform to your requirements,
+
+120
+00:10:54,580 --> 00:10:57,580
+ensuring that the final CSRs or the final CTPs,
+
+121
+00:10:57,580 --> 00:10:59,659
+whichever module you decide to go forward with,
+
+122
+00:10:59,659 --> 00:11:02,220
+is customized for your requirements,
+
+123
+00:11:02,220 --> 00:11:06,759
+and it ensures that your medical writers don't have to go
+
+124
+00:11:06,759 --> 00:11:09,100
+through entirely different learning module,
+
+125
+00:11:09,100 --> 00:11:12,819
+or there's no learning curve can be minimized as much as possible.
+
+126
+00:11:12,819 --> 00:11:14,139
+Okay.
+
+127
+00:11:14,139 --> 00:11:17,220
+Sounds promising.
+
+128
+00:11:17,500 --> 00:11:22,819
+Well, we hope to deliver on that promise together with you.
+
+129
+00:11:22,980 --> 00:11:24,779
+So what will happen is,
+
+130
+00:11:24,860 --> 00:11:28,259
+say you have, you're just providing it with four documents,
+
+131
+00:11:28,259 --> 00:11:31,740
+say Adverse Events Log, you're providing with CTP,
+
+132
+00:11:31,740 --> 00:11:34,500
+then you're providing it with informed consent forms,
+
+133
+00:11:34,500 --> 00:11:38,580
+and then you maybe want us to pull the TLFs directly from SAS.
+
+134
+00:11:38,580 --> 00:11:41,659
+So what we'll do is, we'll add a separate box over here,
+
+135
+00:11:41,659 --> 00:11:44,220
+where the connection would be established with viewer board.
+
+136
+00:11:44,220 --> 00:11:48,500
+The connection, the protocol details would be basically
+
+137
+00:11:48,500 --> 00:11:51,259
+leveraging the username and password which you provide,
+
+138
+00:11:51,259 --> 00:11:54,659
+obviously for this particular user to access the SAS environment,
+
+139
+00:11:54,700 --> 00:11:55,779
+or the viewer board,
+
+140
+00:11:55,779 --> 00:11:58,460
+pull out those necessary information directly inputted.
+
+141
+00:11:58,460 --> 00:12:00,379
+That is one way in which we can proceed.
+
+142
+00:12:00,379 --> 00:12:01,460
+The other way might be,
+
+143
+00:12:01,460 --> 00:12:04,299
+hey, I will just provide you with a folder detail,
+
+144
+00:12:04,299 --> 00:12:07,860
+you directly fetch all the documents that are present over there.
+
+145
+00:12:08,860 --> 00:12:11,860
+That is another methodology in which we can proceed forward.
+
+146
+00:12:12,980 --> 00:12:14,220
+Does that make sense?
+
+147
+00:12:15,500 --> 00:12:16,299
+Cool.
+
+148
+00:12:16,940 --> 00:12:19,659
+Once you've provided all of the relevant documents,
+
+149
+00:12:19,659 --> 00:12:22,899
+then we'll come on to the next section.
+
+150
+00:12:22,899 --> 00:12:27,980
+This is the page on which you will decide what is the output,
+
+151
+00:12:27,980 --> 00:12:30,220
+or what kind of output are you really looking at.
+
+152
+00:12:30,220 --> 00:12:33,180
+For example, are you looking at ICH E3 compliant documents,
+
+153
+00:12:33,180 --> 00:12:39,059
+or do you have a custom format that Merck Group follows internally?
+
+154
+00:12:39,059 --> 00:12:41,580
+So we'll customize it according to your requirements.
+
+155
+00:12:41,580 --> 00:12:43,819
+Maybe instead of 16 sections,
+
+156
+00:12:43,819 --> 00:12:46,299
+you're looking at 13 sections or 12 sections,
+
+157
+00:12:46,299 --> 00:12:48,059
+or some sections have been integrated,
+
+158
+00:12:48,059 --> 00:12:51,019
+or maybe you do not want to create an ethics section.
+
+159
+00:12:51,019 --> 00:12:53,019
+So you can deselect that particular section,
+
+160
+00:12:53,019 --> 00:12:56,019
+and you can proceed forward with submitting and generating it.
+
+161
+00:12:59,980 --> 00:13:01,100
+Any queries for me?
+
+162
+00:13:01,580 --> 00:13:02,259
+No.
+
+163
+00:13:03,220 --> 00:13:03,940
+Akshwara?
+
+164
+00:13:08,379 --> 00:13:09,420
+All right, cool.
+
+165
+00:13:09,420 --> 00:13:11,139
+So in the interest of time,
+
+166
+00:13:11,139 --> 00:13:14,940
+what will happen is once I press forward with submit and generate,
+
+167
+00:13:14,940 --> 00:13:19,820
+it'll take roughly about 20 minutes to one and a half hour.
+
+168
+00:13:19,819 --> 00:13:23,740
+We stress tested it on roughly about 15,000 page TLF.
+
+169
+00:13:23,740 --> 00:13:27,819
+So we were able to bring it down to about one hour 15 minutes,
+
+170
+00:13:27,819 --> 00:13:30,740
+but that's why, and when we tested it on smaller sets,
+
+171
+00:13:30,740 --> 00:13:32,819
+we brought it down to about less than 20 minutes.
+
+172
+00:13:32,819 --> 00:13:35,019
+So it changes from 20 minutes to one hour 20 minutes,
+
+173
+00:13:35,019 --> 00:13:39,819
+but I generally give forward with a one and a half hour generation time window.
+
+174
+00:13:40,539 --> 00:13:43,899
+The reason that we have gone forward with such an integration
+
+175
+00:13:43,899 --> 00:13:48,379
+is to ensure that medical writers, they are not prompt engineers.
+
+176
+00:13:48,379 --> 00:13:51,700
+They should not have to go ahead and try out different prompts.
+
+177
+00:13:51,700 --> 00:13:54,740
+They should be able to go ahead and do the work that they want to do,
+
+178
+00:13:54,740 --> 00:13:56,980
+and then at the end of the day, review the work,
+
+179
+00:13:56,980 --> 00:14:02,139
+because their primary task is to have the review out of the gate
+
+180
+00:14:02,139 --> 00:14:04,940
+as soon as possible so that you can have the FDA submission
+
+181
+00:14:04,940 --> 00:14:06,500
+done as quickly as possible.
+
+182
+00:14:07,299 --> 00:14:08,860
+So that is the methodology,
+
+183
+00:14:08,860 --> 00:14:12,259
+which is why you see so few clicks into the entire process.
+
+184
+00:14:13,100 --> 00:14:16,700
+I'll show you a previously generated one and how it looks like.
+
+185
+00:14:17,259 --> 00:14:19,500
+So if I had pressed submit and generate,
+
+186
+00:14:19,500 --> 00:14:22,779
+this is an accelerated view of what would have taken place.
+
+187
+00:14:23,779 --> 00:14:25,339
+So as you can see over here,
+
+188
+00:14:25,339 --> 00:14:28,339
+certain sections or certain agents are paused up.
+
+189
+00:14:28,339 --> 00:14:30,620
+So we are using a multi-agent model.
+
+190
+00:14:30,620 --> 00:14:32,460
+I did not want to get into a technical discussion,
+
+191
+00:14:32,460 --> 00:14:35,180
+so I'll just briefly mention about it.
+
+192
+00:14:35,180 --> 00:14:37,819
+So we are looking at a multi-agent deployment
+
+193
+00:14:37,819 --> 00:14:40,860
+where different agents are used to create different sections.
+
+194
+00:14:41,620 --> 00:14:43,099
+Certain agents are paused upright,
+
+195
+00:14:43,099 --> 00:14:46,259
+for example, synopsis agent or TLF agent.
+
+196
+00:14:46,259 --> 00:14:48,059
+These are paused up for the simple reason
+
+197
+00:14:48,059 --> 00:14:51,220
+being a synopsis is not possible until and unless
+
+198
+00:14:51,220 --> 00:14:53,339
+you have the rest of the sections generated.
+
+199
+00:14:54,980 --> 00:14:57,539
+Since this is created, you can click on View,
+
+200
+00:14:59,019 --> 00:15:01,659
+and you can view the content that has been generated.
+
+201
+00:15:01,659 --> 00:15:04,019
+Or the other section, the other piece
+
+202
+00:15:04,019 --> 00:15:06,339
+that we are really proud of is the Audit piece.
+
+203
+00:15:07,579 --> 00:15:11,379
+So Audit allows you to view specific snippets
+
+204
+00:15:11,379 --> 00:15:13,539
+from where you got the specific content.
+
+205
+00:15:13,539 --> 00:15:18,180
+For example, this particular statement has been reverted
+
+206
+00:15:18,180 --> 00:15:20,779
+from this particular snippet.
+
+207
+00:15:20,779 --> 00:15:23,220
+And this was generated from ctp.pdf.
+
+208
+00:15:23,220 --> 00:15:24,660
+I can click on open source PDF
+
+209
+00:15:24,660 --> 00:15:27,220
+and I can go to the exact line and view that piece.
+
+210
+00:15:28,660 --> 00:15:31,940
+So a medical writer, once a content has been generated,
+
+211
+00:15:31,940 --> 00:15:34,620
+a medical writer always has the flexibility
+
+212
+00:15:34,620 --> 00:15:36,900
+or always has traceability,
+
+213
+00:15:36,900 --> 00:15:39,100
+because AI might generate content,
+
+214
+00:15:39,100 --> 00:15:41,740
+but we want to ensure that hallucination
+
+215
+00:15:41,740 --> 00:15:43,019
+can be brought in control.
+
+216
+00:15:43,019 --> 00:15:45,099
+We want to ensure that there is complete traceability
+
+217
+00:15:45,099 --> 00:15:48,460
+and control of the entire document with the medical writer.
+
+218
+00:15:48,460 --> 00:15:50,500
+They are the actual owners of the entire document.
+
+219
+00:15:50,500 --> 00:15:53,180
+So they can view where a specific content
+
+220
+00:15:53,180 --> 00:15:55,460
+has been generated from.
+
+221
+00:15:58,379 --> 00:16:00,379
+Does that make sense or hey,
+
+222
+00:16:00,379 --> 00:16:04,259
+they are going in completely different direction?
+
+223
+00:16:04,259 --> 00:16:06,299
+No, no, that makes sense, absolute sense.
+
+224
+00:16:07,859 --> 00:16:09,899
+So this is just one thing that you were thinking of.
+
+225
+00:16:09,899 --> 00:16:11,700
+Earlier we had more of a,
+
+226
+00:16:11,700 --> 00:16:13,980
+we were just talking about, hey, this is the page number
+
+227
+00:16:13,980 --> 00:16:16,139
+and this is the PDF file.
+
+228
+00:16:16,139 --> 00:16:17,860
+But over the course of working together
+
+229
+00:16:17,860 --> 00:16:19,259
+with medical writers, we have understood
+
+230
+00:16:19,259 --> 00:16:21,579
+that it is better to show a snippet of,
+
+231
+00:16:21,579 --> 00:16:23,779
+hey, where am I actually generating
+
+232
+00:16:23,779 --> 00:16:24,899
+this particular content from?
+
+233
+00:16:24,899 --> 00:16:26,379
+So that it makes a little bit more sense.
+
+234
+00:16:26,379 --> 00:16:29,139
+They can have a quick review done here itself,
+
+235
+00:16:29,139 --> 00:16:33,379
+rather than navigating to that particular document
+
+236
+00:16:33,379 --> 00:16:36,139
+and then navigating to that particular page number,
+
+237
+00:16:36,139 --> 00:16:39,460
+identifying where that line or statement actually is
+
+238
+00:16:39,539 --> 00:16:42,899
+and then just trying to figure it out for themselves.
+
+239
+00:16:42,899 --> 00:16:45,059
+So that is the methodology which we followed.
+
+240
+00:16:47,620 --> 00:16:49,859
+Over here you can see the different contents
+
+241
+00:16:49,859 --> 00:16:50,940
+that have been generated
+
+242
+00:16:50,940 --> 00:16:53,779
+and the input documents which I provided.
+
+243
+00:16:53,779 --> 00:16:57,859
+So this is a previously generated document.
+
+244
+00:16:57,859 --> 00:16:59,659
+Anything in specific that you would like to see
+
+245
+00:16:59,659 --> 00:17:01,339
+in this particular section just to
+
+246
+00:17:01,339 --> 00:17:02,859
+get a little bit of peace of mind?
+
+247
+00:17:04,579 --> 00:17:06,380
+Safety evaluation lab section.
+
+248
+00:17:07,220 --> 00:17:08,059
+Sure.
+
+249
+00:17:10,059 --> 00:17:12,299
+Not going easy on you yet.
+
+250
+00:17:12,299 --> 00:17:13,380
+No, I'm happy with that.
+
+251
+00:17:13,380 --> 00:17:14,579
+I'm actually pretty happy.
+
+252
+00:17:14,579 --> 00:17:16,380
+I was going forward with results
+
+253
+00:17:17,380 --> 00:17:19,940
+and the most important piece because at the end of the day,
+
+254
+00:17:19,940 --> 00:17:22,380
+you're looking to have the results created out.
+
+255
+00:17:23,779 --> 00:17:26,139
+I was looking for that, but yeah.
+
+256
+00:17:29,180 --> 00:17:30,460
+So for this particular study,
+
+257
+00:17:30,460 --> 00:17:35,059
+what happened was BND 161616162B2,
+
+258
+00:17:36,059 --> 00:17:37,900
+I believe there were five different modules
+
+259
+00:17:37,900 --> 00:17:40,900
+that were five different drug combinations
+
+260
+00:17:43,579 --> 00:17:44,579
+that were selected.
+
+261
+00:17:45,819 --> 00:17:48,579
+Out of them, two went to phase three,
+
+262
+00:17:48,579 --> 00:17:51,099
+but one of them was rejected in phase three.
+
+263
+00:17:51,099 --> 00:17:52,619
+So in the entire document,
+
+264
+00:17:52,619 --> 00:17:57,380
+you will see a mention of the other drug as well,
+
+265
+00:17:57,380 --> 00:17:59,460
+but it has been minimized as much as possible.
+
+266
+00:17:59,460 --> 00:18:01,660
+It is only present wherever it is required.
+
+267
+00:18:01,660 --> 00:18:03,779
+Most of the effort has been spent on
+
+268
+00:18:03,779 --> 00:18:06,700
+ensuring the visibility for this particular drug,
+
+269
+00:18:06,700 --> 00:18:08,579
+but I believe there was a requirement of,
+
+270
+00:18:08,579 --> 00:18:10,980
+hey, whichever one you ran for phase three,
+
+271
+00:18:10,980 --> 00:18:12,380
+it should be mentioned at least.
+
+272
+00:18:12,380 --> 00:18:14,299
+So it has been mentioned.
+
+273
+00:18:14,299 --> 00:18:16,859
+And you can view what information you would like to see
+
+274
+00:18:16,859 --> 00:18:17,859
+at this point of time.
+
+275
+00:18:21,460 --> 00:18:24,500
+Okay, is there also a tabular view of the data
+
+276
+00:18:24,500 --> 00:18:25,460
+or just text?
+
+277
+00:18:27,659 --> 00:18:30,900
+The tabular view, you're looking at the TLF files, right?
+
+278
+00:18:30,900 --> 00:18:32,980
+TLF files for some reason or the other
+
+279
+00:18:33,099 --> 00:18:36,900
+are not very clear on visibility.
+
+280
+00:18:39,539 --> 00:18:42,340
+It is a little bit for smaller window to render that text.
+
+281
+00:18:42,340 --> 00:18:44,779
+So I'm not able to render it very clearly.
+
+282
+00:18:46,579 --> 00:18:49,259
+Otherwise, you can go to the source PDF itself
+
+283
+00:18:49,259 --> 00:18:50,779
+and then view the document.
+
+284
+00:18:50,779 --> 00:18:53,579
+So it will take you to the source PDF and the page number.
+
+285
+00:18:55,700 --> 00:18:56,539
+Okay.
+
+286
+00:18:58,500 --> 00:19:00,180
+But this is the classical section
+
+287
+00:19:00,180 --> 00:19:02,900
+where I would actually expect an in-text table.
+
+288
+00:19:03,980 --> 00:19:04,820
+Got it.
+
+289
+00:19:06,619 --> 00:19:08,579
+Okay, here we are.
+
+290
+00:19:08,579 --> 00:19:10,740
+Oh, so you're talking about the final table.
+
+291
+00:19:10,740 --> 00:19:11,779
+I thought you were looking at,
+
+292
+00:19:11,779 --> 00:19:13,500
+hey, do you have it in audit log?
+
+293
+00:19:13,500 --> 00:19:14,340
+No.
+
+294
+00:19:14,340 --> 00:19:15,500
+No, not in order log.
+
+295
+00:19:15,500 --> 00:19:18,579
+I'm loading at the final section
+
+296
+00:19:18,579 --> 00:19:20,500
+and I would expect an in-text table
+
+297
+00:19:20,500 --> 00:19:22,259
+in the safety summary as well.
+
+298
+00:19:23,180 --> 00:19:25,380
+Okay, but we have that for adverse events.
+
+299
+00:19:25,380 --> 00:19:26,220
+Okay.
+
+300
+00:19:30,220 --> 00:19:31,539
+Scroll down further, Himachal.
+
+301
+00:19:31,539 --> 00:19:33,539
+Yeah, to the lab section, yeah.
+
+302
+00:19:35,740 --> 00:19:38,059
+Let me know when you want to stop me.
+
+303
+00:19:38,059 --> 00:19:38,900
+Okay, go.
+
+304
+00:19:38,900 --> 00:19:41,059
+This is one thing to go further down.
+
+305
+00:19:48,940 --> 00:19:49,940
+So basically Sabrina,
+
+306
+00:19:49,940 --> 00:19:52,099
+they've taken the template right from my stage.
+
+307
+00:19:52,099 --> 00:19:55,139
+So whatever is there, I'm assuming everything has been pulled.
+
+308
+00:19:55,139 --> 00:19:56,619
+I've looked at this even last time.
+
+309
+00:19:56,619 --> 00:19:58,819
+So that's there.
+
+310
+00:19:58,819 --> 00:20:00,179
+Again, customization.
+
+311
+00:20:00,000 --> 00:20:04,240
+to the internal templates is something that can additionally, you know, should be done
+
+312
+00:20:04,240 --> 00:20:12,640
+or can be done is what I assume. Yeah. And I think it's, so Himanshu, this is all about
+
+313
+00:20:12,640 --> 00:20:17,519
+you've created certain agents and then, totally developed one skill, is it?
+
+314
+00:20:19,680 --> 00:20:24,640
+It won't be a skill, it is a complete platform that would, so the end, I'll tell you how it would
+
+315
+00:20:24,640 --> 00:20:29,519
+actually look like. As I mentioned previously, we will come in, we will complete the entire
+
+316
+00:20:29,519 --> 00:20:33,519
+deployment in your environment and then we'll hand over the entire platform to you.
+
+317
+00:20:35,519 --> 00:20:41,680
+We will, however, retain the right to sell forward the current version, the current version that
+
+318
+00:20:41,680 --> 00:20:46,640
+you see right now to other customers, but the version of the platform, yeah, version of the
+
+319
+00:20:46,640 --> 00:20:52,319
+platform, but the version of the platform that would be done for you will be entirely on your
+
+320
+00:20:52,319 --> 00:20:56,640
+servers. So it can never be taken out of your servers. Any customer,
+
+321
+00:20:56,640 --> 00:21:02,079
+the data is safe and confidential is what you're saying. So what I'm saying, yeah, exactly.
+
+322
+00:21:02,079 --> 00:21:07,039
+So whatever updates happen to it, whatever customization happens to it, whatever changes
+
+323
+00:21:07,039 --> 00:21:11,599
+happen to it are always retained within your environment. I would only, if you want to do
+
+324
+00:21:11,599 --> 00:21:17,920
+further improvisation or addition to the tool, so the admin rights will still be only with you
+
+325
+00:21:17,920 --> 00:21:23,599
+and the company or we will be able to make the changes. So what sort of changes are we looking
+
+326
+00:21:23,599 --> 00:21:32,240
+at over here? To the platform. Say we won't change something. So we will provide you with the admin
+
+327
+00:21:32,240 --> 00:21:38,720
+rights. We will provide you with the access control. So there's an role-based access control
+
+328
+00:21:38,720 --> 00:21:43,200
+that is built in over here. So the primary reason for that was to ensure that, hey, you can assign
+
+329
+00:21:43,200 --> 00:21:48,960
+it to anybody you want to do that. Got it. Yeah, this we are aware. We've done this for another
+
+330
+00:21:49,039 --> 00:21:54,720
+access platform. You will be there. You will be able to add users. You'll be able to delete users.
+
+331
+00:21:55,440 --> 00:22:03,599
+If you're looking for any changes from improvisation, say, yeah. So that is something that will be
+
+332
+00:22:03,599 --> 00:22:08,240
+there. Yeah, so that is my headache. That is something that I would have to take risk, that
+
+333
+00:22:08,240 --> 00:22:13,839
+I'm taking responsibility for and for ensuring that everything that is required would be delivered to
+
+334
+00:22:13,920 --> 00:22:22,319
+you in regards to how you're expecting it. Okay. So the same for template changes or new templates
+
+335
+00:22:22,319 --> 00:22:30,960
+or anything like that. Okay. Okay. Himanshu, one another question I remember asking you this last
+
+336
+00:22:30,960 --> 00:22:37,200
+time and you didn't have a lot of samples that time. I think you had worked on only one CSR
+
+337
+00:22:37,200 --> 00:22:42,240
+because that was readily available on the website or to be downloaded as a generic user.
+
+338
+00:22:42,960 --> 00:22:46,880
+Now has the testing gone further because it's been even six months and plus,
+
+339
+00:22:48,559 --> 00:22:54,400
+yeah. Okay. And have you used this for any of the clients without naming the clients that's okay?
+
+340
+00:22:57,039 --> 00:23:05,440
+It's a biotech firm. We ran together with them and we are currently running together with them. So
+
+341
+00:23:05,440 --> 00:23:08,799
+while we're working together with them, so the previous iteration of the platform that you saw,
+
+342
+00:23:09,599 --> 00:23:15,039
+there were a couple of issues that we identified. So majorly two issues were there. One was
+
+343
+00:23:16,240 --> 00:23:22,640
+regarding how big of a data can I throw at it. So that is one thing that we addressed.
+
+344
+00:23:23,279 --> 00:23:28,720
+So earlier we were looking at say 20 minutes for one CSR generation. So that is why I was so
+
+345
+00:23:28,720 --> 00:23:32,720
+confident about, hey, give me one and a half hour, one hour, 20 minutes and I'll be able to pull
+
+346
+00:23:32,720 --> 00:23:39,360
+forward complete 15,000 page document for you or create a complete 15,000 page plus TLF for you.
+
+347
+00:23:40,000 --> 00:23:44,319
+The other one was integrating together with SAS environment and ensuring all of the relevant
+
+348
+00:23:44,319 --> 00:23:49,759
+information gets pulled out. So these are two major hiccups that we face together while working with
+
+349
+00:23:49,759 --> 00:23:55,599
+them. Of course that version of the solution I cannot share with you. Okay.
+
+350
+00:23:58,880 --> 00:24:01,920
+All right. I don't have any further questions. Subdine, any questions from you?
+
+351
+00:24:02,799 --> 00:24:08,880
+How is the tool dealing with figures? Like because for example in pharmacokinetic section,
+
+352
+00:24:08,880 --> 00:24:16,240
+we have to deal with a lot of figures, sometimes also in efficacy. Is the tool able to
+
+353
+00:24:17,039 --> 00:24:23,200
+ingest those and interpret? Yeah, it is able to ingest all of the tables that you're pulling
+
+354
+00:24:23,200 --> 00:24:27,279
+or you're required to put. But not tables. I'm talking about figures, graphics.
+
+355
+00:24:28,240 --> 00:24:33,599
+Graphics would be pulled up as it is as they are. So if you have some...
+
+356
+00:24:33,599 --> 00:24:38,960
+Without the table, they cannot be digested and not be interpreted, right?
+
+357
+00:24:39,839 --> 00:24:47,440
+Yeah. So that's what I'm trying to get at. What will happen is figures come through in the TLFs.
+
+358
+00:24:47,440 --> 00:24:53,839
+Figure will be brought in as it is along with all of the relevant content in the table that is
+
+359
+00:24:53,839 --> 00:25:00,720
+associated with it. A platform will understand what is there in the figure. It will also understand
+
+360
+00:25:00,720 --> 00:25:05,119
+what is there in the table and then provide a comprehensive summary where it is required.
+
+361
+00:25:06,480 --> 00:25:12,079
+I was... But any changes would not be made to the figure because... Yeah, yeah. No, no. That
+
+362
+00:25:12,079 --> 00:25:17,679
+is exactly... That should not be touched. So if you're looking at any changes that I'm making,
+
+363
+00:25:17,679 --> 00:25:22,159
+I'm not making any change to that. I would not be able to make any change. I would just be pulling
+
+364
+00:25:22,160 --> 00:25:26,880
+that figure as it is onto the final form. I would not be making any change. That's fine. Our programmer
+
+365
+00:25:26,880 --> 00:25:33,440
+would slap our wrist if we were changing their double programmed figures. No, I thought you
+
+366
+00:25:33,440 --> 00:25:38,160
+were expecting any cake and it changed the figure itself. No, no, no. That I would not be able to do.
+
+367
+00:25:40,320 --> 00:25:46,480
+Yeah. So that is something that we can do. Okay. And the other one was... I don't know,
+
+368
+00:25:47,200 --> 00:25:51,840
+maybe showcase it to you, Akshita or not. So this is another thing that we have built out.
+
+369
+00:25:53,119 --> 00:25:58,480
+So this is basically for version controls. So we saw that, hey, you might be getting some updated
+
+370
+00:25:58,480 --> 00:26:03,039
+information or you might want to roll back to a previous version of the document. So that is just
+
+371
+00:26:03,039 --> 00:26:11,920
+something that we have built out. So what happens is I mentioned over here, I was not happy with
+
+372
+00:26:11,920 --> 00:26:17,200
+this particular statement. I maybe want to make a change to this. Add comment over here. Then we
+
+373
+00:26:17,200 --> 00:26:23,039
+will do add comment and I can even limit the scope. So I want to make a change only to this
+
+374
+00:26:23,039 --> 00:26:28,160
+particular section or I want to make it to the entire report. For example, you're making,
+
+375
+00:26:28,160 --> 00:26:32,400
+as a work group, you're making submissions to email. So you might be required to have it in
+
+376
+00:26:33,519 --> 00:26:39,119
+UK English or you might be looking at something else. When you're making similar submissions as
+
+377
+00:26:39,119 --> 00:26:44,720
+EMD Surrounder to say US market and you're required to make submission to the FTA, you might need it
+
+378
+00:26:44,720 --> 00:26:49,360
+to be in US English. So you can have that specified over here. Hey, make the change for the entire
+
+379
+00:26:49,360 --> 00:26:56,960
+document to US English. So that is one thing that we have built out. The other one is, hey, you can
+
+380
+00:26:56,960 --> 00:27:03,920
+have version control. So you can roll back and once you decide on whichever format you are happy with,
+
+381
+00:27:03,920 --> 00:27:08,319
+you would then need to combine it into a final report because you need to finalize, hey,
+
+382
+00:27:08,319 --> 00:27:12,799
+which is the version that I want to export and which is the version I want to consider as the
+
+383
+00:27:12,799 --> 00:27:17,759
+current one because you'd be sharing it with other people with your other teams. For example,
+
+384
+00:27:17,759 --> 00:27:25,920
+say I'm working in Akshata Steve, I'm the primary author for this document and I assign it to Akshata
+
+385
+00:27:25,920 --> 00:27:32,960
+or maybe to you as well for final review. So what we have done right now is we are not allowing the
+
+386
+00:27:33,039 --> 00:27:39,200
+reviewers to rephrase it or regenerate this section. They're only allowing the medical records.
+
+387
+00:27:40,480 --> 00:27:45,039
+Yeah, so this is one hard limit that we have put out. It can of course be customized as per your
+
+388
+00:27:45,039 --> 00:27:50,159
+requirement. You might be looking at say, I want to allow myself and Akshata do also be able to
+
+389
+00:27:50,159 --> 00:27:56,880
+make that change. You can do that via individual level. We have done that with localities so that
+
+390
+00:27:57,599 --> 00:28:04,159
+it might be your platform and you might want to have it that way. So you can do that but it will
+
+391
+00:28:04,159 --> 00:28:13,279
+always log it up. So who made change and who made what change? Okay. And then you combine it into
+
+392
+00:28:13,279 --> 00:28:19,119
+a final report and you can export it as PDA for you can export it as Word. Okay. These are the two
+
+393
+00:28:19,119 --> 00:28:24,720
+formats we are looking at. If you're looking at other formats as well, for example, I remember
+
+394
+00:28:24,720 --> 00:28:30,960
+there was one format that was pretty popular. I'm not able to recall it off the top of my head.
+
+395
+00:28:31,680 --> 00:28:38,240
+That came through. Not for CSR but for protocols. I would be looking at the USDM data set in
+
+396
+00:28:38,240 --> 00:28:46,639
+JSON file format. Got it. JSON format file would be just one click away. So that's not the major
+
+397
+00:28:46,639 --> 00:28:54,639
+issue. I'll have to look up for the other format. All right. If I, so let's go one step back. No,
+
+398
+00:28:54,639 --> 00:29:00,319
+we are not in a review. I'm writing it. I'm the medical writer. I have hit the button. I've seen
+
+399
+00:29:00,319 --> 00:29:07,519
+the first AI generated draft and I'm not happy with one particular section. Does your tool have
+
+400
+00:29:07,519 --> 00:29:14,240
+like sort of a canvas section where I say, okay, I just want to focus on this paragraph or do I
+
+401
+00:29:14,240 --> 00:29:26,559
+need to rerun the entire section and how would I make sure? I need more or more or less text on
+
+402
+00:29:26,559 --> 00:29:31,840
+particular adverse events or, hey, this demographic section is too is too verty. Please
+
+403
+00:29:33,360 --> 00:29:41,039
+de-summarize or streamline or apply lean writing. How could I do that? So the canvas section that
+
+404
+00:29:41,119 --> 00:29:48,240
+you mentioned, hey, I can remove the entire section over here or I can add content that I want to
+
+405
+00:29:48,240 --> 00:29:59,759
+add over here. Let it be. I'll go back into view mode and you mentioned that you're looking at maybe,
+
+406
+00:29:59,759 --> 00:30:01,759
+say,
+
+407
+00:30:00,000 --> 00:30:04,079
+you want to make some change too?
+
+408
+00:30:04,079 --> 00:30:07,960
+I said under study, patience,
+
+409
+00:30:07,960 --> 00:30:09,279
+any section.
+
+410
+00:30:09,279 --> 00:30:12,920
+It's just pick any section with a lot of text.
+
+411
+00:30:23,000 --> 00:30:29,480
+This is to know can we have a shorter version?
+
+412
+00:30:30,440 --> 00:30:32,440
+I just do that.
+
+413
+00:30:32,440 --> 00:30:36,200
+I click on enter,
+
+414
+00:30:36,200 --> 00:30:40,079
+and then I'll allow it for region red section.
+
+415
+00:30:40,079 --> 00:30:42,599
+As soon as you click on that,
+
+416
+00:30:42,599 --> 00:30:44,680
+it will create another version.
+
+417
+00:30:44,680 --> 00:30:49,720
+But only the marked or the highlighted piece.
+
+418
+00:30:49,720 --> 00:30:52,839
+Because I specifically selected that.
+
+419
+00:30:52,839 --> 00:30:55,319
+Okay. That's good.
+
+420
+00:30:55,319 --> 00:30:57,440
+It depends on my purview.
+
+421
+00:30:57,440 --> 00:30:59,519
+Which one do I really want to make changes to?
+
+422
+00:30:59,519 --> 00:31:01,680
+Then I'll click on region red section.
+
+423
+00:31:01,680 --> 00:31:02,839
+It'll take some time.
+
+424
+00:31:02,839 --> 00:31:06,200
+What it'll do is it'll present both versions to you on left and right.
+
+425
+00:31:06,200 --> 00:31:06,519
+Okay.
+
+426
+00:31:06,519 --> 00:31:07,559
+Allow you to make,
+
+427
+00:31:07,559 --> 00:31:09,640
+hey, this was the earlier version.
+
+428
+00:31:09,640 --> 00:31:10,880
+This is the new version.
+
+429
+00:31:10,880 --> 00:31:12,039
+Are you happy with this?
+
+430
+00:31:12,039 --> 00:31:13,079
+You give the go-ahead,
+
+431
+00:31:13,079 --> 00:31:14,440
+I'll save that.
+
+432
+00:31:14,440 --> 00:31:16,559
+Okay. That's good.
+
+433
+00:31:16,559 --> 00:31:18,880
+It's completely open prompts.
+
+434
+00:31:18,880 --> 00:31:21,960
+You don't have any hidden buttons,
+
+435
+00:31:22,039 --> 00:31:27,920
+like more elaborate or lean style or whatever.
+
+436
+00:31:27,920 --> 00:31:33,680
+Most frequent prompts that you could hide behind buttons,
+
+437
+00:31:33,680 --> 00:31:36,240
+so the medical writer only needs to click.
+
+438
+00:31:36,240 --> 00:31:39,880
+Sabrina, the aim that we went forward with was,
+
+439
+00:31:39,880 --> 00:31:43,599
+we'll ensure that the entire platform is written,
+
+440
+00:31:43,599 --> 00:31:47,160
+or the entire CSR or whatever that we work on with you,
+
+441
+00:31:47,160 --> 00:31:48,839
+is customized for your requirements.
+
+442
+00:31:48,839 --> 00:31:52,440
+For example, you as a team are focused on lean medical writing,
+
+443
+00:31:52,440 --> 00:31:56,119
+or you follow the lean medical writing process,
+
+444
+00:31:56,119 --> 00:31:58,920
+and you do not want multiple references to come,
+
+445
+00:31:58,920 --> 00:32:02,559
+or you want a single reference to wherever,
+
+446
+00:32:02,559 --> 00:32:05,519
+hey, this information has been referenced in this particular section.
+
+447
+00:32:05,519 --> 00:32:08,640
+This is a level of customization that we will
+
+448
+00:32:08,640 --> 00:32:11,039
+take into the process from day one.
+
+449
+00:32:11,039 --> 00:32:15,039
+This is something that you never even have to go back and refer back to.
+
+450
+00:32:15,039 --> 00:32:18,680
+If I have to ask you to do it again and again and again,
+
+451
+00:32:18,680 --> 00:32:20,480
+that means that I've already failed,
+
+452
+00:32:20,480 --> 00:32:24,240
+because I'm looking for you to make too many changes.
+
+453
+00:32:24,240 --> 00:32:27,279
+That is not a task that you should be required to do.
+
+454
+00:32:27,279 --> 00:32:29,519
+You should not have to play around with prompts.
+
+455
+00:32:29,519 --> 00:32:30,839
+That is what I mentioned earlier.
+
+456
+00:32:30,839 --> 00:32:32,599
+You should not have to play around with prompts.
+
+457
+00:32:32,599 --> 00:32:35,440
+I should be providing you with a complete package
+
+458
+00:32:35,440 --> 00:32:39,200
+that should deliver on the promises that I'm making right now.
+
+459
+00:32:39,200 --> 00:32:42,519
+Sounds good. I have spoken to a lot of vendors,
+
+460
+00:32:42,519 --> 00:32:47,200
+and the most funny suggestion was that we should keep
+
+461
+00:32:47,200 --> 00:32:49,400
+the prompt library in an Excel spreadsheet,
+
+462
+00:32:49,400 --> 00:32:51,400
+and we always copy from.
+
+463
+00:32:51,400 --> 00:32:54,639
+No. That should be a button.
+
+464
+00:32:54,639 --> 00:32:57,079
+Honestly speaking, I'm not a good AI.
+
+465
+00:32:57,079 --> 00:32:58,799
+I'm not a very good AI engineer.
+
+466
+00:32:58,799 --> 00:33:02,440
+I cannot compare against the people who have been developing
+
+467
+00:33:02,440 --> 00:33:06,039
+RAG in my organization for the last seven, eight years.
+
+468
+00:33:06,039 --> 00:33:08,720
+I would not stand a chance against them.
+
+469
+00:33:08,720 --> 00:33:11,480
+If I'm looking to write a prompt as well,
+
+470
+00:33:11,480 --> 00:33:16,079
+I might be, say, 50% good or maybe 70% good,
+
+471
+00:33:16,079 --> 00:33:18,319
+but it will never be as good as this.
+
+472
+00:33:18,319 --> 00:33:22,200
+So I would generally like to, hey, do the work for me.
+
+473
+00:33:22,200 --> 00:33:25,240
+Let me review the content that I'm required to do.
+
+474
+00:33:25,240 --> 00:33:26,960
+I should not have to do that work.
+
+475
+00:33:26,960 --> 00:33:29,400
+That is the problem statement that I have thrown to them.
+
+476
+00:33:29,400 --> 00:33:30,720
+I don't want to do this.
+
+477
+00:33:30,720 --> 00:33:31,839
+That's not my responsibility.
+
+478
+00:33:31,839 --> 00:33:32,839
+That's your responsibility.
+
+479
+00:33:32,839 --> 00:33:33,839
+Get it done.
+
+480
+00:33:33,839 --> 00:33:37,440
+Get it in the format, in the way that I put.
+
+481
+00:33:37,440 --> 00:33:39,640
+That is the objective that I have thrown to them.
+
+482
+00:33:39,640 --> 00:33:42,319
+So that you can throw that back on me that,
+
+483
+00:33:42,319 --> 00:33:44,400
+hey, why do you not have prompts?
+
+484
+00:33:44,400 --> 00:33:48,079
+I just believe that you should be allowed to review the content.
+
+485
+00:33:48,079 --> 00:33:50,319
+And that is something that you should be able to focus on.
+
+486
+00:33:50,319 --> 00:33:53,559
+Focus on your energies on.
+
+487
+00:33:53,559 --> 00:33:54,880
+That's good.
+
+488
+00:33:54,880 --> 00:33:56,480
+Yeah.
+
+489
+00:33:56,480 --> 00:33:58,360
+All right.
+
+490
+00:33:58,360 --> 00:34:06,000
+So this is what the platform currently looks like, your thoughts.
+
+491
+00:34:06,000 --> 00:34:14,800
+I will take it forward to our e-trial design board.
+
+492
+00:34:14,800 --> 00:34:21,279
+We will be starting off with a new CSR project beginning of next year.
+
+493
+00:34:21,279 --> 00:34:25,679
+And we have mapped out a catalog for an RFP.
+
+494
+00:34:25,679 --> 00:34:33,639
+And if we get the green light to go ahead with that, I'll bring your tool forward.
+
+495
+00:34:33,639 --> 00:34:38,639
+And it will undergo a review by our IT people first.
+
+496
+00:34:38,639 --> 00:34:46,320
+See if the tool would be ticking the boxes, like the heart or the kill criteria from IT
+
+497
+00:34:46,320 --> 00:34:48,519
+side.
+
+498
+00:34:48,519 --> 00:34:54,239
+Because if IT is not happy, you may have the most fantastic tool, but it will never be
+
+499
+00:34:54,239 --> 00:34:57,199
+behind our firewall.
+
+500
+00:34:57,199 --> 00:35:03,400
+And once you have passed that check, you would get a questionnaire for an RFP.
+
+501
+00:35:03,400 --> 00:35:08,559
+And then we would evaluate that tool in the broader forum.
+
+502
+00:35:08,559 --> 00:35:10,000
+Got it.
+
+503
+00:35:10,000 --> 00:35:17,239
+Sabina, if one thing if I may, I have presented this solution or this accelerator to you.
+
+504
+00:35:17,239 --> 00:35:21,960
+I can make a lot of promises about, hey, this is what can be done.
+
+505
+00:35:21,960 --> 00:35:23,960
+This is what can be done.
+
+506
+00:35:23,960 --> 00:35:29,960
+What I've seen is with my previous conversation as well, what I saw was unless and until you
+
+507
+00:35:29,960 --> 00:35:34,679
+actually start working on it, you see what really is possible or what it is capable of,
+
+508
+00:35:34,679 --> 00:35:38,639
+you would not take my word for it to be more frank about it.
+
+509
+00:35:38,639 --> 00:35:39,639
+Absolutely.
+
+510
+00:35:39,639 --> 00:35:40,639
+Yeah.
+
+511
+00:35:40,639 --> 00:35:45,840
+So what we came out with was if any of the partners we are working with is willing to
+
+512
+00:35:45,840 --> 00:35:51,920
+do so, we're willing to provide you with one particular user and allow you to generate
+
+513
+00:35:51,920 --> 00:35:54,679
+one CSR.
+
+514
+00:35:54,679 --> 00:35:59,840
+And we will let you know, hey, if you're looking at, you can get access for one week.
+
+515
+00:35:59,840 --> 00:36:05,360
+You will have one opportunity to create one CSR from end to end.
+
+516
+00:36:05,360 --> 00:36:07,840
+That is something that I'll bear up on my cost.
+
+517
+00:36:07,840 --> 00:36:10,440
+You let me know what is the preferred time slot for you.
+
+518
+00:36:10,440 --> 00:36:14,119
+So we are looking at a four-hour time slot over a one-week period.
+
+519
+00:36:14,119 --> 00:36:21,599
+So we are looking at about 20 hours for throwing all of the files in, getting all of this.
+
+520
+00:36:21,599 --> 00:36:24,480
+So the content generation will happen within one and a half hour.
+
+521
+00:36:24,480 --> 00:36:29,239
+Just that you have roughly about 19 hours or so to review the entire content that has
+
+522
+00:36:29,239 --> 00:36:30,239
+been generated.
+
+523
+00:36:30,239 --> 00:36:31,840
+So we are willing to provide that.
+
+524
+00:36:31,840 --> 00:36:37,360
+Would that be something that you or your team would be interested in?
+
+525
+00:36:37,360 --> 00:36:38,360
+Yes.
+
+526
+00:36:38,360 --> 00:36:45,760
+After we have passed the first IIT check, because that would also require resources and...
+
+527
+00:36:45,760 --> 00:36:46,760
+Got it.
+
+528
+00:36:46,760 --> 00:36:47,760
+Yeah.
+
+529
+00:36:47,760 --> 00:36:48,760
+All right.
+
+530
+00:36:49,760 --> 00:36:55,440
+I will put your name on the list.
+
+531
+00:36:55,440 --> 00:36:59,760
+IIT will immediately check that.
+
+532
+00:36:59,760 --> 00:37:05,480
+We are now collecting the names of potential tools that could go into the RFP.
+
+533
+00:37:05,480 --> 00:37:08,039
+And IIT will run their first check.
+
+534
+00:37:08,039 --> 00:37:14,960
+And then in the end of January, we should know more who would be on the shortlist.
+
+535
+00:37:14,960 --> 00:37:17,320
+And then we can talk again.
+
+536
+00:37:17,320 --> 00:37:18,320
+Got it.
+
+537
+00:37:18,880 --> 00:37:23,800
+Now I was talking about before we actually go forward with any RFP submission or before
+
+538
+00:37:23,800 --> 00:37:25,279
+we go forward with any evaluation.
+
+539
+00:37:25,279 --> 00:37:26,279
+Yeah.
+
+540
+00:37:26,279 --> 00:37:27,279
+That doesn't work.
+
+541
+00:37:27,279 --> 00:37:32,039
+I would not be allowed to share any document or upload anything into the environment.
+
+542
+00:37:32,039 --> 00:37:36,559
+We wouldn't have to sign some paperwork.
+
+543
+00:37:36,559 --> 00:37:40,199
+We can go forward with a CDA if you want or if you are willing to go forward.
+
+544
+00:37:40,199 --> 00:37:45,000
+Or if you have previously available documents with you, you can throw that in and see how
+
+545
+00:37:45,000 --> 00:37:46,000
+it operates.
+
+546
+00:37:46,000 --> 00:37:47,000
+Okay.
+
+547
+00:37:48,000 --> 00:37:50,000
+I bring it to the signed water.
+
+548
+00:37:50,000 --> 00:37:51,000
+Yeah.
+
+549
+00:37:51,000 --> 00:37:52,000
+Absolutely.
+
+550
+00:37:52,000 --> 00:37:58,239
+If you think that is relevant enough or if you think that sounds good, because what
+
+551
+00:37:58,239 --> 00:38:03,279
+will happen is once you have the CDA in place, then you can obviously try it out.
+
+552
+00:38:03,279 --> 00:38:06,599
+If you do not want to go forward with the CDA, the other option that I can think of
+
+553
+00:38:06,599 --> 00:38:09,159
+is any...
+
+554
+00:38:09,159 --> 00:38:12,039
+So you have been in this particular business, line of business for quite some time.
+
+555
+00:38:12,039 --> 00:38:15,880
+You understand about which documents are available and which documents are not available.
+
+556
+00:38:15,880 --> 00:38:18,199
+What sort of content can be generated.
+
+557
+00:38:18,199 --> 00:38:24,559
+You can generate dummy CSR for checking out what is possible and reviewing it and getting
+
+558
+00:38:24,559 --> 00:38:26,039
+to know the functionalities.
+
+559
+00:38:26,039 --> 00:38:27,039
+Yeah.
+
+560
+00:38:27,039 --> 00:38:28,039
+Absolutely.
+
+561
+00:38:28,039 --> 00:38:29,039
+Yeah.
+
+562
+00:38:29,039 --> 00:38:30,039
+Okay.
+
+563
+00:38:30,039 --> 00:38:31,039
+Good.
+
+564
+00:38:31,039 --> 00:38:35,880
+So this was the thing that I want to talk to you about and why we had been requesting
+
+565
+00:38:35,880 --> 00:38:38,039
+for a couple of minutes of your time.
+
+566
+00:38:38,039 --> 00:38:39,039
+Yeah.
+
+567
+00:38:39,039 --> 00:38:40,039
+Hope we made it worthwhile.
+
+568
+00:38:40,039 --> 00:38:41,039
+Hope we made it worthwhile.
+
+569
+00:38:41,039 --> 00:38:44,960
+I just want to be sure that, hey, it was worthwhile.
+
+570
+00:38:44,960 --> 00:38:51,320
+I did not spend for 30 minutes or so for something that was not relevant.
+
+571
+00:38:51,320 --> 00:38:53,320
+I just hope everything was...
+
+572
+00:38:53,320 --> 00:38:54,320
+It was relevant.
+
+573
+00:38:54,320 --> 00:38:57,920
+And as I said, the timeline would be...
+
+574
+00:38:57,920 --> 00:38:59,079
+We're starting next year.
+
+575
+00:38:59,079 --> 00:39:05,960
+We've centralized all the AI activities around the clinical trial and that's why we have
+
+576
+00:39:05,960 --> 00:39:10,760
+a design board now, which also involves operations and bio-studs.
+
+577
+00:39:10,760 --> 00:39:11,880
+So we are...
+
+578
+00:39:11,880 --> 00:39:17,800
+Not every department is working with their own vendors and we are trying to centralize
+
+579
+00:39:17,800 --> 00:39:24,119
+everything a little more because otherwise we are just burning resources and token and...
+
+580
+00:39:24,119 --> 00:39:25,119
+Yeah.
+
+581
+00:39:25,119 --> 00:39:28,559
+Well, I've seen token customization jump through the roof.
+
+582
+00:39:28,559 --> 00:39:29,559
+Yeah.
+
+583
+00:39:29,559 --> 00:39:35,559
+Customer I talked to last week was like, hey, I've given clot to every one of my employees
+
+584
+00:39:35,559 --> 00:39:42,000
+and they have burned through my budget for the entire quarter within, say, two weeks or
+
+585
+00:39:42,000 --> 00:39:43,000
+so.
+
+586
+00:39:43,000 --> 00:39:44,000
+Exactly.
+
+587
+00:39:44,000 --> 00:39:45,000
+Yeah.
+
+588
+00:39:45,000 --> 00:39:51,440
+They're also changing the framework here now and they will allocate the token per function
+
+589
+00:39:51,440 --> 00:39:53,679
+and it will go to our cost center.
+
+590
+00:39:53,679 --> 00:39:58,239
+So we need to take account of that as well.
+
+591
+00:39:58,239 --> 00:39:59,239
+Well...
+
+592
+00:40:00,000 --> 00:40:03,400
+So what we did was we just put in a governance engine.
+
+593
+00:40:03,400 --> 00:40:08,400
+So what that does is it tracks up your query utilization.
+
+594
+00:40:08,760 --> 00:40:10,639
+Hey, what was the most frequent queries?
+
+595
+00:40:10,639 --> 00:40:13,159
+How much of a utilization every person is doing?
+
+596
+00:40:13,159 --> 00:40:16,119
+So we had built up an entire governance architecture
+
+597
+00:40:16,119 --> 00:40:17,920
+internally for that.
+
+598
+00:40:17,920 --> 00:40:18,760
+Yeah.
+
+599
+00:40:18,760 --> 00:40:21,519
+Cause we just went through too many grids.
+
+600
+00:40:21,519 --> 00:40:22,360
+Yeah.
+
+601
+00:40:22,360 --> 00:40:23,199
+Yeah.
+
+602
+00:40:25,460 --> 00:40:27,639
+Okay. Well, and thank you very much
+
+603
+00:40:27,639 --> 00:40:29,159
+for the presentation Pratham.
+
+604
+00:40:29,159 --> 00:40:30,000
+Thank you.
+
+605
+00:40:30,840 --> 00:40:32,639
+Thanks for joining us.
+
+606
+00:40:32,639 --> 00:40:35,119
+Do let us know how the next steps shape out.
+
+607
+00:40:35,119 --> 00:40:39,559
+And if you think we would be relevant for the RFP,
+
+608
+00:40:39,559 --> 00:40:40,559
+do let us know.
+
+609
+00:40:40,559 --> 00:40:43,039
+And we're happy to participate in that.
+
+610
+00:40:43,039 --> 00:40:43,880
+Exactly.
+
+611
+00:40:43,880 --> 00:40:45,039
+That's how we proceed.
+
+612
+00:40:45,039 --> 00:40:46,400
+Thank you so much.
+
+613
+00:40:46,400 --> 00:40:47,239
+Thank you.
+
+614
+00:40:48,199 --> 00:40:49,159
+Bye.
+
+615
+00:40:49,159 --> 00:40:50,000
+Bye-bye.
+
+616
+00:40:50,000 --> 00:40:51,719
+Have a sunny week ahead.
+
+617
+00:40:52,800 --> 00:40:53,639
+Thank you.
+
+618
+00:40:53,639 --> 00:40:54,480
+Same to you.
+
+619
+00:40:54,480 --> 00:40:55,320
+Bye.
+
+620
+00:40:55,320 --> 00:40:56,159
+Bye-bye.
+
